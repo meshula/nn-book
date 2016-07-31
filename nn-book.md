@@ -1,28 +1,56 @@
 
 AN INTRODUCTION TO NEUROSCIENCE AND NEURAL NETWORKS
----------------------------------------------------
+===================================================
+
+by Nick Porcino 
+---------------
+copyright 1990-2016, all rights reserved
+
+Introduction 2016
+-----------------
+
+I originally wrote this book in 1990, during my undergraduate years working on
+neural controllers for robotics. I went on to other things, and didn't publish
+the work as interest in neural networks stagnated, and went into a long
+doldrums.
+
+Recent advances in large scale computation have made the old algorithms
+practical and under new guises such as Deep Learning, neural techniques are
+enjoying a might Rennaisance. The state of the art however, is in many ways
+similar to what it was decades ago, with the exception that algorithms that
+could then only be run slowly on toy data sets can now run at scale on massive
+datasets.
+
+This book explores foundational concepts in both computer science and biology as
+relevant now as then, and I present it now both as a look through an antique
+window at the way things were, and as an exploration of possibilities neglected
+but likely now very timely.
+
+- the author, 2016
+
+
 
 INSERT QUOTE HERE
 - from Frankenstein by Mary Shelley
 
 We are the inheritors of the Frankenstein myth, pressing beyond AI, towards the
 synthetic a priori. Computers and robots: programs and expert systems aren't
-enough.  After forty years of AI, it seems the procedural-declarative if you
-can describe it, you can program it dictum of von Neumann is insufficient to let
-us create intelligence. The problems so easy for us, and so difficult for a
+enough.  After forty years of AI, it seems the procedural-declarative if you can
+describe it, you can program it dictum of von Neumann is insufficient to let us
+create intelligence. The problems so easy for us, and so difficult for a
 computer - perceiving speech, recognizing shapes - are not necessarily
 describable in precise a implies b language. On the other hand, the neural
 processes underlying talking and moving and blinking and hearing, and the
 interactions of the neural processes, are conceivably describable (even if only
 probabilistically). And, if the underlying processes are describable in precise
-enough language, we can simulate them on our machines. And so, let's seize
-the gauntlet hurled in the face of Nature - the Medieval alchemist's homunculus,
-the Golem, Shelley's Frankenstein, modern computers, robotics. Let's truck with
+enough language, we can simulate them on our machines. And so, let's seize the
+gauntlet hurled in the face of Nature - the Medieval alchemist's homunculus, the
+Golem, Shelley's Frankenstein, modern computers, robotics. Let's truck with
 Devils, and build ourselves a Brain.
 
 This book presents an overview of how the nervous system does its processing -
-the retina and vision, the cochlea and hearing, and so on. It describes the
-work of many researchers: the historical work that led to our present day
+the retina and vision, the cochlea and hearing, and so on. It describes the work
+of many researchers: the historical work that led to our present day
 understanding of neural networks, and modern neuron and neural network models.
 It describes the results of a few experiments and explains how to do them, and
 it presents a few observations and hypotheses just for the fun of it.
@@ -34,20 +62,20 @@ interests, and consequently, the tone of this book.
 
 In 1987, the field was still young. Neural nets were being hyped in a way
 reminiscent of the Perceptron excitement of the 1960's, only this time people
-were claiming breakthroughs that went beyond the problems which had almost killed
-neural net research twenty years earlier. In 1987, there had been few major
-conferences on neural networks, and there weren't all that many researchers.
-The reference works were research papers sprinkled through a variety of
-academic and trade journals and a few textbooks, and certain common themes were
-just beginning to emerge.
+were claiming breakthroughs that went beyond the problems which had almost
+killed neural net research twenty years earlier. In 1987, there had been few
+major conferences on neural networks, and there weren't all that many
+researchers. The reference works were research papers sprinkled through a
+variety of academic and trade journals and a few textbooks, and certain common
+themes were just beginning to emerge.
 
-The trouble was, I couldn't find an introduction that gave a broad,
-multi-sided view - a view detailing physiology and computation and evolution and
-all the little details that when taken as a whole give a view as to how the brain
-does its processing in relation to how brain-like processing could be implemented
-on a machine. I wanted a do-it-yourselfer's guide, and particularly one that
-gave an overview with cross-disciplinary peeks, instead of a tunnel-vision look at
-a single paradigm or set of ideas.
+The trouble was, I couldn't find an introduction that gave a broad, multi-sided
+view - a view detailing physiology and computation and evolution and all the
+little details that when taken as a whole give a view as to how the brain does
+its processing in relation to how brain-like processing could be implemented on
+a machine. I wanted a do-it-yourselfer's guide, and particularly one that gave
+an overview with cross-disciplinary peeks, instead of a tunnel-vision look at a
+single paradigm or set of ideas.
 
 Everyone has a different tack, a different focus; yet, certain common themes
 appear over and over again - the physical distribution of memory and behaviour
@@ -55,16 +83,18 @@ through the brain, self organization, the minimization of energy, principles of
 lateral inhibition and information focussing.
 
 It began as a hobby - reading through a mountain of papers and texts, trying to
-grasp the common thread - but as I began collating and sifting, my notes gradually
-began to look less like a random collection of thoughts from here and there, and
-more and more like a book.
+grasp the common thread - but as I began collating and sifting, my notes
+gradually began to look less like a random collection of thoughts from here and
+there, and more and more like a book.
 
-I hope I have tied the many threads together in a coherent fashion, and that this
-book will provide both an easy start into the field of neural networks, and a
-useful reference work later.
+I hope I have tied the many threads together in a coherent fashion, and that
+this book will provide both an easy start into the field of neural networks, and
+a useful reference work later.
+
 
 Build a scaffold, flesh it out, discard what no longer fits - a theory emerges.
 - paraphrasing Marvin Minsky (1987)
+
 
 Stephen Grossberg (1980) suggests that researchers "respect the wisdom of
 evolution by trying to imitate it." When the environment shapes the theory,
@@ -94,98 +124,101 @@ DIAGRAM NEURON
 
 Neurons are the basic processing elements of any nervous system. Input arrives
 at the neuron through the synapses which are located all over the cell, and the
-principal output is from the axon. From the axon through subsequent synapses,
-a single neuron can affect a great many others. There are so many connections
-going in and out of every neuron (anywhere from 100 to 100,000), that some theorists
-suggest that no neuron is ever more than four neurons away from any other.
+principal output is from the axon. From the axon through subsequent synapses, a
+single neuron can affect a great many others. There are so many connections
+going in and out of every neuron (anywhere from 100 to 100,000), that some
+theorists suggest that no neuron is ever more than four neurons away from any
+other.
 
 This diagram shows the activity of a neuron over time, in terms of electrical
-potential. A neuron carries a small electrical potential, caused by the difference
-of ion concentrations inside and outside the cell. This potential is maintained
-and controlled by ion channels which pump molecules such as Sodium and Potassium
-across the cell membrane.
+potential. A neuron carries a small electrical potential, caused by the
+difference of ion concentrations inside and outside the cell. This potential is
+maintained and controlled by ion channels which pump molecules such as Sodium
+and Potassium across the cell membrane.
 
 The fluid that surrounds neurons is filtered blood. The neuron's soma (body)
-takes glucose from the surrounding fluid and synthesizes adenosine triphosphate (ATP).
-ATP is the fuel which drives the ion pumps and all the cell's activity.
+takes glucose from the surrounding fluid and synthesizes adenosine triphosphate
+(ATP). ATP is the fuel which drives the ion pumps and all the cell's activity.
 
 Signals from other neurons are transmitted via the synapses. Neurotransmitters
 are released at the synapses and taken up by the dendrites of other cells. As
-neurotransmitters are released and received, the potential within the soma changes.
-As signals arrive at the neuron, and through the regular functioning of the cell, the
-potential inside the cell body builds up until finally the cell will fire, propagating a
-spike down the axon, guided by the opening and closing of ion channels within the
-axon. This propagating spike is called the neuron's action potential.
-The cell's internal potential then falls below the resting level, and the neuron
-undergoes a refractory period when it is inhibited from firing again. The action
-potential is an all-or-none signal, and can thus be considered digital. The
-outputs of interneurons are analog or graded, because interneurons often have no
-axons, having output synapses on the dendrites instead.
+neurotransmitters are released and received, the potential within the soma
+changes. As signals arrive at the neuron, and through the regular functioning of
+the cell, the potential inside the cell body builds up until finally the cell
+will fire, propagating a spike down the axon, guided by the opening and closing
+of ion channels within the axon. This propagating spike is called the neuron's
+action potential. The cell's internal potential then falls below the resting
+level, and the neuron undergoes a refractory period when it is inhibited from
+firing again. The action potential is an all-or-none signal, and can thus be
+considered digital. The outputs of interneurons are analog or graded, because
+interneurons often have no axons, having output synapses on the dendrites
+instead.
 
 
 NEURON                 INTERNEURON
 
-Because each arriving signal at a neuron tends to increase or decrease the 
-likelihood of that neuron firing, a neuron is generally considered to perform some
-sort of weighted summation of signals arriving at the synapses, and to produce an 
-all-or-none response, the action potential, at the junction of the cell body and 
-the axon when that sum crosses some particular threshold. This vastly simplified 
-view of the neuron is the basis of most models today. It describes everything from 
-Threshold Logic Units which were the precursors of modern digital electronics, to 
-Adaptive Filters which permeate every aspect of the communications industry. High 
-speed digital modems, for example, use an adaptive filter to achieve speeds that 
-wouldn't be otherwise possible due to noise and distortion that are always present 
-on telephone lines.
+Because each arriving signal at a neuron tends to increase or decrease the
+likelihood of that neuron firing, a neuron is generally considered to perform
+some sort of weighted summation of signals arriving at the synapses, and to
+produce an  all-or-none response, the action potential, at the junction of the
+cell body and  the axon when that sum crosses some particular threshold. This
+vastly simplified  view of the neuron is the basis of most models today. It
+describes everything from  Threshold Logic Units which were the precursors of
+modern digital electronics, to  Adaptive Filters which permeate every aspect of
+the communications industry. High  speed digital modems, for example, use an
+adaptive filter to achieve speeds that  wouldn't be otherwise possible due to
+noise and distortion that are always present  on telephone lines.
 
-In comparison to these models, real neurons are frighteningly complex. The usual 
-model of the neuron assumes all input arrives via the synapses on the dendrite 
-tree, but a real neuron has synaptic inputs everywhere: on the dendrites, on the 
-cell body, and on the axon. Sometimes synapses form connections onto other 
-synapses. Every synapse makes some contribution to the performance of the neuron.
+In comparison to these models, real neurons are frighteningly complex. The usual
+model of the neuron assumes all input arrives via the synapses on the dendrite
+tree, but a real neuron has synaptic inputs everywhere: on the dendrites, on the
+cell body, and on the axon. Sometimes synapses form connections onto other
+synapses. Every synapse makes some contribution to the performance of the
+neuron.
 
-Models usually assume very simple synapses; they are either excitatory (predisposing 
-a neuron to fire) or inhibitory (discouraging it). Sometimes a model will have 
-two different types of synapses, one for each behavior. In reality, synapses do 
-tend to be either excitatory or inhibitory, but a great many variations exist. 
-Recent research suggests that synapses can change their character rapidly over the 
-course of time, being predominantly excitatory or predominantly inhibitory, but 
-capable of switching to the other mode at any time. (cf. von der Marlsburg's 
-transient cell assemblies.)
+Models usually assume very simple synapses; they are either excitatory
+(predisposing  a neuron to fire) or inhibitory (discouraging it). Sometimes a
+model will have  two different types of synapses, one for each behavior. In
+reality, synapses do  tend to be either excitatory or inhibitory, but a great
+many variations exist.  Recent research suggests that synapses can change their
+character rapidly over the  course of time, being predominantly excitatory or
+predominantly inhibitory, but  capable of switching to the other mode at any
+time. (cf. von der Marlsburg's  transient cell assemblies.)
 
-Communication between neurons is principally electrical. The axon is like a wire 
-conducting impulses, and in many places, the axons are organized in parallel 
-bundles. Naturally, current flowing through a conductor evokes an electromagnetic 
-field, and the neurons in that field will be affected by it. If many axons are 
-bundled together, it is natural that their fields would interact, perhaps 
-causing the axons to share similar behaviour. This is called cellular field 
-coupling. Other significant field effects are provided by hormones, the 
-availability of neuro-modulators, and so on.
+Communication between neurons is principally electrical. The axon is like a wire
+conducting impulses, and in many places, the axons are organized in parallel
+bundles. Naturally, current flowing through a conductor evokes an
+electromagnetic  field, and the neurons in that field will be affected by it. If
+many axons are  bundled together, it is natural that their fields would
+interact, perhaps  causing the axons to share similar behaviour. This is called
+cellular field  coupling. Other significant field effects are provided by
+hormones, the  availability of neuro-modulators, and so on.
 
-Further complicating attempts at modeling neuronal systems is the matter of 
+Further complicating attempts at modeling neuronal systems is the matter of
 cell type diversity. Here is a small sampling:
 
 Basket Cells
 
 DIAGRAM BASKET CELL
 
-Named for its shape, the basket cell tends to inhibit or veto a great number of 
-neighbouring cells. This function could conceivably help to organize the brain 
-into functional columns. Columnar organizations play important roles in most sensory 
-processing. In the cerebellum, basket cells generally synapse with a half dozen 
-Purkinje cells.
+Named for its shape, the basket cell tends to inhibit or veto a great number of
+neighbouring cells. This function could conceivably help to organize the brain
+into functional columns. Columnar organizations play important roles in most
+sensory  processing. In the cerebellum, basket cells generally synapse with a
+half dozen  Purkinje cells.
 
 Purkinje Cells
 
 DIAGRAM
 
-Purkinje cells are the only cells whose axons leave the cerebellum, and are 
-therefore the only way the cerebellum has of influencing other brain structures. 
-The Purkinje cell axons terminate in the deep cerebellar nuclei which lie under 
-the cortex. Because the Purkinje cells are GABAergic, and therefore inhibitory, 
-the cerebellum can only exert an inhibitory influence on other parts of the 
-brain (Gottlieb, 1988). The principle of controlling behaviour through inhibitory 
-influence is a common one in Nature; as an example, the insect brain influences 
-various ganglia mainly through inhibition (see Chapter 9).
+Purkinje cells are the only cells whose axons leave the cerebellum, and are
+therefore the only way the cerebellum has of influencing other brain structures.
+The Purkinje cell axons terminate in the deep cerebellar nuclei which lie under
+the cortex. Because the Purkinje cells are GABAergic, and therefore inhibitory,
+the cerebellum can only exert an inhibitory influence on other parts of the
+brain (Gottlieb, 1988). The principle of controlling behaviour through
+inhibitory  influence is a common one in Nature; as an example, the insect brain
+influences  various ganglia mainly through inhibition (see Chapter 9).
 
 Golgi Cells
 
@@ -195,20 +228,20 @@ Glial Cells
 
 DIAGRAM
 
-Glial means glue in Latin, and that points to the function of the glial cells. 
-Glial cells occupy the space surrounding other neurons; in fact, they comprise 
-up to half the mass of the brain. Depicted here are astrocytes, named for their 
-star shape. During ontogenesis, astrocytes serve as a scaffolding over which 
-neurons can migrate to their places during early nervous system development. 
+Glial means glue in Latin, and that points to the function of the glial cells.
+Glial cells occupy the space surrounding other neurons; in fact, they comprise
+up to half the mass of the brain. Depicted here are astrocytes, named for their
+star shape. During ontogenesis, astrocytes serve as a scaffolding over which
+neurons can migrate to their places during early nervous system development.
 Astrocytes are also involved in neurotransmitter metabolism.
 
-Glutamate (GLU), an excitatory neurotransmitter, and Gamma aminobutyric acid (GABA), 
-an inhibitory neurotransmitter, are released in the synaptic cleft when a signal 
-is transmitted, and then taken up by the astrocyte, converted to glutamine (GLN) 
-by glutamine synthetase (GS), and then returned to the neurons where it is used 
-to make new neurotransmitters. Ammonia (which is toxic) is consumed by this 
-process, and the toxicity of the brain is controlled. (diagram and description 
-adapted from Kimelberg and Norenberg, 1989)
+Glutamate (GLU), an excitatory neurotransmitter, and Gamma aminobutyric acid
+(GABA),  an inhibitory neurotransmitter, are released in the synaptic cleft when
+a signal  is transmitted, and then taken up by the astrocyte, converted to
+glutamine (GLN)  by glutamine synthetase (GS), and then returned to the neurons
+where it is used  to make new neurotransmitters. Ammonia (which is toxic) is
+consumed by this  process, and the toxicity of the brain is controlled. (diagram
+and description  adapted from Kimelberg and Norenberg, 1989)
 
 Motor Cells
 
@@ -218,11 +251,11 @@ Pyramid Cells
 
 DIAGRAM
 
-Pyramid cells are relatively large cells found in the cortex, named for their 
-shape. The axon of the pyramid cell extends from the neuron's apical surface and 
-branches out into a cone-like volume. The dendrites are extended as a sphere 
-around the neuron. Some eighty percent of the neurons in cortex are pyramid cells, 
-interconnected mostly by excitatory synapses (Braitenburg, 1990).
+Pyramid cells are relatively large cells found in the cortex, named for their
+shape. The axon of the pyramid cell extends from the neuron's apical surface and
+branches out into a cone-like volume. The dendrites are extended as a sphere
+around the neuron. Some eighty percent of the neurons in cortex are pyramid
+cells,  interconnected mostly by excitatory synapses (Braitenburg, 1990).
 
 Sensory Cells
 
@@ -244,249 +277,292 @@ Stellate cells are named for their star-like shape.
 THE NERVOUS SYSTEM
 ------------------
 
-The complexity of nervous systems run a gamut from the almost random arrangement 
-of the lowest animals to the highly organized nervous systems of the primates and 
-cetacea. It is a smooth gradation, one level of organization shades smoothly into 
-the next higher, and the capacity for learning and intelligence increases ever so 
-slightly at each step.
+The complexity of nervous systems run a gamut from the almost random arrangement
+of the lowest animals to the highly organized nervous systems of the primates
+and  cetacea. It is a smooth gradation, one level of organization shades
+smoothly into  the next higher, and the capacity for learning and intelligence
+increases ever so  slightly at each step.
 
 DIAGRAM THE VARIOUS NERVOUS SYSTEMS
 
-At the very lowest level are animals like sponges which don't have a nervous 
-network, but rather have neurons scattered randomly throughout the body. The 
-nervous system of the starfish has a simple ring organization, which is an order 
-of magnitude improvement over the sponge. There is no central control in the 
-starfish, but it is capable of much more complex behaviour.  Rodney Brooks’ 
-"subsumption architecture” demonstrates that useful and interesting behaviour can 
-emerge from a completely decentralized system (Brooks, 1989).
+At the very lowest level are animals like sponges which don't have a nervous
+network, but rather have neurons scattered randomly throughout the body. The
+nervous system of the starfish has a simple ring organization, which is an order
+of magnitude improvement over the sponge. There is no central control in the
+starfish, but it is capable of much more complex behaviour.  Rodney Brooks’
+"subsumption architecture” demonstrates that useful and interesting behaviour
+can  emerge from a completely decentralized system (Brooks, 1989).
 
-The next step is the ladder structure found in the protocordates. They have a 
-simple nerve cord studded with large ganglia (groups of cells).  Examples of 
-this class are the leeches and worms. There is a ganglia dedicated to the 
-control of each segment of the animal, and a thickening in the head of the animal 
-called the cerebral ganglia, which moderates the activity of the nerve cord through 
-selective inhibition.
+The next step is the ladder structure found in the protocordates. They have a
+simple nerve cord studded with large ganglia (groups of cells).  Examples of
+this class are the leeches and worms. There is a ganglia dedicated to the
+control of each segment of the animal, and a thickening in the head of the
+animal  called the cerebral ganglia, which moderates the activity of the nerve
+cord through  selective inhibition.
 
-The next step above the protocordate is the insect. As the structure of the insect 
-becomes more complex, the ganglia along the nerve cord migrate towards the head 
-of the insect, until a primitive brain is found in the most sophisticated insects. 
-The insect's brain is called the corpora pedunculata, or mushroom body. As an aside, 
-it is an interesting point that there is a direct correspondance between the level of 
-social behaviour of certain insects and brain size: in termites for example, the 
-most sophisticated termite hill architecture is produced by the species with the 
-smallest brains, and therefore the simplest individual behaviour. Building termite 
-hills is a parallel distributed process...
+The next step above the protocordate is the insect. As the structure of the
+insect  becomes more complex, the ganglia along the nerve cord migrate towards
+the head  of the insect, until a primitive brain is found in the most
+sophisticated insects.  The insect's brain is called the corpora pedunculata, or
+mushroom body. As an aside,  it is an interesting point that there is a direct
+correspondance between the level of  social behaviour of certain insects and
+brain size: in termites for example, the  most sophisticated termite hill
+architecture is produced by the species with the  smallest brains, and therefore
+the simplest individual behaviour. Building termite  hills is a parallel
+distributed process...
 
-The cephalopods - the squid, octopus, and so on - are the next level. The 
-cephalopod nervous system reaches its highest development in the octopus. Cephalopod 
-tentacles have somewhat independent nervous systems because there is too much 
-information to be handled by the central nervous system. Each tentacle is roughly 
-as intelligent as a worm. The major improvement made by the cephalopod brain is 
-the functional subsystem: specialized cortexes and nuclei exist for motor control, 
-sensory integration, and so on.
+The cephalopods - the squid, octopus, and so on - are the next level. The
+cephalopod nervous system reaches its highest development in the octopus.
+Cephalopod  tentacles have somewhat independent nervous systems because there is
+too much  information to be handled by the central nervous system. Each tentacle
+is roughly  as intelligent as a worm. The major improvement made by the
+cephalopod brain is  the functional subsystem: specialized cortexes and nuclei
+exist for motor control,  sensory integration, and so on.
 
-Above the cephalopods are the vertebrates, where the highest development is found 
-in the primates and cetacea. Association cortex is larger, there are more 
-functional subsystems, the resultant behaviour is far more complex. The vertebrate 
-brain is stereotypical from species to species with specializations to suit an 
-organism's particular niche. As an example, the bat has an extremely well developed 
-auditory cortex. A curious exception to the usual plan is the brain of the cetacean, 
-which in addition to left and right hemispheres also has a third lobe called the 
-paralimbic lobe. Due to the difficulty of studying aquatic species, little is known 
-about its function.
+Above the cephalopods are the vertebrates, where the highest development is
+found  in the primates and cetacea. Association cortex is larger, there are more
+functional subsystems, the resultant behaviour is far more complex. The
+vertebrate  brain is stereotypical from species to species with specializations
+to suit an  organism's particular niche. As an example, the bat has an extremely
+well developed  auditory cortex. A curious exception to the usual plan is the
+brain of the cetacean,  which in addition to left and right hemispheres also has
+a third lobe called the  paralimbic lobe. Due to the difficulty of studying
+aquatic species, little is known  about its function.
 
-The human brain has billions of cells, commonly estimated to number on the order 
-of ten to the tenth. The nervous system is comprised of hundreds of systems - 
+The human brain has billions of cells, commonly estimated to number on the order
+of ten to the tenth. The nervous system is comprised of hundreds of systems -
 nervous networks - organized by function.
 
-The cerebral cortex is where we imagine thinking and memory take place. It is 
-subdivided into many different functional subsystems, from the visual cortex at 
-the back of the had, to the motor cortex on top, to association cortex or frontal 
-lobes.
+The cerebral cortex is where we imagine thinking and memory take place. It is
+subdivided into many different functional subsystems, from the visual cortex at
+the back of the had, to the motor cortex on top, to association cortex or
+frontal  lobes.
 
 DIAGRAM LIMBIC SYSTEM AND BASAL GANGLIA
 
-The limbic system is comprised of hippocampus, cingulate gyrus, septum, and amygdala. 
-Hippocampus appears to be associated with conditioning, and the limbic system in 
-general is concerned with behavioural strategy.
-The hypothalamus and pituitary are involved with the control and production of 
+The limbic system is comprised of hippocampus, cingulate gyrus, septum, and
+amygdala.  Hippocampus appears to be associated with conditioning, and the
+limbic system in  general is concerned with behavioural strategy. The
+hypothalamus and pituitary are involved with the control and production of
 hormones.
 
-Sitting on top of the brain stem is the thalamus, which is often called the gateway 
-to the brain because all sensory information (except for smell) goes through it.  
-Cells of the Red Nucleus have forward connections via the thalamus to the cortex, 
-and also posterial connections with spinal motor neurons through the rubro-spinal 
-tract. The cerebellum is at the base of the skull, and helps coordinate movement 
-commands from the motor cortex. The spinal chord routes information from all over 
-the body through to the cerebellum and the thalamus, and also governs many reflex 
-actions such as jerking away from fire.
+Sitting on top of the brain stem is the thalamus, which is often called the
+gateway  to the brain because all sensory information (except for smell) goes
+through it.   Cells of the Red Nucleus have forward connections via the thalamus
+to the cortex,  and also posterial connections with spinal motor neurons through
+the rubro-spinal  tract. The cerebellum is at the base of the skull, and helps
+coordinate movement  commands from the motor cortex. The spinal chord routes
+information from all over  the body through to the cerebellum and the thalamus,
+and also governs many reflex  actions such as jerking away from fire.
 
-Other major nerve centers not located in the brain itself are the solar plexus and 
-the spinal ganglia which have a great deal to do with how we feel at any particular 
-time. Of course, there are an incredible variety of systems not even mentioned 
-here, and we'll go into a few of them later.
+Other major nerve centers not located in the brain itself are the solar plexus
+and  the spinal ganglia which have a great deal to do with how we feel at any
+particular  time. Of course, there are an incredible variety of systems not even
+mentioned  here, and we'll go into a few of them later.
 
 DIAGRAM CNS
 
-	The cerebral cortex is divided into two parts (the so-called left and right brains) connected by the corpus callosum, a vast bundle of nerves connecting the two halves of the brain in a symmetrical fashion - the connections are essentially mirrored from left to right.  The cortex is essentially flat, organized into functional columns. As a space saving measure, the cortex is very wrinkled, and has an approximate fractal dimension of 2.5. For comparison, a wadded ball of paper has a fractal dimension of about 2.3, and if you really pack it tight, it has a dimension of 2.7 because it almost fills the 3 dimensional space it occupies. A fractal dimension of 2.5 describes an object half way between flat (2-space filling) and a 3-space solid, and in fact, if the grey matter of the cortex could be flattened out into two sheets, each would be several millimeters thick (connected by the corpus callosum), and about a hundred centimeters square each. Half the thickness is wiring (the white matter), the rest is processing (the grey matter) (Mead, 1987).
-	If we look closely at the organization of neurons in the cortex, we would find a highly regular and general structure. Cells are organized into small functional units called cortical columns. Each column is composed of many hundreds of neurons, all highly interconnected, and every column is highly interconnected with its neighbours. It is interesting to note that not only is the organization of the brain general and regular, it is also most probably self-similar (or fractal) on both micro and macro scales.
+The cerebral cortex is divided into two parts (the so-called left and right
+brains) connected by the corpus callosum, a vast bundle of nerves connecting the
+two halves of the brain in a symmetrical fashion - the connections are
+essentially mirrored from left to right.  The cortex is essentially flat,
+organized into functional columns. As a space saving measure, the cortex is very
+wrinkled, and has an approximate fractal dimension of 2.5. For comparison, a
+wadded ball of paper has a fractal dimension of about 2.3, and if you really
+pack it tight, it has a dimension of 2.7 because it almost fills the 3
+dimensional space it occupies. A fractal dimension of 2.5 describes an object
+half way between flat (2-space filling) and a 3-space solid, and in fact, if the
+grey matter of the cortex could be flattened out into two sheets, each would be
+several millimeters thick (connected by the corpus callosum), and about a
+hundred centimeters square each. Half the thickness is wiring (the white
+matter), the rest is processing (the grey matter) (Mead, 1987).  
+
+If we look closely at the organization of neurons in the cortex, we would find a
+highly regular and general structure. Cells are organized into small functional
+units called cortical columns. Each column is composed of many hundreds of
+neurons, all highly interconnected, and every column is highly interconnected
+with its neighbours. It is interesting to note that not only is the organization
+of the brain general and regular, it is also most probably self-similar (or
+fractal) on both micro and macro scales.
 
 DIAGRAM CORTICAL COLUMNS
 
-	When we study large numbers of neurons, close up like this, we are studying neural networks.
+When we study large numbers of neurons, close up like this, we are studying
+neural networks.
 
 
 
-.c21.3: HERE ARE NEURAL NETS
+HERE ARE NEURAL NETS
+--------------------
+
+This diagram shows the instantaneous potential between a number of neurons
+arranged in a one-dimensional network. The pattern extant in a network at any
+time is probably unique to that nervous system at that particular time and will
+never be repeated, but the pattern of activation in a network represents
+information. In a two-dimensional array, we could show the instantaneous
+potential by assigning shades or colors or sizes to the units representing
+neurons.
+
+When studying neural networks, methods of showing the activity of the network
+are vitally important, because the sheer volume of information in anything
+larger than a trivial network can be difficult to grasp.  It's all very well to
+show a particular activation or an individual neuron, but does the
+representation show the relationships between the different neurons? In a system
+with normalized weights, for example, a useful display might show vectors, one
+for each neuron, radiating out from the origin.
 
 
-	This diagram shows the instantaneous potential between a number of neurons arranged in a one-dimensional network. The pattern extant in a network at any time is probably unique to that nervous system at that particular time and will never be repeated, but the pattern of activation in a network represents information. In a two-dimensional array, we could show the instantaneous potential by assigning shades or colors or sizes to the units representing neurons.
+DIAGRAM HINTON DIAGRAM
 
-	When studying neural networks, methods of showing the activity of the network are vitally important, because the sheer volume of information in anything larger than a trivial network can be difficult to grasp.  It's all very well to show a particular activation or an individual neuron, but does the representation show the relationships between the different neurons? In a system with normalized weights, for example, a useful display might show vectors, one for each neuron, radiating out from the origin.
-
-
-
-
-
-
-This picture shows a Hinton diagram, named for Professor Geoffrey Hinton of the University of Toronto. The sizes of the squares represents the level of activation of each neuron, and the colour of the square represents the sign of the activation: positive or negative.
-
-	This diagram shows a way to represent the weights and activities in a three layer neural network. This type of representation is a result of work by (GET REF HERE, 1989). The size of a unit represents the level of activation, and the length of the vectors extending between units represents weights.
+This picture shows a Hinton diagram, named for Professor Geoffrey Hinton of the
+University of Toronto. The sizes of the squares represents the level of
+activation of each neuron, and the colour of the square represents the sign of
+the activation: positive or negative.
 
 DIAGRAM BACKPROP NET
 
+This diagram shows a way to represent the weights and activities in a three
+layer neural network. This type of representation is a result of work by (GET
+REF HERE, 1989). The size of a unit represents the level of activation, and the
+length of the vectors extending between units represents weights.
+
+
 DEFINITION OF NEURAL NETWORK FROM HECHT-NIELSEN 1989, WITH CAVEATS.
 
-	There are several varieties of neural networks:
+There are several varieties of neural networks:
 
-m	Autoassociators -which can perform pattern recognition and pattern completion.
-m	Associative Networks - which can associate one vector with another, and can also perform 	categorization and generalization.
-m	Mapping Networks - which map input space onto output space. Back Propagation is a
- 	member of the mapping network class.
+- Autoassociators -which can perform pattern recognition and pattern completion.
 
-m	Optimization Networks - of which class the Hopfield network is a member.
+- Associative Networks - which can associate one vector with another, and can
+also perform categorization and generalization. 
 
-m	Topographic Networks -The body, for example, is mapped onto the cortex and this mapping
- 	is often shown in psychology textbooks as the sensory homunculus.
+- Mapping Networks - which map input space onto output space. Back Propagation
+is a member of the mapping network class.
+
+- Optimization Networks - of which class the Hopfield network is a member.
+
+- Topographic Networks - the body, for example, is mapped onto the cortex and
+this mapping is often shown in psychology textbooks as the sensory homunculus.
 
 
+DIAGRAM SENSORY CORTEX OF RACCOON
 
-
-	This diagram shows the sensory cortex of the raccoon (adapted from Welker and Seidenstein, 1959). The numbers correspond to the raccoon's fingers, from thumb to little finger, and the letters correspond to the pads on the palm of the hand.
+This diagram shows the sensory cortex of the raccoon (adapted from Welker and
+Seidenstein, 1959). The numbers correspond to the raccoon's fingers, from thumb
+to little finger, and the letters correspond to the pads on the palm of the
+hand.
 
 DIAGRAM A HOMUNCULUS
 
-	Of course, there is no homunculus, no disembodied observer, lurking inside the brain, but the diagram gives a useful impression of exactly how a topographic mapping works: neurons are assigned according to the topology and statistical distribution of the input. Two dimensional topographic maps are used extensively throughout the nervous system: the homunculus diagram maps the somatosensory system, the retina is mapped (many times in retinotopic maps), and there are even two dimensional maps in the audio cortex for perceived frequency.
+Of course, there is no homunculus, no disembodied observer, lurking inside the
+brain, but the diagram gives a useful impression of exactly how a topographic
+mapping works: neurons are assigned according to the topology and statistical
+distribution of the input. Two dimensional topographic maps are used extensively
+throughout the nervous system: the homunculus diagram maps the somatosensory
+system, the retina is mapped (many times in retinotopic maps), and there are
+even two dimensional maps in the audio cortex for perceived frequency.
+
 DIAGRAM FREQUENCY MAP
 
+APPLICATION DOMAINS
+-------------------
 
-.c21.4: COMMON USES FOR NEURAL NETWORKS
+Neural networks are used wherever an analysis must be done of a complicated
+nonlinear environment. They can easily perform nonlinear statistical analysis,
+and often exceed the performance of traditional classification and analytical
+methods.
 
-	Neural networks are used wherever an analysis must be done of a complicated nonlinear environment. They can easily perform nonlinear statistical analysis, and often exceed the performance of traditional classification and analytical methods.
-.c
 ROBOTICS:
-m	Automation Control
-m	System Control Dynamics
-m	Path Planning
-m 	Navigation and Obstacle Avoidance
-m	Multiple Sensor/Actuator Integration, eg: 	   vision-manipulator coordination
-m 	Adaptive Platform and Effector Dynamics
-m 	Goal Seeking Behaviour
-m 	Autopilot
-m	 Microrobotics
-m	 Emergency Response Behaviour
 
-
-
+- Automation Control
+- System Control Dynamics
+- Path Planning
+- Navigation and Obstacle Avoidance
+- Multiple Sensor/Actuator Integration, eg: vision-manipulator coordination
+- Adaptive Platform and Effector Dynamics
+- Goal Seeking Behaviour
+- Autopilot
+- Microrobotics
+- Emergency Response Behaviour
 
 ENGINEERING:
-m 	Circuit & VLSI Design and Layout
-m 	Opposing force and relaxation models
+
+- Circuit & VLSI Design and Layout
+- Opposing force and relaxation models
 
 SIGNAL PROCESSING:
-m 	Adaptive Filtering and Gain Control
-m 	Signal Extraction, Enhancement and 	  Classification
-m 	Noise Suppression
-m 	Pattern Recognition
-m 	Error Detection and Correction
-m 	Significant Feature Analysis, Data 	  	  Compression, Data Reconstruction
 
-
-KEY:
-m 	Well studied
-m 	Current research
-m	Future investigation
-
-
+- Adaptive Filtering and Gain Control
+- Signal Extraction, Enhancement and Classification
+- Noise Suppression
+- Pattern Recognition
+- Error Detection and Correction
+- Significant Feature Analysis, Data Compression, Data Reconstruction
 
 VISION:
-m 	Edge Detection
-m 	Elimination of shading gradients across 	  curved objects
-m 	Pattern Recognition
-m 	Character Recognition
-m 	Image Enhancement
-m 	Image Reconstruction and Restoration
-m 	Image Segmentation
-m 	Image Understanding
-m 	Target Acquisition and Tracking
-m 	Surveillance and Security Systems
-m 	Acoustic Imaging
-m	2D and 3D Graphics Entry and 	  	  Manipulation
+
+- Edge Detection
+- Elimination of shading gradients across curved objects
+- Pattern Recognition
+- Character Recognition
+- Image Enhancement
+- Image Reconstruction and Restoration
+- Image Segmentation
+- Image Understanding
+- Target Acquisition and Tracking
+- Surveillance and Security Systems
+- Acoustic Imaging
+- 2D and 3D Graphics Entry and Manipulation
 
 DATA PROCESSING AND BUSINESS:
-m 	Statistical Analysis
-m 	Pattern Recognition
-m 	Voronoi tessellation
-m 	Fleet vehicle scheduling
-m 	Airline seat booking
-m 	Securities Analysis
-m 	Loan Risk Analysis
-m 	Trend Analysis and Prediction
-m 	Expert Systems
-m	Social and Geopolitik Simulators
-m	Data Abstraction and Generalization
-m	Security Systems
 
+- Statistical Analysis
+- Pattern Recognition
+- Voronoi tessellation
+- Fleet vehicle scheduling
+- Airline seat booking
+- Securities Analysis
+- Loan Risk Analysis
+- Trend Analysis and Prediction
+- Expert Systems
+- Social and Geopolitik Simulators
+- Data Abstraction and Generalization
+- Security Systems
 
 SPEECH:
-m 	Identification of Phonemes
-m 	Speech Production and Recognition
-m 	Speech Transcription
-m	Identification of a Speaker
-m	User Independent Speech Recognition
+
+- Identification of Phonemes
+- Speech Production and Recognition
+- Speech Transcription
+- Identification of a Speaker
+- User Independent Speech Recognition
 
 ENTERTAINMENT:
-m 	Image Compression and 	  	  	  Decompression for ISDN and HDTV
-m 	Video Games and Toys
-m 	Image Enhancement for Home Video 	  and Digital Photography
+
+- Image Compression and Decompression for ISDN and HDTV
+- Video Games and Toys
+- Image Enhancement for Home Video and Digital Photography
 
 
 
+Chapter 4 discusses how these systems determine behaviour and govern processing
+in the central nervous system.
 
-
-KEY:
-m 	Well studied
-m 	Current research
-m	Future investigation
-
-
-
-
- Chapter 4 discusses how these systems determine behaviour and govern processing in the central nervous system.
-
-Section 7.5 describes back propagation, and section 7.8 describes the Cerebellar Model of Arithmetic Memory (CMAC).
+Section 7.5 describes back propagation, and section 7.8 describes the Cerebellar
+Model of Arithmetic Memory (CMAC).
 
 Section 7.2 discusses the Hopfield network.
 
-Section 5.6 discusses the organizational principals of topographic mappings. Section 7.5 describes Kohonen's self organizing feature maps. Section 2.1 describes retinotopic maps, and Section 3.2 describes tonotopic maps.
+Section 5.6 discusses the organizational principals of topographic mappings.
+Section 7.5 describes Kohonen's self organizing feature maps. 
+
+Section 2.1 describes retinotopic maps, and Section 3.2 describes tonotopic
+maps.
 
 
 
-.cTHE PHYSIOLOGICAL BASIS OF COMPUTATION 										- VISION
-
-2
-
-
+THE PHYSIOLOGICAL BASIS OF COMPUTATION - VISION
+-----------------------------------------------
 
 
 DIAGRAM THE EYE
