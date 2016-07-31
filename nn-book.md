@@ -252,28 +252,79 @@ slightly at each step.
 
 DIAGRAM THE VARIOUS NERVOUS SYSTEMS
 
-	At the very lowest level are animals like sponges which don't have a nervous network, but rather have neurons scattered randomly throughout the body. The nervous system of the starfish has a simple ring organization, which is an order of magnitude improvement over the sponge. There is no central control in the starfish, but it is capable of much more complex behaviour.  Rodney Brooks’ “subsumption architecture” demonstrates that useful and interesting behaviour can emerge from a completely decentralized system (Brooks, 1989).
+At the very lowest level are animals like sponges which don't have a nervous 
+network, but rather have neurons scattered randomly throughout the body. The 
+nervous system of the starfish has a simple ring organization, which is an order 
+of magnitude improvement over the sponge. There is no central control in the 
+starfish, but it is capable of much more complex behaviour.  Rodney Brooks’ 
+"subsumption architecture” demonstrates that useful and interesting behaviour can 
+emerge from a completely decentralized system (Brooks, 1989).
 
-	The next step is the ladder structure found in the protocordates. They have a simple nerve cord studded with large ganglia (groups of cells ).  Examples of this class are the leeches and worms. There is a ganglia dedicated to the control of each segment of the animal, and a thickening in the head of the animal called the cerebral ganglia, which moderates the activity of the nerve cord through selective inhibition.
+The next step is the ladder structure found in the protocordates. They have a 
+simple nerve cord studded with large ganglia (groups of cells).  Examples of 
+this class are the leeches and worms. There is a ganglia dedicated to the 
+control of each segment of the animal, and a thickening in the head of the animal 
+called the cerebral ganglia, which moderates the activity of the nerve cord through 
+selective inhibition.
 
-	The next step above the protocordate is the insect. As the structure of the insect becomes more complex, the ganglia along the nerve cord migrate towards the head of the insect, until a primitive brain is found in the most sophisticated insects. The insect's brain is called the corpora pedunculata, or mushroom body. As an aside, it is an interesting point that there is a direct correspondance between the level of social behaviour of certain insects and brain size: in termites for example, the most sophisticated termite hill architecture is produced by the species with the smallest brains, and therefore the simplest individual behaviour. Building termite hills is a parallel distributed process...
+The next step above the protocordate is the insect. As the structure of the insect 
+becomes more complex, the ganglia along the nerve cord migrate towards the head 
+of the insect, until a primitive brain is found in the most sophisticated insects. 
+The insect's brain is called the corpora pedunculata, or mushroom body. As an aside, 
+it is an interesting point that there is a direct correspondance between the level of 
+social behaviour of certain insects and brain size: in termites for example, the 
+most sophisticated termite hill architecture is produced by the species with the 
+smallest brains, and therefore the simplest individual behaviour. Building termite 
+hills is a parallel distributed process...
 
-	The cephalopods - the squid, octopus, and so on - are the next level. The cephalopod nervous system reaches its highest development in the octopus. Cephalopod tentacles have somewhat independent nervous systems because there is too much information to be handled by the central nervous system. Each tentacle is roughly as intelligent as a worm. The major improvement made by the cephalopod brain is the functional subsystem: specialized cortexes and nuclei exist for motor control, sensory integration, and so on.
+The cephalopods - the squid, octopus, and so on - are the next level. The 
+cephalopod nervous system reaches its highest development in the octopus. Cephalopod 
+tentacles have somewhat independent nervous systems because there is too much 
+information to be handled by the central nervous system. Each tentacle is roughly 
+as intelligent as a worm. The major improvement made by the cephalopod brain is 
+the functional subsystem: specialized cortexes and nuclei exist for motor control, 
+sensory integration, and so on.
 
-	Above the cephalopods are the vertebrates, where the highest development is found in the primates and cetacea. Association cortex is larger, there are more functional subsystems, the resultant behaviour is far more complex. The vertebrate brain is stereotypical from species to species with specializations to suit an organism's particular niche. As an example, the bat has an extremely well developed auditory cortex. A curious exception to the usual plan is the brain of the cetacean, which in addition to left and right hemispheres also has a third lobe called the paralimbic lobe. Due to the difficulty of studying aquatic species, little is known about its function.
-	The human brain has billions of cells, commonly estimated to number on the order of ten to the tenth. The nervous system is comprised of hundreds of systems - nervous networks - organized by function.
+Above the cephalopods are the vertebrates, where the highest development is found 
+in the primates and cetacea. Association cortex is larger, there are more 
+functional subsystems, the resultant behaviour is far more complex. The vertebrate 
+brain is stereotypical from species to species with specializations to suit an 
+organism's particular niche. As an example, the bat has an extremely well developed 
+auditory cortex. A curious exception to the usual plan is the brain of the cetacean, 
+which in addition to left and right hemispheres also has a third lobe called the 
+paralimbic lobe. Due to the difficulty of studying aquatic species, little is known 
+about its function.
 
+The human brain has billions of cells, commonly estimated to number on the order 
+of ten to the tenth. The nervous system is comprised of hundreds of systems - 
+nervous networks - organized by function.
 
-
-	The cerebral cortex is where we imagine thinking and memory take place. It is subdivided into many different functional subsystems, from the visual cortex at the back of the had, to the motor cortex on top, to association cortex or frontal lobes.
+The cerebral cortex is where we imagine thinking and memory take place. It is 
+subdivided into many different functional subsystems, from the visual cortex at 
+the back of the had, to the motor cortex on top, to association cortex or frontal 
+lobes.
 
 DIAGRAM LIMBIC SYSTEM AND BASAL GANGLIA
 
-	The limbic system is comprised of hippocampus, cingulate gyrus, septum, and amygdala. Hippocampus appears to be associated with conditioning, and the limbic system in general is concerned with behavioural strategy.
-	The hypothalamus and pituitary are involved with the control and production of hormones.
+The limbic system is comprised of hippocampus, cingulate gyrus, septum, and amygdala. 
+Hippocampus appears to be associated with conditioning, and the limbic system in 
+general is concerned with behavioural strategy.
+The hypothalamus and pituitary are involved with the control and production of 
+hormones.
 
-	Sitting on top of the brain stem is the thalamus, which is often called the gateway to the brain because all sensory information (except for smell) goes through it.  Cells of the Red Nucleus have forward connections via the thalamus to the cortex, and also posterial connections with spinal motor neurons through the rubro-spinal tract. The cerebellum is at the base of the skull, and helps coordinate movement commands from the motor cortex. The spinal chord routes information from all over the body through to the cerebellum and the thalamus, and also governs many reflex actions such as jerking away from fire.
-	Other major nerve centers not located in the brain itself are the solar plexus and the spinal ganglia which have a great deal to do with how we feel at any particular time. Of course, there are an incredible variety of systems not even mentioned here, and we'll go into a few of them later.
+Sitting on top of the brain stem is the thalamus, which is often called the gateway 
+to the brain because all sensory information (except for smell) goes through it.  
+Cells of the Red Nucleus have forward connections via the thalamus to the cortex, 
+and also posterial connections with spinal motor neurons through the rubro-spinal 
+tract. The cerebellum is at the base of the skull, and helps coordinate movement 
+commands from the motor cortex. The spinal chord routes information from all over 
+the body through to the cerebellum and the thalamus, and also governs many reflex 
+actions such as jerking away from fire.
+
+Other major nerve centers not located in the brain itself are the solar plexus and 
+the spinal ganglia which have a great deal to do with how we feel at any particular 
+time. Of course, there are an incredible variety of systems not even mentioned 
+here, and we'll go into a few of them later.
 
 DIAGRAM CNS
 
@@ -449,7 +500,7 @@ DIAGRAM THE EYE
 
  Detail Vision Cells and Motion Detecting Cells
 
-	Retinal cells habituate or “get used to” a constant level of light, and the signal returned by a habituated cell gradually decreases to nothing. That's why we can see afterimages. For the same reason, the complicated network of blood vessels on the surface of the human retina can't be perceived: the blood vessels are stationary with respect to the retina. To prevent habituation to an image, the eye moves constantly, as a microscopic jitter is all that is needed to keep the retinal cells reacting. A crab's eyes, which are at the end of stalks, tremor constantly to prevent habituation.
+	Retinal cells habituate or "get used to” a constant level of light, and the signal returned by a habituated cell gradually decreases to nothing. That's why we can see afterimages. For the same reason, the complicated network of blood vessels on the surface of the human retina can't be perceived: the blood vessels are stationary with respect to the retina. To prevent habituation to an image, the eye moves constantly, as a microscopic jitter is all that is needed to keep the retinal cells reacting. A crab's eyes, which are at the end of stalks, tremor constantly to prevent habituation.
 	The following diagram illustrates a retinal rod cell. The Lamellae are the light detecting part of the cell. The signals from the rod are input directly to the layer of amacrine cells under the retina. Before the image even leaves the eye, it has been enhanced, and many types of features extracted.
 
 
@@ -512,7 +563,7 @@ Predators are more likely than prey organisms to have eyes on the front of the h
 
 .c22.3: FROG'S EYES
 
-	The classic paper “What the Frog's Eye Tells the Frog's Brain” by Lettvin, Matturana, McCulloch and Pitts in 1959 illuminates a way in which progressive stages of processing can do most of the signal processing and abstraction of a scene before an image reaches the cortex.	The frog's visual system was studied because it is very simple. Signals from the retina travel directly to the collicus. The frog has no fovea, therefore a uniform amount of information is available from across the retina. The frog's eyes don't move except to stabilize an image on the retina. 	The old view of visual perception would have a pattern of light and dark arriving in the visual cortex, ready to be interpreted. The results of these experiments was to demonstrate that this is not the case, but rather that the image is highly organized and interpreted by the time it reaches the cortex. As it turns out, the frog does not receive much information about the stationary world - in fact, it will starve to death if surrounded by unmoving food.
+	The classic paper "What the Frog's Eye Tells the Frog's Brain” by Lettvin, Matturana, McCulloch and Pitts in 1959 illuminates a way in which progressive stages of processing can do most of the signal processing and abstraction of a scene before an image reaches the cortex.	The frog's visual system was studied because it is very simple. Signals from the retina travel directly to the collicus. The frog has no fovea, therefore a uniform amount of information is available from across the retina. The frog's eyes don't move except to stabilize an image on the retina. 	The old view of visual perception would have a pattern of light and dark arriving in the visual cortex, ready to be interpreted. The results of these experiments was to demonstrate that this is not the case, but rather that the image is highly organized and interpreted by the time it reaches the cortex. As it turns out, the frog does not receive much information about the stationary world - in fact, it will starve to death if surrounded by unmoving food.
 	To perform the experiment, a frog was placed inside a spherical globe. Inside the globe were various objects which the experimenters could manipulate from outside using magnets. Various stimuli were presented - dots, bars, fields of moving dots, scenery, etc. Readings were obtained from the optic nerve and from the optic tectum.
 	The frog's retina has about a million receptors (rods & cones), about three million connecting neurons (bipolars, horizontals, and amacrines), and about a half million ganglion cells. The receptors feed out to many different ganglion cells, and the ganglion cells receive synapses from thousands of receptors. The following diagram shows a section of the frog's retina (after Ramon y Cajal).
 
@@ -656,7 +707,7 @@ DETAIL MORE RECENT RYTHM LEARNING RESULTS, and MAYBE SHIBATA'S HUMMING TRANSCRIB
 
 
 
-	Multiple “rhythm catchers” could exist, organized into cortical columns in a manner reminiscent of the orientation selective cells in the LGN.
+	Multiple "rhythm catchers” could exist, organized into cortical columns in a manner reminiscent of the orientation selective cells in the LGN.
 	Rhythms certainly insinuate every aspect of day to day existence, and every culture since the beginning of time. Maybe because energies are being minimized, rhythms are perceived as being pleasurable.
 
 
@@ -677,7 +728,7 @@ What we believe we hear, we in fact reconstruct in our minds from pieces of rece
 
 DESCRIPTION WHAT IS INVOLVED IN SPEECH PRODUCTION? NOTE ON BROCA'S AREA AND WERNICKE'S AREA
 	Counting in your head does not involve the brain's speech centers. Reading out loud, on the other hand, uses almost every area of the brain - from speech areas to somatosensory areas to visual.
-	A deaf person has difficulty speaking clearly, being unable to listen to speech and correct it as it is produced. It is easily observable that speech generation is heavily influenced by listening - people shout to be heard over a portable cassette player, because they think they are speaking quietly.  Speech perception and generation by the brain are absolutely interrelated, to the extent that it is very difficult to have one without the other. It has been suggested that speech perception occurs in terms of articulemes which are the speech to muscle combinations that actually produce speech. This theory is called the “motor theory” of speech perception.
+	A deaf person has difficulty speaking clearly, being unable to listen to speech and correct it as it is produced. It is easily observable that speech generation is heavily influenced by listening - people shout to be heard over a portable cassette player, because they think they are speaking quietly.  Speech perception and generation by the brain are absolutely interrelated, to the extent that it is very difficult to have one without the other. It has been suggested that speech perception occurs in terms of articulemes which are the speech to muscle combinations that actually produce speech. This theory is called the "motor theory” of speech perception.
 	Internal speech, or even the intention to speak, primes the speech perceiving mechanisms of the brain before the words are spoken, affecting an anticipation of the correct sounds. The production centers can match the anticipation against the perception areas in a kind of feedback loop which will dynamically alter speech production as necessary to produce the desired sounds.
 	After (and even as) a word is spoken and simultaneously perceived, it will excite memory associations and anticipations in memory which the language centers of the brain will use to decide what the next thing to say is, or that it is time to listen to the other person, or even that it forgot what it was trying to say.
 	Luria (1977) developed an elaborate model describing the production of speech from intention to articulation.
@@ -742,7 +793,7 @@ DIAGRAM REORGANIZED HAND IN SENSORY CORTEX
 
 LATERAL INHIBITION CURVE
 
-	This curve shows lateral inhibition as a function of distance, derived from experimental measurements in cortex. The central peak is excitatory, and extends in cortex for a range of 50 to 100 micrometers. The inhibitory surround extends out from there to 200 to 500 micrometers, and beyond that, there is a weak excitatory area (Kohonen, 1988). This type of response function is the typical “on-center, off-surround” receptive field.
+	This curve shows lateral inhibition as a function of distance, derived from experimental measurements in cortex. The central peak is excitatory, and extends in cortex for a range of 50 to 100 micrometers. The inhibitory surround extends out from there to 200 to 500 micrometers, and beyond that, there is a weak excitatory area (Kohonen, 1988). This type of response function is the typical "on-center, off-surround” receptive field.
 
 
 
@@ -764,7 +815,7 @@ DIAGRAM LAPLACIAN KERNEL AND BEFORE/AFTER IMAGES
 
 DIAGRAM ON-CENTER OFF-SURROUND CELL AND MEXICAN HAT
 
-The “Mexican hat” curve is described by the function:
+The "Mexican hat” curve is described by the function:
 F(sin r,|r|)  where r is radius from the center of the curve.
 
 DESCRIBE HOW ON CENTER OFF SURROUND CELLS PERFORM FIRST ORDER IMAGE PROCESSING, AND HOW 2nd ORDER PROCESSING IS CARRIED OUT BY ORIENTATION SENSITIVE CELLS, AND RELATE 2nd ORDER PROCESSING TO SELF ORGANIZATION.
@@ -792,7 +843,7 @@ If the thalamus is the gateway to the cortex, perhaps the reticular complex is t
 	The reticular complex is a thin sheet of cells, often only a few cells thick, which partially surrounding the thalamus. All connections between the cortex and the thalamus pass through the reticular complex. The cells of the reticular complex are GABAergic, which is to say, they are inhibitory. In this layer, the cells all share extensive lateral interconnections. (In contrast, the cells within the thalamus have few, if any, collaterals.) Because the reticular cells are almost all inhibitory, it follows that excitation within this layer must come from the axons that pass through it.
 	A lateral inhibitory net (which is what the reticular complex must be) will perform edge enhancement, noise suppression, and feature detection, as detailed in the previous section. These nets are characteristic of all topographic mappings such as the sensory homunculus, or the Kohonen self organizing feature net.
 
-	Perhaps a map of the cortex exists in the reticular complex. The searchlight could play upon the reticular complex, and should be able to sample the cortex, and thus determine “where the action is.” The searchlight itself would be expressed by an increase in firing rate in a subset of the thalamic neurons. Higher firing rates correspond to increased attention.*
+	Perhaps a map of the cortex exists in the reticular complex. The searchlight could play upon the reticular complex, and should be able to sample the cortex, and thus determine "where the action is.” The searchlight itself would be expressed by an increase in firing rate in a subset of the thalamic neurons. Higher firing rates correspond to increased attention.*
 
 	The number of searchlights would depend upon the range and strengths of the reticular neuron's inhibitory connections. The number could perhaps be dynamic, flickering, spawning and fusing across the reticular surface, like the turbulent wanderings of a stream of thought. Conversely, the number of searchlights - the number of things that can be attended at one time - could be fixed.  Every topographically mapped section of the brain could have its own set of searchlights...
 	There is evidence that we can know the number of only six things at one time. We can look at a group of objects, and know: there is one, there are three, there are six. For seven things and higher, we must rely on symmetry, or we must count the objects.
@@ -809,13 +860,13 @@ DIAGRAM SLASHY SYMMETRY DIAGRAM ALA BRAITENBURG
 	We like symmetry, because we are symmetrically designed. Consider a wrist watch that must be wound: It's an easy task, right? You hold the watch in your left hand, and wind it with your right. Now, quickly imagine, what if you wind the watch with your left hand? Maybe a first impulse is to wind it in the exactly opposite way: holding it in the left hand and winding with the right. But, this is impossible...
 	Consider also left and right handed scissors. Why are there two different types? (Try cutting a piece of paper with the wrong hand, and observe why the scissors don't cut.)
 	Perhaps motor patterns are generalized symmetrically, and hence, we like symmetry... On the other hand, motor patterns can't generalize left to right too readily, otherwise, we would all be ambidextrous.
-	Perception of symmetry is a different problem. An example back propagation network cited in Rumelhart and McClelland's book “Parallel Distributed Processing” solves the problem of determining if a binary input pattern is symmetric.
+	Perception of symmetry is a different problem. An example back propagation network cited in Rumelhart and McClelland's book "Parallel Distributed Processing” solves the problem of determining if a binary input pattern is symmetric.
  That solution is reconstructed here:
 
 
 
 	If symmetry is broken, the hidden units will detect the fact... The sum of the weighted inputs arriving at the hidden units will not be zero, and asymmetry will thus be detected. This arrangement can be criticized as being biologically impossible for the simple reason that the weights are increasing by powers of two, and therefore recognizing the symmetry of a larger problem might be quite impossible. An argument for plausibility could be made by considering the limited number of items that can be attended at one time, as discussed at the end of Section 4.2.
-	In the epilogue to the revised edition of “Perceptrons” by Minsky and Papert it is suggested that the problem is in fact biologically plausible, because humans have difficulty perceiving symmetry in some cases:
+	In the epilogue to the revised edition of "Perceptrons” by Minsky and Papert it is suggested that the problem is in fact biologically plausible, because humans have difficulty perceiving symmetry in some cases:
 HL4SD7NKf3fKN7DS4LH
 
 	Unfortunately for this argument, extra processing is involved in this example, because we must first read the characters before we can check for symmetry, and when we check the pattern, we must do it serially, a character at a time, rather than all at once.
@@ -856,7 +907,7 @@ DESCRIBE, WHERE DOES THIS MODEL COME FROM?
 
 	The main brain, or A-Brain, is most intimately connected to the outside world, it is also where decisions and intentions are made.  It processes sensory data, relates it to experience, mulls over problems. In contrast, the B-Brain (proposed by Marvin Minsky, in Minsky, 1987) is completely isolated from the outside world. In fact, the B-Brain's world is the A-Brain. The B-Brain watches the A-Brain, providing a kind of self-awareness, interfering with the A-Brain if the A-Brain seems to be stuck in one particular mode of thought: the B-Brain gets bored.
 	The function of the B-Brain, then is to provide self-programming: frustration, elation, boredom; all the things necessary to keep the A-Brain from doing nothing or getting locked up in a non-productive mode. It could dampen overly emotional behaviour, or amplify relatively quiet activity. In this way, the B-Brain is reminiscent of Adaptive Heuristic Elements, or even the Automatic Gain Control on radios and TVs.
-	The concept of the B-Brain establishes a powerful new paradigm for network design, as it provides a way for networks to monitor and evaluate their actions. As networks become more and more complex, this ability will become more important. There is already a trend favouring this type of design, as demonstrated by the Adaptive Critic of Barto, Sutton and Anderson (1984), and the “consciences” being designed for Kohonen Self Organizing Feature Nets.
+	The concept of the B-Brain establishes a powerful new paradigm for network design, as it provides a way for networks to monitor and evaluate their actions. As networks become more and more complex, this ability will become more important. There is already a trend favouring this type of design, as demonstrated by the Adaptive Critic of Barto, Sutton and Anderson (1984), and the "consciences” being designed for Kohonen Self Organizing Feature Nets.
 
 
 
@@ -867,7 +918,7 @@ REWORK THIS SECTION WITH NEW FIGURES FROM MEAD 1990 IN NETWORKS MAGAZINE
 
 	Neurons occupy a volume of approximately one litre.  If we assume that there are on the order of ten billion neurons, each neuron would occupy about 10-7 cm. The packing density of neurons is therefore at least a hundred times greater than that possible for transistors.
 	In terms of power consumption, the brain radiates about 10 Watts, or about 10-9 Watts per neuron.  A neuron leads a transistor by a factor of about a hundred million.
-	A neuron can react in a time between 10-2 seconds to about 10-4 seconds, a speed at least a hundred thousand times slower than a transistor. (Quantities are from “The Computer and The Brain,” by John von Neumann, 1958.)
+	A neuron can react in a time between 10-2 seconds to about 10-4 seconds, a speed at least a hundred thousand times slower than a transistor. (Quantities are from "The Computer and The Brain,” by John von Neumann, 1958.)
 	Neurons are energy efficient, small, and have an incredibly high connectivity, but they are very slow. Their extreme connectivity lets them implement inherently parallel processing; the term massively parallel is currently in vogue.
 	Digital circuitry is very fast, but inherently serial, and this is the tradeoff. This is what allows us to model nervous systems on computers.
 	Long range connections in the nervous system are digital, conveyed as all-or-nothing axonal impulses. Locally, processing can be either analog or digital, conversion taking place freely between the two modes. The amacrine interneurons of the retina are strictly analog; and, they have no axons. The interface between motor neurons and muscle fibres is an example of a location where digital to analog conversion takes place.
@@ -895,7 +946,7 @@ It is hard to justify the term ‘learning’ for a machine that relentlessly ig
 - Marvin Minsky & Seymour Papert in Perceptrons
 
 
-	No single neuron is aware of the functioning of an entire nervous system, yet nervous systems self-organize, global learning occurs on the basis of local interactions.  Neuronal memory is achieved through morphological adaptation of the soma, and through the size of the synaptic junctions. Synaptic development is attenuated (synaptic spines are elongated increasing internal resistance to conduction of action potentials) if fish are raised in an socially isolated environment, demonstrating that learning affects cell morphology (Coss & Globus 1978). Connections, connection characteristics, cell shape - all these affect the behaviour of a neuron. The manner in which all these factors interact could be considered the “device physics of the brain” (Stevens 1985).
+	No single neuron is aware of the functioning of an entire nervous system, yet nervous systems self-organize, global learning occurs on the basis of local interactions.  Neuronal memory is achieved through morphological adaptation of the soma, and through the size of the synaptic junctions. Synaptic development is attenuated (synaptic spines are elongated increasing internal resistance to conduction of action potentials) if fish are raised in an socially isolated environment, demonstrating that learning affects cell morphology (Coss & Globus 1978). Connections, connection characteristics, cell shape - all these affect the behaviour of a neuron. The manner in which all these factors interact could be considered the "device physics of the brain” (Stevens 1985).
 
 DIAGRAM OF GOLDFISH NEURONS
 
@@ -932,8 +983,8 @@ DIAGRAM APLYSIA AND EXPERIMENT DESCRIPTION
 
 	Whether or not learning shuts down at some point is a problem Stephen Grossberg calls the stability-plasticity dilemma. In model neural networks there are two almost paradoxical elements to be balanced. If the memories become fixed, they could become ultimately meaningless as the environment changes and the old memories no longer apply. On the other hand, if the codes never stop changing, meaningful generalization may never occur. Feedback is necessary to provide information about whether something is valid or not. (Non-linear feedback is generally used because linear feedback tends to amplify noise and send signals off to infinity.)
 	Experiments done later than Hubel and Wiesel's pioneering work, reported by Creutzfeldt and Huggelund (1975, cited in Fair, 1988), showed that orientation cells in cortex are still plastic in mature adults. Adult cats were kept in darkness, except for brief periods of light (one hour twice a day) for two weeks. While the light was on, the visual environment consisted only of vertical lines. They discovered that the number of neurons sensitive to orientations around the vertical actually decreased relative to the number of neurons responding to horizontal orientations, thus demonstrating plasticity.
-	Charles Fair (1988) suggests that the decrease was due to “mismatch overshooting,” a kind of over-sensitivity to “forgotten” orientations. He also suggests that the brain needs a constant level of “miscellaneously patterned input to maintain normal efficiency.”
-	Heron et al, (19xx, cited in Fair 1988) reported a study wherein human subjects underwent sensory deprivation for 48 hours, through partial immobilization and unpatterned sound and visual stimuli. The subjects wore translucent goggles so that the subjects could see only vague blurs rather than dark or light. When the goggles were removed, various visual abnormalities were observed: walls appeared to move in and out, “abnormally strong” afterimages were seen. Opaque goggles were then placed on some of the subjects who were still hallucinating. Within two hours, the hallucinations were gone or reduced, suggesting that nonpatterned input has more of a “destructuring effect” than simple darkness. (This observation has important implications for artificial neural networks, as well as for natural ones.)
+	Charles Fair (1988) suggests that the decrease was due to "mismatch overshooting,” a kind of over-sensitivity to "forgotten” orientations. He also suggests that the brain needs a constant level of "miscellaneously patterned input to maintain normal efficiency.”
+	Heron et al, (19xx, cited in Fair 1988) reported a study wherein human subjects underwent sensory deprivation for 48 hours, through partial immobilization and unpatterned sound and visual stimuli. The subjects wore translucent goggles so that the subjects could see only vague blurs rather than dark or light. When the goggles were removed, various visual abnormalities were observed: walls appeared to move in and out, "abnormally strong” afterimages were seen. Opaque goggles were then placed on some of the subjects who were still hallucinating. Within two hours, the hallucinations were gone or reduced, suggesting that nonpatterned input has more of a "destructuring effect” than simple darkness. (This observation has important implications for artificial neural networks, as well as for natural ones.)
 	Dreams could help prevent this destructuring effect during sleep. Slow wave, dreamless sleep is the time when the cells of the central nervous system ‘recharge’: the metabolic processes go into full swing. This process could be destructive to memory, however. About every ninety minutes therefore, slow wave sleep is interrupted by REM sleep which could serve to keep memory structured.
 DESCRIPTION IMPLICATIONS OF DREAMING FROM LITERATURE
 
@@ -946,19 +997,19 @@ Memory traces survive any cortical lesion, provided some portion of cortex remai
 - Karl S. Lashley
 
 
-	Donald Hebb argued for distributed memory in his famous book “The Organization of Behaviour,” (1949) and his lasting contribution in this area was the concept of cell assemblies. His idea was that
+	Donald Hebb argued for distributed memory in his famous book "The Organization of Behaviour,” (1949) and his lasting contribution in this area was the concept of cell assemblies. His idea was that
 
-“any frequently repeated stimulation will lead to the slow development of a cell assembly, a diffuse structure comprising cells in the cortex... capable of acting briefly as a closed system, delivering facilitation to other such systems and usually having a specific motor facilitation.  A series of such events constitutes a phase sequence - the thought process. Each assembly action may be aroused by a preceding assembly, by a sensory event, or - normally by both. The central facilitation from one of these activities on the next is the process of attention.”
+"any frequently repeated stimulation will lead to the slow development of a cell assembly, a diffuse structure comprising cells in the cortex... capable of acting briefly as a closed system, delivering facilitation to other such systems and usually having a specific motor facilitation.  A series of such events constitutes a phase sequence - the thought process. Each assembly action may be aroused by a preceding assembly, by a sensory event, or - normally by both. The central facilitation from one of these activities on the next is the process of attention.”
 
 DESCRIPTION RELATING CELL ASSEMBLIES TO DISTRIBUTED MEMORIES
 	The concept of a cell assembly is a powerful one, and the idea that specific patterns lead to others in sequence is termed association.
 	Rumelhart and McClelland (1986) argue that a distributed memory is more robust than a localized memory where one cell corresponds to one concept, because the distributed memory survives the loss of individual units, and noise in the memory traces.  As cells fail, the degradation of system performance is gradual, rather than immediate and total. If a concept is represented by the joint action of one hundred cells, and one of those cells fails, the pattern will still be 99% accurate.
 	In the 1960s Bernard Widrow and his student Marcian Hoff were building the first adaptive filters, which were very much like neuron models. They had a working model, a huge box covered with potentiometers and meters that demonstrated learning using the Least Means Square (LMS) algorithm. They demonstrated it successfully to the people with the money. Later, when they stripped the unit down, they discovered cold solder joints, short circuits, even damaged components. Yet, due to the distributed nature of the design and feedback in the algorithm, the unit worked as if nothing was wrong (Widrow, 1988).
-	In the first half of this century, Lashley argued for full distribution of memories, thoughts, and mental patterns (engrams), based on the observation that destroying portions of cortex results in a gradual degradation of performance, rather than piecemeal loss of conceptual ability and memory. In a series of experiments involving lesions in the brains of various animals, he demonstrated that specific memories don't reside in any one particular spot in the cortex. Once a rat, for example, learns to solve a maze, it retains the ability to solve the maze until the entire cortex is destroyed, although performance slowly degrades and the rat makes more and more wrong turns. Summarizing thirty years of research in the paper “In Search of the Engram,” Lashley found that “memory traces survive any cortical lesion, provided some portion of cortex remains intact.” He reached the ultimate conclusion that every area of the brain was involved in storing every memory, and every area of the brain was in some way involved in every thought. This would be total distribution of brain functionality.
+	In the first half of this century, Lashley argued for full distribution of memories, thoughts, and mental patterns (engrams), based on the observation that destroying portions of cortex results in a gradual degradation of performance, rather than piecemeal loss of conceptual ability and memory. In a series of experiments involving lesions in the brains of various animals, he demonstrated that specific memories don't reside in any one particular spot in the cortex. Once a rat, for example, learns to solve a maze, it retains the ability to solve the maze until the entire cortex is destroyed, although performance slowly degrades and the rat makes more and more wrong turns. Summarizing thirty years of research in the paper "In Search of the Engram,” Lashley found that "memory traces survive any cortical lesion, provided some portion of cortex remains intact.” He reached the ultimate conclusion that every area of the brain was involved in storing every memory, and every area of the brain was in some way involved in every thought. This would be total distribution of brain functionality.
 	The opposite point of view, that an individual cell holds the complete representation of a single concept (for example, the activation of one cell represents the concept of ‘grandmother’) has been championed equally vociferously by the ‘connectionists.’
 	Memories are likely stored in terms of what already exists in memory. Understanding only occurs in terms of previous understanding. Imagine therefore a cell embodying the concept of ‘pen,’ connected to related cells such as ‘long,’ ‘thin,’ ‘ink,’ ‘writing,’ and so on. If the ‘pen’ cell were destroyed in that kind of grandmother cell based memory system, would not the concept of ‘pen’ still exist as an emergent property of the net, a consequence of the web of relations between all the other cells?
 	In that type of formulation, rather than having knowledge embodied in individual cells, concepts and generalizations could be stored in terms of connection strength and direction between ‘grandmother cells.’ This would result in a connected and weighted graph very similar in concept to Minsky's K-Lines (Minsky, 1988). Knowledge would be distributed between the cells, therefore the system would be robust.
-	Related to these ideas is the question of temporal ordering. How can a mind associate a memory with a particular time? Is the when of an event available as part of a memory, or is it remembered as an association? “What else was I doing then? Where was I? What time of year? Hmmm... Must have been the spring of 1983; or was it 1984?”
+	Related to these ideas is the question of temporal ordering. How can a mind associate a memory with a particular time? Is the when of an event available as part of a memory, or is it remembered as an association? "What else was I doing then? Where was I? What time of year? Hmmm... Must have been the spring of 1983; or was it 1984?”
 
 	It seems after due contemplation of the literature, that both systems have merit, but neither paradigm alone can explain observable phenomenon.  Some sort of amalgam is necessary. In both vertebrate and higher invertebrate nervous systems, a high degree of differentiation and specialization of tissue is apparent, yet within the functional subsystems, there is a certain uniformity of structure (perhaps sometimes even self similar or fractal) and distribution of memories.
 	Obviously, the differentiation of the macrostructure points to a particular reconceptualization of the ‘grandmother cell’ concept, and the homogeneity of the microstructure naturally suggests the distribution of the engram.
@@ -973,7 +1024,7 @@ DESCRIPTION RELATING CELL ASSEMBLIES TO DISTRIBUTED MEMORIES
 	Perhaps a model of short term memory could be based upon a topological space. We could visualize it as a big white room with percepts forming the walls... Thoughts, sights, sounds, body feelings, and so on, forming a topological space. T he space would undergo continuous transformation, much as the view changes as the eyes are shifted.
 	In this model of short term memory, association strength is dependent upon the attention given to a particular percept - either external (a sensation) or internal (an association or thought).  The more unique a stimuli, the more likely it is to receive attention, the less unique, the more likely it is to fade, and be replaced by a different pattern of activation.
 	Percepts could undergo decay as time passes. Focussing the attentional spotlight on a percept would renew its strength, giving it time to form long term memory traces. Repeatedly focussing on a percept would therefore lead to learning.
-	“That reminds me of...” All aspects of the topological space excite long term memory stores (and each other), and if a strong enough resonance occurs, a new focus of attention is generated. “Hey! That reminds me of...”
+	"That reminds me of...” All aspects of the topological space excite long term memory stores (and each other), and if a strong enough resonance occurs, a new focus of attention is generated. "Hey! That reminds me of...”
 
 
 
@@ -1058,7 +1109,7 @@ When an axon of cell A is near enough to excite a cell B, and repeatedly or pers
 - Donald O. Hebb
 
 
-	In “The Organization of Behaviour”, published in 1949, Hebb formulated the first detailed synaptic learning rule, a presynaptic and post-synaptic correlation rule. Variations of his rule are in common use today. Models which use a pre- post- synaptic learning rule are generally refered to as Hebbian models.
+	In "The Organization of Behaviour”, published in 1949, Hebb formulated the first detailed synaptic learning rule, a presynaptic and post-synaptic correlation rule. Variations of his rule are in common use today. Models which use a pre- post- synaptic learning rule are generally refered to as Hebbian models.
 	The problem is, Hebb's law doesn't work as stated. It only allows for the increase of synaptic efficiency - synaptic weights in a pure Hebbian system will increase without bound. Such a system will never be stable because as the neurons learn, their weights will keep climbing towards infinity, until finally they are unrepresentable, or meaningless.
 	One possible solution which makes the rule work as true correlation learning is to state that neurons which fire together will have their synaptic efficiencies increased, and neurons that don't fire together will have their efficiencies decreased. An alternative is to introduce an inhibitory term so that cells that don't fire together tend to inhibit each other. Another solution in common use is to continually renormalize the weights of each cell, so that they always add up to a constant value, the theory here being that there can be only a certain amount of resource available to each cell. Learning rules making use of these modifications are also termed Hebbian, in honour of Hebb's ground breaking work.
 	Over the years, many variations have been suggested to make the rule work. It is important to remember that all the modifications introduced into systems of Hebbian learning are introduced to cover for the tendency of the weights to climb uncontrollably to infinity, and that these constraints, in general, are entirely arbitrary heuristics telling us nothing about real neurons.
@@ -1388,12 +1439,12 @@ S( ,K)) increases the refractory period, making the neuron respond at a slower r
 
 	It's interesting to note that this neuron model evolved from a philosophical exercise, an attempt to develop a predicate calculus. Warren McCulloch was fascinated by multi-valued logic systems, and searched everywhere for one. The logic we regularly deal with is two-valued, binary, and for the predicate calculus described in their paper McCulloch and Pitts used binary logic. It's long been recognized that the output of a neuron is binary, all or none. McCulloch and Pitts used that as their initial assumption to insure that the activity of every neuron could be represented as a logical proposition.
 
-“To each reaction of any neuron there is a corresponding assertation of a simple proposition.”
+"To each reaction of any neuron there is a corresponding assertation of a simple proposition.”
 
 	This implied conjunction and disjunction of propositions represented by activity in the nervous system.
 	They decided that a certain number of synapses, the neuron's threshold value, would have to be active in a given time slice or quantum before the neuron could fire. They stated that
 
-“temporal summation may be replaced by spatial summation”
+"temporal summation may be replaced by spatial summation”
 
 and this assumption is commonly used today. There would be two types of synapses, excitatory and inhibitory. The excitatory synapses would all have equivalent weight, and the action of the inhibitory synapse would be absolute, if an inhibitory synapse was active, the neuron would not fire. Other researchers would later discard those rules in favour of excitatory and inhibitory synapses that could take on different values or weights.
 	Finally, with the assumption that network structure doesn't change over time, they showed that networks of their formal neurons were equivalent in computational ability to a Turing machine, although, unlike a Turing machine, the networks would not be general purpose.
@@ -1418,10 +1469,10 @@ and this assumption is commonly used today. There would be two types of synapses
 .c26.5.3: WHAT THE PERCEPTRON COULDN'T DO *
 
 
-	A famous proof in the book “Perceptrons” is the “parity problem.” No combination of weights can induce a Perceptron to determine the parity of a bit pattern, unless at least one Perceptron is connected to every part of the input pattern.
-	The “parity problem,” and the “exclusive-or problem” both point out the need for multilayer networks. Unfortunately, in 1969, no convergence procedure existed for multi-layer networks.†
+	A famous proof in the book "Perceptrons” is the "parity problem.” No combination of weights can induce a Perceptron to determine the parity of a bit pattern, unless at least one Perceptron is connected to every part of the input pattern.
+	The "parity problem,” and the "exclusive-or problem” both point out the need for multilayer networks. Unfortunately, in 1969, no convergence procedure existed for multi-layer networks.†
 	A theorem was proved by Kolmogrov which showed that a multi-layer network with N(2N+1) nodes could learn any continuous function of N variables. Unfortunately the theorem doesn't give any clues as to how to generate the weights. (Lippmann 1987)
-	An interesting example from the book demonstrating the problems of linear separability is the “connectivity proof,”which involves diameter limited Perceptrons. A diameter limited Perceptron means that no single processing element can have access to the entire input space. The following set of figures is enough to show that no diameter limited Perceptron can determine whether a figure is connected or if it is not.
+	An interesting example from the book demonstrating the problems of linear separability is the "connectivity proof,”which involves diameter limited Perceptrons. A diameter limited Perceptron means that no single processing element can have access to the entire input space. The following set of figures is enough to show that no diameter limited Perceptron can determine whether a figure is connected or if it is not.
 
 
 
@@ -1442,7 +1493,7 @@ Because the Perceptron can only perform a weighted summation of its inputs, ther
 .c26.5.4: THE PERCEPTRON CONVERGENCE THEOREM
 
 
-	The Perceptron Convergence Theorem is states that a Perceptron can learn any group of linearly separable patterns. Of course, since the Perceptron is usally implemented on a digital computer, it has a finite set of states. “Convergence” is then rather a vacuous idea, because a solution could be reached by stepping through and testing every possible state. (Minsky and Paper, 1969) Time of convergence is the important factor, and it is this which the convergence algorithm tries to give us.
+	The Perceptron Convergence Theorem is states that a Perceptron can learn any group of linearly separable patterns. Of course, since the Perceptron is usally implemented on a digital computer, it has a finite set of states. "Convergence” is then rather a vacuous idea, because a solution could be reached by stepping through and testing every possible state. (Minsky and Paper, 1969) Time of convergence is the important factor, and it is this which the convergence algorithm tries to give us.
 	The classical Perceptron convergence algorithm works as follows:
 
 INSERT ALGORITHM HERE
@@ -1451,7 +1502,7 @@ INSERT ALGORITHM HERE
 .c26.6: ADAPTIVE FILTERS
 
 
-	Adaptive filters are the result of the work of Bernard Widrow and Marcian Hoff, dating back to about the same period as the introduction of the Perceptron. Their model, called the Adaline (ADAptive LINear Element) made an immediate impact because of the tack taken by their presentation: rather than being a purely theoretical model, their paper “Adaptive Switching Circuits” was mostly concerned with practical applications and implementations (Widrow and Hoff, 1960).
+	Adaptive filters are the result of the work of Bernard Widrow and Marcian Hoff, dating back to about the same period as the introduction of the Perceptron. Their model, called the Adaline (ADAptive LINear Element) made an immediate impact because of the tack taken by their presentation: rather than being a purely theoretical model, their paper "Adaptive Switching Circuits” was mostly concerned with practical applications and implementations (Widrow and Hoff, 1960).
 	The Adaline was put to immediate use, and has found its way into numerous applications. The original application was adaptive antennae, and today an adaptive filter trained by the Adaline's method of gradient descent is used extensively in communications: high speed modems, long distance telephone lines, satellite communications, and so on.
 	The Adaline was an adaptive system, designed to minimize the number of errors occurring during the execution of a particular task. An operator had to give examples of input to the system, and examples of the desired response, and the system learned to match the examples. The performance of the system was directly related to the extent of the system's experience.
 
@@ -1487,7 +1538,7 @@ INSERT ALGORITHM HERE
 	In a deterministic system, a regular periodic oscillator, say, the amount of information is very low: we know the amplitude of the oscillation, the period, the phase. On the other hand, in an indeterminate system, where no regular rule governs its operation, the information content is very high. Consider music for example: There is a long series of notes, each with its own description, or information. Each note is an event, and each event carries information with it. If an event is observed in an indeterminate system, that observation constitutes a specification of information.
 	Qualitatively, the less likely an event, the more information is associated with that event. These simple observations led Shannon and Weaver (Shannon, 1949 XXX) to lay the groundwork for modern information theory, and to other useful concepts, such as the ‘bit’, which is the smallest possible unit of information.
 	Stochastic models describe causal processes in determinate or indeterminate probabilistic terms by using probability density functions, correlation, or other quantizing methods.
-	John von Neumann was searching for a language of the brain towards the end of his life. Theories about the brain typically employ the language and formalisms of physical law, and symbolic logic. In the final chapter of his book “The Computer and the Brain,” (1958), he suggests that the language of mathematics is not the language of the brain, but perhaps only a historical accident. “When we talk mathematics,” he said, “we may be discussing a secondary language based on the primary language used by the nervous system.”
+	John von Neumann was searching for a language of the brain towards the end of his life. Theories about the brain typically employ the language and formalisms of physical law, and symbolic logic. In the final chapter of his book "The Computer and the Brain,” (1958), he suggests that the language of mathematics is not the language of the brain, but perhaps only a historical accident. "When we talk mathematics,” he said, "we may be discussing a secondary language based on the primary language used by the nervous system.”
 	For a computer, high accuracy is a given. In a nervous system, however, physical constraints limit the accuracy. Neurons have a certain maximum pulse rate, a certain charge and discharge rate: physical limitations. Only a small accuracy is possible, orders of magnitude less that that of a digital computer. This leads to a very low precision system, but a reliable one... The system is statistical, rather than deterministic. In a probability governed system, it doesn't make all that much difference if a bit is lost here or there.
 	An intriguing idea is to model network connectivity stochastically, or in terms of probability density functions. A well known model that used this approach to model a system with thousands of neurons was the bullfrog simulation, Rana Computrix, of Pellionisz (1977 XXX).
 
@@ -1542,12 +1593,12 @@ DIAGRAM TRANSIENT ON RESPONSE DEMONSTRATION
 INSERT BOX WITH PROOF THAT PERCEPTRONS AND SINGLE LAYER BACKPROP NETS CAN COMPUTE ANY LINEARLY SEPARABLE FUNCTION.
 
 nearly separable, and graduallyle concept of neural computing.
-	That frustration major conceptual breakthroughsral computers. Perceptrons had after alltelligence was but a step away! the publication of “Perceptrons” by Minsky and Papert in 1969 is final blow to research at that time.
+	That frustration major conceptual breakthroughsral computers. Perceptrons had after alltelligence was but a step away! the publication of "Perceptrons” by Minsky and Papert in 1969 is final blow to research at that time.
 	When the book arriveda particular strictly defined Perceptron could and couldn't do.
 
 INSERT BOX ABOUT MINSKY AND PAPERT'S DEFINITION OF THE PERCEPTRON, EMPHASIZING NARROWNESS OF THE DEFINITION
 
-	Recently it has become popular to knock Minsky and Papert for the publication of this book. I feel this is not goodas I feel it marked dispelled.  Explanations like “workshis way, well... Just, because,”led by the release of Rumelhart and McClelland's “arallel Distributed Processing” in 1986.
+	Recently it has become popular to knock Minsky and Papert for the publication of this book. I feel this is not goodas I feel it marked dispelled.  Explanations like "workshis way, well... Just, because,”led by the release of Rumelhart and McClelland's "arallel Distributed Processing” in 1986.
 6.4it is still with us Chances are you have several hundred McCulloch-Pitts neurons on your wrist if you are wearing a digital watch.Td by multi-valued logic systemsspent years in the searchtrue or falsebynd Pitts used binary logic. It’ number of synapses, the neuron'used today in almost every neural network model (It is commonly expressed as the inner product of a synaptic weight vector w, and a signal vector x, arriving at those synapses:
 I
 SUi, ,w
@@ -1562,7 +1613,7 @@ DIAGRAM PERCEPTRON NETWORK (OPTICAL ILLUSION VERSION)
 
 
 INSERT PROOF THAT NEURAL NETWORK CAN LEARN ANY L2 FUNCTION, AND REFERENCE
-“Perceptrons"is defined as a network connected suchin some fashion to the grid. se topological  figure is easier to recognize?
+"Perceptrons"is defined as a network connected suchin some fashion to the grid. se topological  figure is easier to recognize?
 demonstrations are toy problems in thatghts that are infinitely large refer to6.4d testing every possible state.nce algorithm tries to give us.
 
 6.5In the diagram above, t
@@ -1576,7 +1627,7 @@ demonstrations are toy problems in thatghts that are infinitely large refer to6.
 
  The Back Propagation algorithm championed by the PDP group is described in Section 7.2.
 
- Minsky and Papert's “Perceptrons” of 1969 provides a readable and rigorous delineation of the Perceptron's capabilities.
+ Minsky and Papert's "Perceptrons” of 1969 provides a readable and rigorous delineation of the Perceptron's capabilities.
 
  Section 7.3 describes the back propagation algorithm which can train hidden layers.
 
@@ -1737,7 +1788,7 @@ S( ,i)(t)
 r'(t) = r(t) + gp(t) - p(t-1)
 
 	The term g, the discount term, is provided so that in the absence of external reinforcement, the internal signals will gradually die away to nothing. When no failure has occurred, r(t) is zero. The internal reinforcement, is therefore the difference between the discounted predicted reinforcement gp(t), and the previous predicted reinforcement p(t-1).
-	If the system moves from a low danger state to a high danger state, the internal reinforcement will be negative, punishing the system. If, on the other hand, the system moves from a high danger state to a lower danger state, reinforcement will be positive: reward. To quote Barto, Sutton, and Anderson, “the system thus learns which states are safe, and which are dangerous.”
+	If the system moves from a low danger state to a high danger state, the internal reinforcement will be negative, punishing the system. If, on the other hand, the system moves from a high danger state to a lower danger state, reinforcement will be positive: reward. To quote Barto, Sutton, and Anderson, "the system thus learns which states are safe, and which are dangerous.”
 	Let's examine equation 5 a little more closely. Upon failure, the output of the decoder, and consequently the ACE, p(t), will be zero, but the external reinforcement, r, will be -1. In this case, the internal reinforcement, r', will be the difference between the previous reinforcement signal, p(t-1) , and the failure signal. A fully predicted failure will therefore cause no reinforcement. Incorrect actions that came before the failure will be punished in accordance with how much the ACE's eligibility traces have decayed. The predictions of failure that came before the failure will be rewarded, because they were accurate predictions.
 	The equations governing learning in the ACE are very similar to those which control the ASE.
 v
@@ -1814,7 +1865,7 @@ where:
 .c26.11.7: ENHANCING THE ASE/ACE MODEL
 
 
-	A system having only two modes of control, up or down, is not very useful in the real world. There is the problem of wear from continually switching the thrusters on and off, and also unreasonable fuel consumption. A simple modification was to implement a “dead zone” at the central four boxes of the state diagram where the thrusters would automatically be disabled. Learning proceeded normally, and the system did shut its thrusters off periodically.
+	A system having only two modes of control, up or down, is not very useful in the real world. There is the problem of wear from continually switching the thrusters on and off, and also unreasonable fuel consumption. A simple modification was to implement a "dead zone” at the central four boxes of the state diagram where the thrusters would automatically be disabled. Learning proceeded normally, and the system did shut its thrusters off periodically.
 	This solution departed from the original specification of the problem - which was to have the system learn control by itself - so alternative ASE/ACE architectures were explored.
 	The basic model of the ASE/ACE system has only a single binary output. To add a third control option would require another bit of output.
 
@@ -2119,10 +2170,10 @@ S( ,i) represents the current state of neuron i. U
 S( ,i) is the threshold of neuron i, typically taken to be zero.
  	Each neuron updates randomly and asynchronously in time, a stochastic process which takes place at some particular rate for each neuron.
 represents the current state of neuron i
-	T is the connection matrix describing the synaptic weighting, or “synaptic efficiency” that exists between units i and j.
+	T is the connection matrix describing the synaptic weighting, or "synaptic efficiency” that exists between units i and j.
 	Note that if a connection existed for i=j, along the main diagonal of the matrix, a neuron would have a connection going to itself: feedback, in other words.
 	Symmetrical connections were used because they allow for an easy analysis of network behaviour: specifically, generating the Lyapunov energy measure, as detailed below.
-	As V, the current output of a particular neuron, can take on only the values of zero or one, it represents a strong nonlinearity.  As such, it allows the model to make choices.  As Hopfield said, the very “essence of computation is nonlinear logical operations.”
+	As V, the current output of a particular neuron, can take on only the values of zero or one, it represents a strong nonlinearity.  As such, it allows the model to make choices.  As Hopfield said, the very "essence of computation is nonlinear logical operations.”
 	The most important contribution of the Hopfield model was the introduction of an energy, or Lyapunov function.  For a symmetric matrix with no feedback, the Lyapunov is:
 E = -
 F(1,2)S
@@ -2139,7 +2190,7 @@ I
 SU(i≠j, , T
 S( ,ij)) V
 S( ,j)
-	Hopfield says “this case is isomorphic with an Ising model.” DESCRIPTION OF ISING MODEL
+	Hopfield says "this case is isomorphic with an Ising model.” DESCRIPTION OF ISING MODEL
 	The energy function shows how the network converges to stable states.  DV
 S( ,i) is always positive, and since the energy, E, is bounded, iteration of the algorithm will lead to energy minimums: stable states. Similar memories often fuse into the same stable state.
 	To use a Hopfield network set up as an associative memory, the connection strengths between neurons must be initialized:
@@ -2239,7 +2290,7 @@ Another possibility, hyperacuity in neural systems, is described in Chapter 5.
 	There is no advantage to computation using a multilayer linear system, because any sequence of linear transformations can be accomplished by an equivalent transformation in a single step. Even in a linear system, learning in a multiple layer network is more effective, because it allows progressive computation and transformation of the signal. The network can always be ‘folded’ into a single layer later.
 	Another weakness of a linear system is that there is no curb to the values which can exist in such a system. This leads to both values that are unrepresentable, and to the ultimate meaningless of the weights: as the weights in some of the units grow without bound, the information contained in one weight as compared to another which has not been growing becomes less and less. The only valuable information left is order of magnitude, rather than the stored quantity.
 	Introducing the non-linearity takes care of the magnitude problem. Below a certain point, activity is forced towards zero, and above a certain point, activity heads towards saturation. The output function is almost always nonlinear, monotonically increasing, and differentiable at all points. The most common transfer functions are a step function, a clipped ramp, or a sigmoid. In the middle the sigmoid curve allows a near-linear response. A very steep sigmoid provides simple thresholding, like in the McCulloch-Pitts neuron. Shallower curves allow the responsiveness of the neuron to be fine tuned.
-	The original form of the back propagation network consisted of an input layer where signals could be presented, a hidden layer whose function was to devise an “internal representation of the world,” and an output layer which would generate a response pattern.
+	The original form of the back propagation network consisted of an input layer where signals could be presented, a hidden layer whose function was to devise an "internal representation of the world,” and an output layer which would generate a response pattern.
 
 DIAGRAM A TYPICAL BACKPROP NET
 
@@ -2369,7 +2420,7 @@ F(dE,dw(t)) + aDw(t-1)
 .c27.3.3: FEEDBACK IN BACK PROPAGATION NETWORKS
 
 
-	A common solution to achieve feedback in a back propagation network is to “unwrap” the network - copies are made of the original network for each extra step. The weights of each network copy are shared.
+	A common solution to achieve feedback in a back propagation network is to "unwrap” the network - copies are made of the original network for each extra step. The weights of each network copy are shared.
 
 
 
@@ -2411,7 +2462,7 @@ The nature of neural systems is to comply with the statistical nature of the env
 
 
 	The Kohonen net is based on the principle of the topographic mapping. (XXX NEED MORE NEED MORE)
-	This derivation follows that in Teuvo Kohonen's book, “Self Organization and Associative Memory” (Kohonen, 1988)
+	This derivation follows that in Teuvo Kohonen's book, "Self Organization and Associative Memory” (Kohonen, 1988)
 DESCRIBE DERIVATION OF FOLLOWING EQUATION
 
 h
@@ -2429,7 +2480,7 @@ g is the lateral inhibition function
 y is the input signal
 s is the transfer function, typically sigmoid.
 
-	Activity tends to cluster in a lateral inhibitory net, forming “bubbles” of activation. The size of the bubbles is dependent on the width of the lateral inhibitory function. (As an aside, lateral inhibition could implement an attention mechanism, perhaps in the reticular formation surrounding the thalamus.)
+	Activity tends to cluster in a lateral inhibitory net, forming "bubbles” of activation. The size of the bubbles is dependent on the width of the lateral inhibitory function. (As an aside, lateral inhibition could implement an attention mechanism, perhaps in the reticular formation surrounding the thalamus.)
 
 	A network of neurons is arranged in a grid - a linear array, a square matrix, an hexagonal matrix. The evidence of the orientation sensitive cells in the visual cortex is that in the vertical dimension, each cortical column responds to approximately the same stimuli.
 	Using actual brain structures as inspiration, we may suppose it is unnecessary to extend the model to more than two dimensions. Metaphorically, a neuron in a Kohonen network could correspond to a single cortical column.
@@ -2519,7 +2570,7 @@ You can't abstract the self-adjusting search mechanism from the attentional mech
 
 
 	Adaptive Resonance is based on the premise that expectancy governs perception. In a simple system where input is presented and a response appears, feedback is necessary for meaningful learning. Individual neural events, such as action potentials or habituation or whatever, require a larger framework to bind them together and give them relevance. Feedback resonance - resonance between expectancy and actual input - provides such a framework.
-	The Adaptive Resonance Theory (ART) also addresses what Grossberg calls the “capacity catastrophe.” Information keeps arriving from the environment, and a learning system can be overwhelmed. Knowledge gained earlier can be erased, or made unusable by crosstalk in a distributed system. Usually, learning is frozen at some point to prevent this from happening. Frozen weights require a stationary environment. Unfortunately, the real world is not static. Adaptive Resonance therefore continuously evolves new categories for information and refines old categories to reflect the environment.
+	The Adaptive Resonance Theory (ART) also addresses what Grossberg calls the "capacity catastrophe.” Information keeps arriving from the environment, and a learning system can be overwhelmed. Knowledge gained earlier can be erased, or made unusable by crosstalk in a distributed system. Usually, learning is frozen at some point to prevent this from happening. Frozen weights require a stationary environment. Unfortunately, the real world is not static. Adaptive Resonance therefore continuously evolves new categories for information and refines old categories to reflect the environment.
 	The first step to understanding adaptive resonance is to imagine a possible error situation. Given a system where input is presented, and a response is elicited, what should happen if two markedly different inputs evoke the same response? It would be appropriate then to learn a new response.
 
 DIAGRAM LEARNING A NEW CATEGORY
@@ -2539,7 +2590,7 @@ DIAGRAM LEARNING A NEW CATEGORY
 DIAGRAM THE NECKER CUBE AND HEX CUBES
 
 	Which face forms the front of the Necker cube? Is the middle cube of the lower figure convex or concave? The percept switches back and forth as attention shifts, or as the eye moves, or possibly even as neurotransmitters charge and recharge.
-	To realize the adaptive resonance network, a lateral inhibitory circuit was designed. Grossberg called it a “recurrent shunting on-center off-surround network.”
+	To realize the adaptive resonance network, a lateral inhibitory circuit was designed. Grossberg called it a "recurrent shunting on-center off-surround network.”
 
 DIAGRAM OF SAID NETWORK
 
@@ -2566,7 +2617,7 @@ DIAGRAM FUKUSHIMA'S NEOCOGNITRON
 
 
 
-This derivation follows that in “Learning Representations by Back-Propagating Errors” by Rumelhart et al., 1986.
+This derivation follows that in "Learning Representations by Back-Propagating Errors” by Rumelhart et al., 1986.
 
 
 Section 6.6 has a discussion of gradient descent and the problems of local minima.
@@ -2704,18 +2755,18 @@ Unicellular command vs consensus
 	Functional organization and differentiation within a network is possibly a result of the location of the neurons with respect to sensory input - the incoming information organizes the network, so the outer most layers are the most specialized.
 
 	There is a trend evident in invertebrate nervous system development. The various ganglia are quite large in older, more primitive forms. In the more modern species, the ventral and posterial ganglia tend to be smaller, and their functions are taken over by the head ganglia. Predatory species have more developed capabilities than do less active species. Hunting spiders, as an example, have more developed sensory processing capabilities than do webspinners. (A similar phenomenon in the case of vertebrates is the fact that grazing or scavenging organisms will have less developed brains than the predators.)
-	Invertebrate nervous systems generally have a ladder-like organization: the “rungs” are formed by segmental ganglia and the cerebral and caudal ganglia form either end. Examining more and more complex phyla shows that the ganglia become clustered closer and closer to the cerebral ganglion, being ultimately subsumed into it. Typically however, each segment of an invertebrate's body contains a variety of ganglia where local processing takes place.
+	Invertebrate nervous systems generally have a ladder-like organization: the "rungs” are formed by segmental ganglia and the cerebral and caudal ganglia form either end. Examining more and more complex phyla shows that the ganglia become clustered closer and closer to the cerebral ganglion, being ultimately subsumed into it. Typically however, each segment of an invertebrate's body contains a variety of ganglia where local processing takes place.
 	The ladder architecture is exemplified by the leech's nervous system (as illustrated below), but the circuit is fundamentally important to all invertebrates. Examples of the ladder architecture are the control of swimming in the leech, crawling in Nereis, chewing in the lobster's stomach, and walking in insects. A swimming motion is often accomplished by contraction of muscles on one side, and relaxation on the other. Symmetrical spikes could fire both sides, with contralateral inhibition of motoneurons providing the desired action. Inhibitory pathways could prevent repetitive ipselateral firing.
 
 DIAGRAM OF THE LEECH
 
-		Through the inhibitory connections between the ganglia, the ladder circuit forms a pattern generator. Even though pattern generators produce rhythmic outputs, pacemaker cells are seldom found in the circuits (Laurent and Hustert, 1988). Rather, the patterns are a consequence of the pattern of inhibitory connections between naturally charging and discharging cells. The patterns provide a low energy operational modality - the neurons settle into a pattern whereby they can all fire maximally in time. As an example, two identical neurons connected such that each inhibits the other will settle into a pattern whereby they fire alternately with the spikes maximally separated in time. This circuit is called the “half-center” model by (Pearson, 1976). The diagram below shows the results of a simulation demonstrating two Hodgkin-Huxley type neurons interconnected as the half-center model.
+		Through the inhibitory connections between the ganglia, the ladder circuit forms a pattern generator. Even though pattern generators produce rhythmic outputs, pacemaker cells are seldom found in the circuits (Laurent and Hustert, 1988). Rather, the patterns are a consequence of the pattern of inhibitory connections between naturally charging and discharging cells. The patterns provide a low energy operational modality - the neurons settle into a pattern whereby they can all fire maximally in time. As an example, two identical neurons connected such that each inhibits the other will settle into a pattern whereby they fire alternately with the spikes maximally separated in time. This circuit is called the "half-center” model by (Pearson, 1976). The diagram below shows the results of a simulation demonstrating two Hodgkin-Huxley type neurons interconnected as the half-center model.
 
 DIAGRAM A SIMPLE PATTERN GENERATOR
 
 	Pattern generators often produce several characteristic patterns, each modulated by varying levels of excitatory or inhibitory activity on the individual neurons. In a a walking controller, for example, several gaits can exist as emergent properties of the system - walk, pace, canter, trot , or run. All the patterns are produced by the same circuit, but are a consequence of different levels of tonic excitation, or possibly of differential activation of interneurons in the circuit. A separate circuit sometimes exists to ‘kickstart’ a pattern generator by providing an initial muscular wave, although it is possible that noise in a system could be a sufficient mechanism for self starting. It is important to remember that behaviour is distributed in all nervous systems, vertebrate and invertebrate. In general, the circuits controlling various behaviours can not generally be considered completely in isolation. In moths, for example, attempts to fly are accompanied by rhythmic discharges in the auditory neurons (Guthrie, 1980).
 
-	Behaviour is a function of an organism's perception of the environment, modulated by the senses, and controlled by the brain. The corpora penduculata or “mushroom body” is the brain of the insect. Its prime function is the integration of sensory information. The calyx performs visual processing; and the stalk and ventral lobes handle smell and other senses. The corpora penduculata is named for its shape, as shown in the diagram below.
+	Behaviour is a function of an organism's perception of the environment, modulated by the senses, and controlled by the brain. The corpora penduculata or "mushroom body” is the brain of the insect. Its prime function is the integration of sensory information. The calyx performs visual processing; and the stalk and ventral lobes handle smell and other senses. The corpora penduculata is named for its shape, as shown in the diagram below.
 
 DIAGRAM THE CORPORA MUSHROOM
 
@@ -2756,7 +2807,7 @@ The similarity of the walking systems in the cat and the cockroach suggests that
 
 DIAGRAM OF MODEL
 
-	It is difficult to get robust behaviour with binary sensors - imagine that it was necessary to rely on hot/not hot sensors for touch: If the hot sensors reported “hot,” how would you know whether an object was pleasantly warm, or painful to touch? Different behaviours are appropriate in each case. In general, a range of return values is more informative.
+	It is difficult to get robust behaviour with binary sensors - imagine that it was necessary to rely on hot/not hot sensors for touch: If the hot sensors reported "hot,” how would you know whether an object was pleasantly warm, or painful to touch? Different behaviours are appropriate in each case. In general, a range of return values is more informative.
 	The insect's leg has a variety of mechanoreceptors, some of which -correspond to forward and backward angle sensors: the spurs on the back of the foot signal backward extension, strain sensors in the insect's exoskeleton serve as forward angle sensors. In addition, the pads on the bottom of the insect's foot, the pulvilli, are load sensors (see Figure 14).
 	Natural sensory afferents have nonlinear responses and the simulations described in this chapter use reponses summarized below. The more extreme the angle of the leg, the greater the firing frequency of the sensory neurons - so that for very extreme angular displacements, the signals can't be ignored, and are therefore analogous to pain. This observation points the way to learning in the circuit, perhaps via instrumental conditioning.
 
@@ -2799,7 +2850,7 @@ DIAGRAM STEP CYCLE
 
 DIAGRAM REFLEXES
 
-	The retractor circuit is synergistic to the rest of the system - it helps generate the full motion of the foot during the walking cycle as detailed above. The leg withdrawal reflex provides a “stumble” which can allow the animal to deal with highly irregular terrain or obstacles. An example of how the reflex works is easily observed if the front of a cat's foot is tapped during the swing phase. The leg will suddenly halt its swing, quickly withdraw and lift, and the extend over the obstacle that blocked the leg's swing.
+	The retractor circuit is synergistic to the rest of the system - it helps generate the full motion of the foot during the walking cycle as detailed above. The leg withdrawal reflex provides a "stumble” which can allow the animal to deal with highly irregular terrain or obstacles. An example of how the reflex works is easily observed if the front of a cat's foot is tapped during the swing phase. The leg will suddenly halt its swing, quickly withdraw and lift, and the extend over the obstacle that blocked the leg's swing.
 	In the simulation, the circuitry of the stepping reflex was simulated using the Hodgkin-Huxley type neurons described in Section 6.3. The circuitry was duplicated six times, once for each leg (although the retractor and stumble reflexes were not simulated). If the central pattern generators are not interconnected, the circuit walks driven by sensory feedback. The gait patterns generated by this circuit are highly irregular however, due to the lack of any sort of inter-leg coordination beyond that provided by load information. Note that the only regular pattern observed is the tripod gait which results if the stance phase is driven at maximum speed.
 	The stepping reflex is quite robust and removing connections or randomly perturbing synaptic weights causes the gradual degradation of performance we have come to expect from neural networks. A leg will keep stepping even if all connections are corrupted to some small degree, thus demonstrating the inherent robustness of this circuit design.
 
@@ -2824,11 +2875,11 @@ DIAGRAM THE TRIPOD GAIT
 	DIAGRAM PEARSON's BASIC CIRCUIT
 
 	The level of tonic excitation controls the speed of the stance phase by controlling the power and speed of the thrust applied to the leg. The time taken for the stance controls the speed at which the animal travels and consequently the gait. The speed the animal can run is continuously variable. Observation of cockroaches tells us that it can run at any speed from 1 to 80 cm/s (corresponding to leg frequencies of 1 to 23 Hz), and the various stepping patterns smoothly blend from one to the next.
-	Pearson's basic circuit is repeated six times to generate a preliminary circuit for an insect's locomotion controller. A command neuron can be added to the circuit, which inhibits the central pattern generators and motoneurons. Refer to the following diagram. If the command neuron becomes quiet, then the circuit should spontaneously begin walking, although it may be necessary to give the last pair of generators a burst of excitation to start the walking sequence. In a reciprocally connected system, excitation of an individual neuron should be able to activate the entire system (Davis 1976). The simulation of Beer and Chiel demonstrated this phenomenon. When the simulated cockroach was “pushec” it walked spontaneously (Beer and Chiel, 1989).
+	Pearson's basic circuit is repeated six times to generate a preliminary circuit for an insect's locomotion controller. A command neuron can be added to the circuit, which inhibits the central pattern generators and motoneurons. Refer to the following diagram. If the command neuron becomes quiet, then the circuit should spontaneously begin walking, although it may be necessary to give the last pair of generators a burst of excitation to start the walking sequence. In a reciprocally connected system, excitation of an individual neuron should be able to activate the entire system (Davis 1976). The simulation of Beer and Chiel demonstrated this phenomenon. When the simulated cockroach was "pushec” it walked spontaneously (Beer and Chiel, 1989).
 
 DIAGRAM PRELIMINARY CONTROLLER
 
-	Experimentation (Beer, Chiel, and Sterling, 1989) reveals that this circuit will indeed generate valid gaits, but it is not robust, as is demonstrated by “lesion” studies. If a ganglion is “damaged” the gait produced by the circuit quickly breaks down as all coordination is lost.
+	Experimentation (Beer, Chiel, and Sterling, 1989) reveals that this circuit will indeed generate valid gaits, but it is not robust, as is demonstrated by "lesion” studies. If a ganglion is "damaged” the gait produced by the circuit quickly breaks down as all coordination is lost.
 
 DIAGRAM A LESION STUDY.
 
@@ -2861,1302 +2912,8 @@ Rodney Brooks has built upon the principal of emergent behaviours to generate hi
 
 This hypothetical architecture doesn't tell the whole story. Insects placed on water, for example, can propel themselves with synchronous contralateral kicks. Some arthropods can walk backwards or even sideways. These are radically different behaviours, elicited by different sensory input, and are not behaviours supported by this architecture. It is possible that each different behaviour is controlled by a collection of disjoint pattern generating circuits, selected amongst by the cerebral ganglion (Hoyle, 1976).
 
-The “lesion” was performed by “switching off” the central pattern generator corresponding to the mddle right leg in the ladder architecture circuit.
+The "lesion” was performed by "switching off” the central pattern generator corresponding to the mddle right leg in the ladder architecture circuit.
 
-
-Clarkson, Mark A., The Quest for the Molecular Computer, Byte, May 1989, pp. 269-273
-
-Drexler, K. Eric, Engines of Creation, 1985
-
-Hecht, Jeff, Physical Limits of Computing, Computers in Physics, Jul/Aug. 1989, pp. 34-40
-
-Lang, Gordon R., M. Dharssi, F.M. Longstaff, P.S. Longstaff, P.A.S. Metford, M.T. Rimmer, An Optimum Parallel Architecture for High-Speed Real-Time Digital Signal Processing, IEEE Computer Magazine, vol. 21, no.2, February 1988, pp. 47-57
-
-Shannon & Weaver, Towards a Theory of Information, 1949
-
-Wiener, Norbert, Cybernetics, 1965, MIT Press, Cambridge MA (xuberhths)
-
-
-
-General References and Collections of Papers - Neural Networks
-
-
-Advances in Neural Information Processing Systems, 1987, Morgan Kaufmann Publishers
-
-Advances in Neural Information Processing Systems, Volume 1, 1988, Morgan Kaufmann Publishers
-
-Advances in Neural Information Processing Systems, Volume 2, 1989, Morgan Kaufmann Publishers
-
-Aihara, Kazuyuki, Neural Computers: The Study of Brain and Neuron (in Japanese), Tokyo Electrical Engineering Institute, Tokyo, 1988
-
-Anderson, James A., editor, Foundations of Neuro-computing, MIT Press, Cambridge MA, 1988
-
-The Brain, a Scientific American Book, 1979, W.H. Freeman and co., New York
-
-Caianello, E.R., editor, Neural Networks: Proceedings of the School on Neural Networks, June 1967 in Ravello, 1968, Springer-Verlag Berlin
-
-Churchland, Patricia Smith, Neurophilosophy: Toward a Unified Science of the Mind-Brain, MIT Press, Cambridge MA, 1986
-
-The DARPA Study on Neural Networks
-
-Durbin, Richard, Christopher Miall, Graeme Mitchison (editors), The Computing Neuron, Addison Wesley, 1989
-
-Eckmiller, Rolf, Cristoph von der Marlsburg Eds., NATO ASI Series: #41. Neural Computers, Springer Verlag, Heidelberg, 1988
-
-First IEEE International Conference on Neural Networks, San Diego, 1987
-
-Gaines, Brian R., Sixth Generation Computing: a Conspectus of the Japanese Proposals, SIGART Newsletter, Jan. 1986, no. 95, pp. 39-
-
-Grossberg, Stephen, editor, Neural Networks and Natural Intelligence, MIT Press, Cambridge MA, 1988
-
-International Joint Conference on Neural Networks, 1988
-
-International Joint Conference on Neural Networks, 1989
-
-International Joint Conference on Neural Networks, Washington D.C. 1990
-
-International Joint Conference on Neural Networks, San Diego, 1990
-
-Irwin, Louis N., (ed.), Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, 1988, Birkhauser, Boston
-
-Johnson, R. Colin, Neural Networks in Japan, Electronic Engineering Times, April 6 1987, p. 49
-
-Kohonen, Teuvo, Self Organization and Associative Memory, second edition, Springer Verlag, Heidelberg, 1988
-
-Lippmann, Richard P., An Introduction to Computing with Neural Networks, IEEE ASSP Magazine, vol. 3, no. 4, April 1987, pp. 4-22
-
-McClelland, James L., David E. Rumelhart, Parallel Distributed Processing, vol. 1, MIT Press, Cambridge MA, 1986
-
-McClelland, James L., David E. Rumelhart, Explorations in Parallel Distributed Processing: A Handbook of Models, Programs and Exercises, MIT Press, Cambridge MA, 1989
-
-McCulloch, Warren S., Embodiments of Mind, MIT Press, Cambridge MA, 1965, reissued 1988
-
-MacGregor, Ronald, Neural and Brain Modeling, Academic Press Inc., San Diego, 1987
-
-Minsky, Marvin, The Society of Mind, Picador, London, 1987
-
-Rietmann, Ed, Experiments in Artificial Neural Networks, Tab Books, 1988
-
-Rumelhart, David E., James L. McClelland, Parallel Distributed Processing, vol. 1, MIT Press, Cambridge MA, 1986
-
-von Neumann, John, The Computer and the Brain, MIT Press, 1958
-
-
-
-Adaptive Control
-
-
-Anderson, Charles W., Learning to Control an Inverted Pendulum Using Neural Networks, IEEE Control Systems Magazine, April 1989, pp. 31-36
-
-Barto, Andrew G., Connectionist Learning for Control: An Overview, COINS Technical Report 89-89, September 1989, Department of Computer Science, University of Massachusetts at Amherst
-
-Barto, Andrew G., Richard S. Sutton, & Charles W. Anderson, Neuronlike adaptive elements that can solve difficult learning control problems, IEEE Transactions on Systems, Man, and Cybernetics, 1983, SMC-13, pp. 834-846
-
-Barto, Andrew G., Richard S. Sutton, Chris J.C.H. Watkins, Learning and Sequential Decision Making, COINS Technical Report 89-95, September 1989, Department of Computer Science, University of Massachusetts at Amherst
-
-Fujii, Teruo, Tamaki Ura, Development of Motion Control System for AUV Using Neural Nets, Proceedings of the IEEE Symposium on Autonomous Underwater Vehicle Technology, June 5 and 6, 1990, Washington D.C., pp. 81-86
-
-Josin, Garry, Development of a Neural Network Autopilot Model for a High Performance Aircraft, 1990 International Joint Conference on Neural Networks, pp. II: 547-550
-
-Michie D., & R.A. Chambers, BOXES: An experiment in adaptive control, in Machine Intelligence 2, E. Dale and D. Mitchie (eds.), Oliver and Boyd, Edinburgh, pp. 137-152 (1968)
-
-Nguyen, Widrow, Bernard, The Truck Backer Upper, 1989 International Joint Conference on Neural Networks, pp. II: 357-363
-
-Porcino, Nick, and James S. Collins, An Application of Neural Networks to the Control of a Free Swimming Submersible, Proceedings of the 1990 International Joint Conference on Neural Networks, Washington D.C., pp. II:417-420
-
-Sutton, Richard S., Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming, in Proceedings of the Seventh International Conference on Machine Learning, June 1990
-
-Watkins, Chris J.C.H., Learning from Delayed Rewards, PhD Thesis, May 1989, Kings College
-
-
-
-
-Adaptive Resonance Theory
-
-See also Vision - General for more related papers by Stephen Grossberg. Note that many of the papers cited here have been collected in the volume "Neural Networks and Natural Intelligence," edited by S. Grossberg and published by MIT Press in 1988.
-
-Carpenter, Gail, Stephen Grossberg, The ART of Adaptive Pattern Recognition by a Self Organizing Neural Network, IEEE Computer Magazine, March 1988, vol. 21, no. 3, pp. 77-88
-
-Cohen, Michael A., Stephen Grossberg, Masking Fields: A Massively Parallel Neural Architecture for Learning, Recognizing, and Predicting Multiple Groupings of Patterned Data, Applied Optics, 1987, vol. 26, no. 10, pp. 1866-1891
-
-Grossberg, Stephen, How does the brain build a cognitive code? Psychological Review, 1980, vol. 87, pp. 1-51
-
-Grossberg, Stephen, Competitive Learning: From Interactive Activation to Adaptive Resonance, Cognitive Science, 1987, vol. 11, pp. 23-67
-
-Grossberg, Stephen, Gail Carpenter, A Massively Parallel Architecture for a Self Organizing Neural Pattern Recognition Machine, Computer Vision, Graphics, and Image Processing, 1987, vol. 37, pp. 54-115
-
-Grossberg, Stephen, Daniel S. Levine, Neural Dynamics of Attentionally Modulated Pavlovian Conditioning: Blocking, Inter-stimulus Interval, and Secondary Reinforcement, Applied Optics,1987, vol. 26, pp. 5015-5030
-
-
-
-Back Propagation and Gradient Descent
-
-Allred, Lloyd G., Gary E. Kelly, Supervised Learning Techniques for Backpropagation Networks, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I:721-728
-
-Fahlman, Scott E., Christian Lebiere, The Cascade-Correlation Learning Architecture, Feb. 14, 1990, CMU-CS-90-100, School of Computer Science, Carnegie Mellon University, Pittsburg, PA 15213
-
-Fang, Yan, Terrence J. Sejnowski, Faster Learning for Dynamic Recurrent Backpropagation, in Neural Computation, vol. 2, no. 3, pp. 270-273
-
-Fukuda, T., T. Shibata, M. Tokita, T. Mitsuoka, Neural Network Application for Robotic Motion Control, Adaptation and Learning, in Proceedings of the International Joint Conference on Neural Networks, San Diego,1990, pp. III:447-451
-
-Hagiwara, Masafumi, Novel Back Propagation Algorithm for Reduction of Hidden Units and Acceleration of Convergence using Artificial Selection, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I:625-630
-
-Irie, Bunpei, Sei Miyake, Capabilities of Three-Layered Perceptrons, in Proceedings of the 1988 International Joint Conference on Neural Networks, pp. I: 641-648
-
-Jones, R.D., Y.C. Lee, C.W. Barnes, G.W. Flake, K. Lee, P.S. Lewis, S. Qian, Function Approximation and Time Series Prediction with Neural Networks, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I:649-665
-
-McClelland, James L., David E. Rumelhart, Parallel Distributed Processing, vol. 1, MIT Press, Cambridge MA, 1986
-
-McClelland, James L., David E. Rumelhart, Explorations in Parallel Distributed Processing: A Handbook of Models, Programs and Exercises, MIT Press, Cambridge MA, 1989
-
-Nguyen, Derrick, Bernard Widrow, Improving the Learning Speed of 2-Layer Neural Networks by Choosing Initial Values of the Adaptive Weights, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. III:21-26
-
-Parker, David B., A Comparison of Algorithms for Neuron-Like Cells, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbird UT, 1986, John S. Denker ed., pp. 327-332
-
-Rumelhart, David E., Geoffrey E. Hinton, Ronald J. Williams, Learning Representations by Back-Propagating Errors, Nature, 1986, vol. 323, pp. 533-536
-
-Rumelhart, David E., James L. McClelland, Parallel Distributed Processing, vol. 1, MIT Press, Cambridge MA, 1986
-
-Stinchcombe, Maxwell, Halbert White, Approximating and Learning Unknown Mappings using Multilayer Feedforward Networks with Bounded Weights, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. III:7-16
-
-Tollenaere, Tom, SuperSAB: Fast Adaptive Back Propagation with Good Scaling Properties, in Neural Networks, vol. 3, no. 5, pp. 561-574
-
-White, Halbert, Connectionist Nonparametric Regression: Multilayer Feedforward Networks Can Learn Arbitrary Mappings, Neural Networks, vol. 3, no. 5, pp. 535-550, 1990
-
-Widrow, Bernard & Marcian Hoff, Adaptive Switching Circuits, IRE WESCON Convention Record, 1960, NY, IRE, pp96-104
-
-Widrow, Bernard, Introduction (Historical Anecdotes): Proceedings of the First IEEE Conference on Neural Nets, 1987
-
-Widrow, Bernard, Rodney G. Winter, Robert A. Baxter, Learning Phenomena in Layered Neural Networks, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. II:411-429
-
-Widrow, Bernard, Rodney G. Winter, Neural Networks for Adaptive Filtering and Adaptive Pattern Recognition, IEEE Computer Magazine, March 1988, vol. 21, no. 3, pp. 25-39
-
-Widrow, Bernard, Lehr, Wan, MRIII A Robust Algorithm for Training Analog Neural Networks, 1990 International Joint Conference on Neural Networks, Washington D.C., pp. I: 533-540
-
-
-
-Boltzmann Machines
-
-Ackley, David H., Geoffrey E. Hinton, & Terrence J. Sejnowski, A Learning Algorithm for Boltzmann machines, Cognitive Science, 1986, vol 9, pp.147-169
-
-Metropolis N., A.W. Rosenbluth, M.N. Rosenbluth, A.H. Teller, E. Teller, Equation of State Calculations for Fast Computing Machines, Journal of Chemical Physics, June 1953, vol. 21, no. 6, p. 1087-1092
-
-Press, W.H., B.P. Flannery, S.A. Teukolsky, W.T. Vetterling, The Travelling Salesman Problem (incl. Boltzmann machine program listing), in Numerical Recipes in C: The Art of Scientific Computing, Cambridge University Press, 1988, pp. 345-352
-
-
-Chaos in Neural Networks
-
-Baird, Bill, Bifurcation Analysis of a Network Model of Rabbit Olfactory Bulb with Periodic Attractors Stored by a Sequencee Learning Algorithm, in Proceedings of the First IEEE International Joint Conference on Neural Networks, San Diego, 1987, pp. II:147-152
-
-Baird, Bill, ... and their Bifurcations in Dynamic Neural Networks, 1988 International Joint Conference on Neural Networks, pp. I: 9-16
-
-Freeman, Walter J., Why Neural Networks Don't Yet Fly: Inquiry Into the Neurodynamics of Biological Intelligence, in Proceedings of the 1988 International Joint Conference on Neural Networks, pp. II:1 -7
-
-Gelperin, Alan, David W. Tank, Odour-modulated Collective Network Oscillations of Olfactory Interneurons in a Terrestrial Mollusc, Nature, May 31. 1990, vol. 345, pp. 437-440
-
-Yao, Freeman, Walter J., Pattern Recognition in Olfactory Systems, 1989 International Joint Conference on Neural Networks, pp. I: 699-704
-
-
-Emergence
-
-Highly recommended references are asterisked.
-  Discussions of the original concept of emergence: Bergson, Morgan, Nagel, Denbigh, Pepper, Klee
-  Computational emergence: Langton, Hillis, Forrest
-  Functional emergence (emergence of modelling relations): Rosen, Pattee, Cariani (see also Nagel & Klee)
-  Critiques of emergence in computer simulations: Rosen (1973, 1985), Pattee (1989), Cariani (1987-90), Carello et al (1984)
-
-I'd appreciate any additional references which are primarily focussed on fundamental issues raised by the problem of emergence. Thanks.
-  -- Peter Cariani (peterc@chaos.cs.brandeis.edu)
-
-Some references on the problem of emergence
-========================================================================
-Bergson, Henri (1911) Creative Evolution. (New York: Random House), 1946. [one of the original expositors of the concept of Emergent Evolution]
-
-Cariani, Peter (1988) Why Artificial Life Needs Evolutionary Robotics. unpublished manuscript, available upon request.
-
-Cariani, Peter (1989) On the Design of Devices with Emergent Semantic Functions. Ph.D. dissertation, Dept. of Systems Science, State University of New York at Binghamton. [the problem of emergence as it relates to AI and evolutionary robotics; limitations of purely simulational approaches; relation between types of adaptivity and emergence]
-
-Cariani, P. (1989) "Adaptivity, emergence and machine-environment dependencies." Proc, 33rd Annual Meeting, Int. Soc. for Systems Sciences (formerly ISGSR), III:31-37.
-
-Cariani, P. (1990) " Implications from structural evolution:semantic adaptation." Proceedings of the International Joint Conference on Neural Networks, Washington, D.C., January, 1990, I: 47-50.
-
-Cariani, P. (1990) "Emergence and Artificial Life." manuscript submitted to Proceedings, Second Workshop on Artificial Life, available upon request.
-
-Cariani, P. (1990) "Adaptation and Emergence in Organisms and Devices." in press, Journal of General Evolution.
-
-Carello, C., M.T. Turvey, P. N. Kugler, and R. E. Shaw (1984), "Inadequacies of the computer metaphor." Handbook of Cognitive Neuroscience. Ed., M. Gazzaniga (New York: Plenum Press). [functional limitations of
-  computing devices: good general discussion]
-
-Denbigh, KG (1975) An Inventive Universe. (New York: George Braziller). [thermodynamics, determinism and emergence, good general discussion]
-
-Forrest, S. (1989) "Emergent Computation: Self-organizing, Collective, and Cooperative Phenomena in Natural and Artificial Computing Networks," Proceedings of the Ninth Annual Center for Nonlinear Studies and Computing Division Conference, April, 1989. [a serious attempt to formulate a definition of emergent computation]
-
-Hillis, Daniel (1988), "Intelligence as an emergent behavior; or the songs of Eden" Daedelus AI issue, Winter, 1988 (reprinted by MIT Press).Eden," Daedalus, Winter, 1988,175-189.
-
-Klee, R. L. (1984), "Micro-determinism and concepts of emergence, "Philosophy of Science 51: 44-63. [excellent paper discussing clashes differing conceptions of hierarchies and emergence]
-
-Langton, C. (1986), "Studying artificial life with cellular automata," Physica D 22:120-149.
-
-Langton, C. (1989), "Artificial life," Artificial Life, SFI Studies in the Sciences of Complexity. Ed. C. Langton (Reading, MA: Addison-Wesley).
-
-Morgan, C.L. (1927), Emergent Evolution. (London: Northgate and Williams). [one of the original expositors of the concept of emergent evolution]
-
-Nagel, E. (1961), The Structure of Science. (New York: Harcourt, Brace & World) (see pp.367-380 and Chapter 12; an excellent discussion of the problem)
-
-Pattee, H. H. (1972), "The nature of hierarchical controls in living matter," Foundations of Mathematical Biology, Vol. I, R. Rosen, ed. (New York: Academic Press).
-
-Pattee, H. H. (1973), "Physical problems in the origin of natural controls," Biogenesis, Evolution, Homeostasis. Ed., A. Locker (New York: Pergamon). [emergence and the formation of hierarchical constraints]
-
-Pattee, H. H. (1973), "The physical basis of the origin of hierarchical control." Hierarchy Theory: The Challenge of Complex Systems. Ed., H. Pattee (New York: George Braziller).
-
-Pattee, H. H. (1989), "Simulations, Realizations, and Theories of Life," Artificial Life, SFI Studies in the Sciences of Complexity (Reading, MA: Addison-Wesley).
-
-Pepper, Stephen (1926), "Emergence," Journal of Philosophy 23-241-245.
-
-Rosen, R. (1973), "On the generation of metabolic novelties in evolution," Biogenesis, Evolution, Homeostasis. Ed., Alfred Locker (New York: Pergamon). [must reading for Alife simulators; a discussion of the concept of organism and emergent functional properties in simulations]
-
-Rosen, R. (1978) Fundamentals of Measurement and Representation of Natural Systems. (New York: North Holland).
-
-Rosen, R. (1985), Anticipatory Systems. Pergamon Press, New York. [A very dense, but very important book; lays out an entire theory of modelling relations in organisms and devices]
-
-Rosen, R. (1987) On the scope of syntactics in Mathematics and Science: The Machine Metaphor. In: J Casti, ed. Real Brains, Artificial Minds. North-Holland, New York.
-
-
-Fuzzy Systems
-
-Fuzzy systems were invented by L.A. Zadeh in 1965 and are just now coming into vogue. Influential authors are Lotfi A. Zadeh, Abraham Kandel, Ronald R. Yager, Brian R. Gaines (U of Calgary) and Bart Kosko.
-
-Diamond, J., R. McLeod, W. Pedrycz, A Fuzzy Cognitive System: Examination of a Referential Neural Architecture, in Proceedings of the International Joint Conference on Neural Networks, San Diego,1990, pp. II:617-622
-
-Fujii, Teruo, Tamaki Ura, Development of Motion Control System for AUV Using Neural Nets, Proceedings of the IEEE Symposium on Autonomous Underwater Vehicle Technology, June 5 and 6, 1990, Washington D.C., pp. 81-86
-
-Fukuda, T., T. Shibata, M. Tokita, T. Mitsuoka, Neural Network Application for Robotic Motion Control, Adaptation and Learning, (Fuzzy Turbo for Back Propagation) in Proceedings of the International Joint Conference on Neural Networks, San Diego,1990, pp. III:447-451
-
-Hisdal, Ellen, Developments in the Wake of the Theory of Possibility, in Fuzzy Sets: Theory and Applications to Policy Analysis and Information Systems, Paul P. Wang and S.K. Chang (eds.), Plenum Press, New York, 1980, pp. 87-91
-
-Iwata, Toshiaki, Kazuo Machida, Yoshitsugu Toda, Fuzzy Control Using Neural Network Techniques, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. III: 365-370
-
-Kandel, Abraham, Fuzzy Statistics and Policy Analysis, in Fuzzy Sets: Theory and Applications to Policy Analysis and Information Systems, Paul P. Wang and S.K. Chang (eds.), Plenum Press, New York, 1980, pp. 133-145
-
-Kong, Seong-Gon, Bart Kosko, Comparison of Fuzzy and Neural Truck Backer-Upper Control Systems, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. III:349-358
-
-Kosko, Bart, Neural Systems and Fuzzy Systems, Prentice-Hall, 1990
-
-Kosko, Bart, Adaptive Inference in Fuzzy Knowledge Networks, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. II: 261-268
-
-Patrikar, Ajay, John Provence, A Self-Organizing Controller for Dynamic Processes using Neural Networks, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. III:359-364
-
-Scott, Leland L., Necessary and Sufficient Conditions for the Values of a Function of Fuzzy Variables to Lie in a Specified Subinterval of [0,1], in Fuzzy Sets: Theory and Applications to Policy Analysis and Information Systems, Paul P. Wang and S.K. Chang (eds.), Plenum Press, New York, 1980, pp. 35-47
-
-Takemori, Toshikazu, Nobuji Miyasaka, Shozo Hirose, Thermal Comfort Sensor based on Probabilistic Energy Neural Network, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:471-476
-
-Wang, Paul P., C.Y. Wang, Experiment on Character Recognition Using Fuzzy Filters, in Fuzzy Sets: Theory and Applications to Policy Analysis and Information Systems, Paul P. Wang and S.K. Chang (eds.), Plenum Press, New York, 1980, pp. 195-221
-
-Zadeh, Lotfi A., Fuzzy Sets, Information and Control, vol. 8, 1965, New York, Academic Press, pp. 338-353
-
-
-
-Hopfield and Optimization Networks
-
-Hopfield, John J., Neural Networks and physical systems with emergent computational abilities, Proceedings of the National Academy of Sciences, 1982, vol 79. pp. 2554-2558
-
-Hopfield, John J., Neurons with graded response have collective computational properties like those of two state neurons, Proceedings of the National Academy of Sciences, 1984, vol. 81, pp. 3088-3092
-
-Shackleford, Barry J., Neural Data Structures: Programming with Neurons, Hewlett-Packard Journal, vol. 40, no.3, June 1989, pp. 69-78
-
-Tank, David, John J. Hopfield, Concentrating Information in Time: Analog Neural Networks with Application to Speech Recognition Problems, 1987 International Joint Conference on Neural Networks, pp. IV: 455-468
-
-
-Learning
-
-Methods of training neural networks are legion. This list is a guide to some of the more well known and significant research related to learning in neural networks.
-
-See also Self Organizing Feature Nets and Vector Quantization, Back Propagation, Spatio-Temporal Neural Networks, and Time Delay Neural Networks
-
-Albus, James S., Brains, Robotics, and Behavior, BYTE Books (McGraw Hill), 1981
-
-Alkon, Daniel L., Memory Traces in the Brain, Cambridge University Press, 1987
-
-Anderson, James A., A Simple Network generating an Interactive Memory, Mathematical Biosciences, 1972, vol. 14, pp. 197-220
-
-Barto, Andrew G., From Chemotaxis to Cooperativity: Abstract Exercises in Neuronal Learning Strategies, in The Computing Neuron, R. Durbin, C. Miall, G. Mitchison (Eds.), Addison Wesley, 1989, pp. 73-98
-
-Barto, Andrew G., Michael I. Jordan, Gradient Following Without Back Propagation in Layered Networks, in Proceedings of the First IEEE Conference on Neural Networks, San Diego, 1987, pp. II:629-636
-
-Cybenko, Function Approximation by Superposition of Nonlinear Functions, Information and Control, 1990
-
-Dimopoulos, Nikitas J., Don Radvan, W.A. Keddy, Learning in Asymptotically Behaving Neural Networks, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. III:233-238
-
-Gluck, Mark A. & Richard F. Thompson, Modelling the Neural Substrates of Associative Learning and Memory: A Computational Approach, Psychological Review, 1987, vol 94, no. 2, pp. 176-191
-
-Hebb, Donald O., The Organization of Behaviour, Wiley & Sons, New York, 1949
-
-Hecht-Nielsen, Robert, Counter-Propagation Networks, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. II:19-32
-
-Hecht-Nielsen, Robert, Kolmogorov's Mapping Neural Network Existence Theorem, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. III:11-14
-
-Kanerva, Pentti, Parallel Structures in Human and Computer Memory, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbird UT, 1986, John S. Denker ed., pp. 247-258
-
-Klopf, A. Harry, The Hedonistic Neuron: A Theory of Memory, Learning, and Intelligence, Hemisphere Press, Washington DC, 1982
-
-Klopf, A. Harry, A Drive-Reinforcement Model of Single Neuron Function: An Alternative to the Hebbian Neuronal Model, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbird UT, 1986, John S. Denker ed., pp. 265-269
-
-Klopf, A. Harry, Drive-Reinforcement Learning: A Real-Time Learning Mechanism for Unsupervised Learning, in Proceedings of the First IEEE International Joint Conference on Neural Networks, San Diego, 1987, pp. II:441-445
-
-Klopf, A. Harry, A neuronal model of classical conditioning, Psychobiology, 1988, vol. 16, no. 2, pp. 85-125
-
-Kosko, Bart, Differential Hebbian Learning, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbird UT, 1986, John S. Denker ed., pp. 277-282
-
-Kosko, Bart, Stochastic Competitive Learning, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:215-226
-
-Lashley. Karl S., In Search of the Engram, Society of Experimental Biology Symposium, no. 4, Psychological Mechanisms in Animal Behaviour, Cambridge University Press, 1950, pp. 454-480
-
-Minsky, Marvin & Seymour Papert, Perceptrons, expanded edition, MIT Press, Cambridge MA, 1969 re-released 1988
-
-Psaltsis, Demetri, David Brady, Xiang-Guang Gu, Steven Lin, Holography in Artificial Neural Networks, Nature, vol. 343, 25 Jan. 1990, pp. 325-330
-
-Rosenblatt, Frank, The Perceptron: A probabilistic model for information storage and retrieval in the brain, Psychological Review, 1958, vol. 65, pp. 386-408
-
-Yau, Hung- Chun, Michael T. Manry, Iterative Improvement of a Gaussian Classifier, Neural Networks, vol. 3, no. 4, 1990, pp. 437-443
-
-
-Locomotion - General
-
-Gewecke, Michael, Swimming Behaviour of the Water Beetle Dytiscus Marginalis L. (Coleoptera, Dytiscidae), in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 111-120
-
-Hirose, Shigeo, Akio Morishima, Design and Control of a Mobile Robot with an Articulated Body, in The International Journal of Robotics Research, vol. 9, no. 2, April 1990, pp. 99-114
-
-Horsmann, Ulrich, Gernot Wendler, The Role of a Fast Wing Reflex in Locust Flight, in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 157-165
-
-Robertson, Meldrum, Central Neuronal Interactions in the Flight System of the Locust, in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 183-194
-
-Rowell, Hugh F., Heinrich Reichert, Compensatory Steering in Locusts: the Integration of Non-Phase Locked Input with a Rhythmic Motor Output, in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 175-182
-
-Ruppell, Georg, Kinematic and Behavioural Aspects of Flight of the Male Banded Agrion, Calopteryx (Agrion) Splendens L., in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 195-204
-
-Siddiqui, Shahid S., Neural Circuitry Mediating Locomotion in C. Elegans: Molecular Correlates of Inhibitory Motor Neurons, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I:155-160
-
-Stent, Gunther S., William B. Kristan, W. Otto Friesen, Carol A. Ort, Margaret Poon, Ronald L. Calabrese, Neuronal Generation
-of the Leech Swimming Movement, Science, vol. 200, no. 23, June 1978, pp. 1348-1356
-
-Wendler, Gernot, Harry Teuber, Jorg Peter Jander, Walking, Swimming, and Intermediate Locomotion in Nepa Rubra, in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 103-110
-
-
-Locomotion - Walking Organisms
-
-The study of the neural control of walking teaches us much about the distributed nature of intelligent control. Neural locomotion control architectures are elegant and robust and increasingly well understood.
-
-Alexander, R. McN., Three Uses for Springs in Legged Locomotion, in The International Journal of Robotics Research, vol. 9, no. 2, April 1990, pp. 53-61
-
-Barrington, E.J.W., Invertebrate Structure and Function, Thomas Nelson and Sons, Don Mills, Ont., 1969, (Locomotion in Terrestrial Arthropods, pp. 134-141)
-
-Bassler, Ulrich, Proprioceptive Control of Stick Insect Walking, in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 43-48
-
-Beer, Randall D., Hillel J. Chiel, Leon S. Sterling, Heterogeneous Neural Networks for Adaptive Behaviour in Dynamic Environments, in Advances in Neural Information Processing Systems, Volume 1, Morgan Kaufman Publishers, 1989
-
-Chiel, Hillel J., & Randall D. Beer, A Lesion Study of a Heterogeneous Artificial Neural Network for Hexapod Locomotion, in Proceedings of International Joint Conference on Neural Networks 1989, pp. I: 407-414
-
-Cruse, Holk, The Influence of Load, Position, and Velocity on the Control of Leg Movement of a Walking Stick Insect, in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 19-26
-
-Dean, Jeffrey, A Simulation of Proprioceptive Input from the Coxal Hair Rows of the Stick Insect: Possible Effect of Step Velocity on the Representation of Joint Angle, in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 49-57
-
-Delcomyn, Fred, Sense Organs and the Pattern of Motor Activity During Walking in the American Cockroach, in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 87-96
-
-Franklin, Robert F., The Locomotion of Hexapods on Rough Ground, in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 69-78
-
-Graham, D., Pattern and Control of Walking in Insects, in Berridge, M.J., J.E. Treherne, V.B. Wigglesworth, (Eds.) Advances in Insect Physiology, volume 18, 1985, Academic Press, New York, pp. 31-140
-
-Gray, James, Animal Locomotion, Weidenfeld and Nicolson, London, 1968
-
-Hoyle, Graham, Arthropod Walking, in Neural Control of Locomotion, R.M.Herman, S.Grillner, P.S.G. Stein, & D.G. Stuart (Eds), Plenum Press, New York, 1976, pp. 137-179
-
-Hustert, Reinhold, The Contribution of Proprioceptors to the Control of Motor Patterns of Legs in Orthopterous Insects - The Locust Example, in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 59-67
-
-Jander, Jorg Peter, Mechanical Stability in Stick Insects When Walking Straight and Around Curves, in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 33-42
-
-Laurent, Gilles & Reinhold Hustert, Motor Neuronal Receptive Fields Delimit Patterns of Motor Activity During Locomotion of the Locust, Journal of Neuroscience, vol. 8, no. 11, Nov. 1988, pp. 4349-4366
-
-Pearson, Keir G., The Control of Walking, Scientific American, vol 276, Dec. 1976
-
-Pearson, Keir G., Robert F. Franklin, Characteristics of Leg Movements and Patterns of Coordination in Locusts Walking on Rough Terrain, International Journal of Robotics Research, vol. 3, no. 2, Summer 1984, pp. 101-112
-
-Porcino, Nick, A Neural Network Controller for Hexapod Locomotion, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I-189-194
-
-Siegler, Melody V.S., Nonspiking Interneurons and Motor Control in Insects, in Berridge, M.J., J.E. Treherne, V.B. Wigglesworth, (Eds.) Advances in Insect Physiology, volume 18, 1985, Academic Press, New York, pp. 249-304
-
-
-Locomotion - Walking Robots
-
-Brooks, Rodney A., A Robot That Walks: Emergent Behaviors from a Carefully Evolved Network, Proceedings of the 1989 IEEE International Conference on Robotics and Automation, Volume 2, pp. 692-696
-
-Furusho, J., A. Sano, Sensor-Based Control of a Nine-Link Robot, in The International Journal of Robotics Research, vol. 9, no. 2, April 1990, pp. 83-98
-
-Gorinevsky, D.M., A. Yu. Shneider, Force Control in Locomotion of Legged Vehicles over Rigid and Soft Surfaces, in The International Journal of Robotics Research, vol. 9, no. 2, April 1990, pp. 4-23
-
-Hirose, Shigeo, A Study of a Design and Control of a Quadruped Walking Vehicle, International Journal of Robotics Research, vol. 3, no. 2, Summer 1984, pp. 113-133
-
-Kaneko, Makoto, Kazuo Tanie, and Mohamad Nor Bin Mohamad Than, A Control Algorithm for Hexapod Walking Machine Over Soft Ground, IEEE Journal of Robotics and Automation, vol. 4, no. 3, June 1988, pp. 294-302
-
-Miura, Hirofumi, Isao Shimoyama, Dynamic Walk of a Biped, International Journal of Robotics Research, vol. 3, no. 2, Summer 1984, pp. 60-74
-
-
-Miscellaneous
-
-Berke, Peter, That Does Not Compute, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 819-826
-
-Feldman, Jerome A., Neural Representations of Conceptual Knowledge, in Neural Connections, Mental Computations, L.Nadel, L.A.Cooper, P.Culicover, & R.M.Harnish (eds.), MIT Press, Cambridge MA, 1989
-
-Gaines, Brian R., Positive Feedback Processes Underlying Functional Differentiation, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. II:387-394
-
-McCulloch, Warren S. & Walter Pitts, A Logical Calculus of Ideas Imminent in Nervous Activity, Bulletin of Mathematical Biophysics, 1943, vol. 5, pp. 115-133
-
-Steels, Luc, Self-Organization through Selection, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. II:55-62
-
-Treffner, Paul J., Ecological Connectionism and Animal-Environment Mutuality, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. II:813-820
-
-
-Miscellaneous Applications
-
-Belew, Richard K., Designing Appropriate Learning Rules for Connectionist Systems (text retrieval), in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. II: 479-486
-
-Dahl, Edward Denning, Neural Network for an NP-Complete Problem: Map and Graph Colouring, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. III: 113-120
-
-Kimoto, Takashi, Kazuo Asakawa, Morio Yoda, Masakazu Takeoka, Stock Market Prediction System with Modular Neural Networks, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I:1-6
-
-Konger, Christopher, Jose C. Principe, Murat Taner, Neural Network Classification of Event Related Potentials for the Design of a New Computer Interface, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 367-372
-
-Takefuji, Yoshiyasu, Paul Hollis, Yoon Pin Foo, Yong B. Cho, Error Correcting System Based on Neural Circuits, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. III: 293-300
-
-Tesauro, Gerald, Neurogammon: A Neural Network Backgammon Program, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. III: 33-39
-
-Wang, Lixin, J.M. Mendel, Structured Trainable Networks for Matrix Algebra, Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:125-132
-
-
-Navigation
-
-Arkin, Ronald C., Motor Schema-Based Mobile Robot Navigation, International Journal of Robotics Research, April 1987, pp. 264-271
-
-DeMuth, Gordon, Steve Springsteen, Obstacle Avoidance Using Neural Networks, Proceedings of the IEEE Symposium on Autonomous Underwater Vehicle Technology, June 5 and 6, 1990, Washington D.C., pp. 213-215
-
-Fernandez, On Tropistic Processing and its Applications, Neural Information Processing Systems, pp. 262-269
-
-Hassoun, Mohamad H., Ashvin J. Sanghvi, Fast Computation of Optimal Paths in Two- and Higher-Dimension Maps, in Neural Networks, vol. 3, no. 3, 1990, pp. 355-363
-
-Hassoun, Mohamad H., Ashvin Sanghvi, Locally Interconnected Layered Neural Network for Path Optimization, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. III:811-817
-
-Jorgensen, C.C., Neural Network Representation of Sensor Graphs in Autonomous Robot Path Planning, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 507-515
-
-Moravec, Hans, Sensor Fusion in Uncertainty Grids for Mobile Robots, in Annual Research Review of the Robotics Institute, Carnegie Mellon University, 1987, pp. 33-48
-
-Park, Lee, Neural Computation for Collision Free Path Planning, 1990 International Joint Conference on Neural Networks, pp. II: 229-232
-
-
-NeoCognitron
-
-Barnard, Etienne, David Casasent, Shift Invariance and the NeoCognitron, Neural Networks, vol. 3, no. 4, 1990, pp. 403-410
-
-Fukushima, Kunihiko, A Neural Network Model for Selective Attention, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. II:11-18
-
-Fukushima, Kunihiko, A Neural Network for Visual Pattern Recognition, IEEE Computer Magazine, March 1988, vol. 21, no. 3, pp. 65-75
-
-Fukushima, Kunihiko, Analysis of Visual Pattern Recognition by NeoCognitron, Neural Networks, vol. 2, no. 6, 1989, pp. 413-420
-
-Fukushima, Kunihiko, Spatio Temporal vs. Spatial Pattern Recognition by the NeoCognitron, in Proceedings of the International Joint Conference on Neural Networks, Washington D.C., 1990, pp. II:279-282
-
-Ito, Kunihiko Fukushima, Recognition of Spatio Temporal Patterns with a Hierarchical Neural Network, in Proceedings of the International Joint Conference on Neural Networks, Washington D.C., 1990, pp. I:273-276
-
-Miyake, Sei, Kunihiko Fukushima, A Neural Network Model for the Mechanism of Pattern Information Processing, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbird UT, 1986, John S. Denker ed., pp. 305-308
-
-Rajapakse, Jagath, Raj Acharya, Medical Image Segmentation with MARA, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:965-972
-
-
-Neuroethology - Invertebrate
-
-Abbott, Larry, Scott Hooper, Tom Kepler, Eve Marder, Oscillating Networks: Modeling the Pyloric Circuit of the Stomatogastric Ganglion, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 175-180
-
-Alkon, Daniel L., Membrane Channels, Conditioning Induced Changes, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 72-75
-
-Barrington, E.J.W., Invertebrate Structure and Function, Thomas Nelson and Sons, Don Mills, Ont., 1969, (Nervous System and Learning in Cephalopods, pp. 330-336)
-
-Beer, Randall D., Hillel J. Chiel, Neural Implementation of Motivated Behaviour: Feeding in an Artificial Insect, in D.S. Touretzky (ed.), Advances in Neural Information Processing Systems 2, 1990, Morgan Kaufmann Publishers
-
-Davis, William J., Organizational Concepts in the Central Motor Networks of Invertebrates, in Neural Control of Locomotion, R.M. Herman, S. Grillner, P.S.G. Stein, & D.G. Stuart (Eds), Plenum Press, New York, 1976, pp. 265-292
-
-Eckert, Roger, Paramecium, the Ionic Basis of Sensorimotor Behaviour, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 97-99
-
-Erber, Joachim, Honeybee Learning, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, p. 47
-
-Kandel, Eric R., Small Systems of Neurons, in The Brain, a Scientific American Book, 1979, W.H. Freeman and co., New York, pp. 28-38
-
-Kupfermann, I., K.R. Weiss, The Command Neuron Concept, Behavioural Brain Science, 1978, pp. 1:3-39
-
-Lent, Charles M., Michael H. Dickinson, The Neurobiology of Feeding in Leeches, Scientific American, June 1988, vol. 258, no. 6, pp. 98-103
-
-Lockery, Shawn R., G. Wittenburg, W.B. Kristan Jr., N. Qian, and Terrence Sejnowski, Neural Network Analysis of Distributed Representations of Sensory Information in the Leech, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990
-
-Lockery, Shawn R., Yan Fang, Terrence Sejnowski, A Dynamic Neural Network Model of Sensorimotor Transformations in the Leech, in Neural Computation, vol. 2, no. 3, pp. 274-282
-
-Ruppell, Georg, Kinematic and Behavioural Aspects of Flight of the Male Banded Agrion, Calopteryx (Agrion) Splendens L., in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 195-204
-
-Stabel, Jasmine, Gernot Wendler, Hans Scharstein, The Escape Reaction of Acheta Domesticus Under Open Loop Conditions, in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 79-85
-
-
-
-
-
-
-
-
-Truman, James W., Metamorphosis (Caterpillars, Moths), in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 76-78
-
-
-Neuroethology - Miscellaneous
-
-Neuroethology is the study of the neural control of behaviour. The neuro-architectures employed by biological nervous systems can lead to elegant and robust neural networks for the intelligent control of distributed systems.
-
-Camhi, Jeffrey M., Neuroethology: Nerve Cells and the Natural Behaviour of Animals, Sinauer Associates Inc. Publishers, Sunderland, Massachusetts, 1984
-
-Cliff, D.T., Computational Neuroethology: A Provisional Manifesto, Cognitive Science Research Paper, Serial No. CSRP 11111162, May 1990, The University of Sussex, School of Cognitive and Computing Science, Falmer, Brighton BN1 9QN, England, UK
-
-Coss, Richard G., Albert Globus, Spine Stems on Tectal Interneurons in Jewel Fish are Shortened by Social Stimulation, Science,   vol. 200. 19 May 1978, pp. 787-789
-
-Crick, Francis, Function of the thalamic reticular complex: the searchlight hypothesis, Proceedings of the National Academy of Sciences, 1984, 81: 4586-4590
-
-Crick, Francis, The Brain, Scientific American, 1977
-
-
-
-
-
-
-
-
-
-
-Creutzfeldt O.D. & P. Huggelund, Science, 1975, vol. 188, pp. 1025-1027
-
-Delcomyn, Fred, Neural Basis of Rhythmic Behavior in Animals, Science, vol. 210, 31 Oct. 1980, pp. 492-498
-
-Drawbaugh, Donald W., Toward a Model of the Hippocampus, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:717-721
-
-Dumont, James P.C., R. Meldrum Robertson, Neuronal Circuits: An Evolutionary Perspective, Science, vol. 233, 22 Aug. 1986, pp. 849-852
-
-Fair, Charles M., Memory and Central Nervous Organization, Paragon House Publishers, New York, 1988
-
-Guthrie D.M., Neuroethology: An Introduction, Blackwell Scientific Publications, Oxford, 1980
-
-Heron W., et al, In Sensory Deprivation, P. Solomon et al., eds., pp 66666666-33, Harvard University Press, 1961
-
-Hyde, Vickie, Momentum: The Rhythms of Life, Japan Times, Oct. 18, 1988, p. 10
-
-Masino, Tom, Eric I. Knudsen, Horizontal and Vertical components of Head Movement are Controlled by Distinct Neural Circuits in the
-
-
-
-
-
-
-Barn Owl, Nature, May 31, 1990, vol. 345, pp. 434-437
-
-Nottebohm, Fernando, Birdsong, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 9-12
-
-Olmsted, David, The Reticular Formation as a Multi-Valued Logic Neural Network, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 619-624
-
-Pellionisz, Andreas J., R. Llinas, D.H. Perkel, A computer model of the cerebellar cortex of the frog, Neuroscience, 1977, vol. 2, pp. 19-36
-
-Reichert, H., C.H.F. Rowell, C. Griss, Course Correction Circuitry Translates Feature Detection into Behavioural Action in Locusts, Nature, vol. 351, 9 May 1985, pp. 142-144
-
-Shadmehr, Reza, Gary D. Lindquist, A Neural Network for Pattern Generation in the Scratch Reflex, in Proceedings of the 1988 International Joint Conference on Neural Networks, pp. II:25-32
-
-Stein, Barry E., H.P. Clamann, S.J. Goldberg, Superior Collicus: Control of Eye Movements in Neonatal Kittens, Science, vol. 210, 3 Oct. 1980, pp. 78-80
-
-Stein, Paul S.G., Intrinsic Capabilities of Neural Networks in the Turtle Spinal Cord: Selection and Generation of Motor Patterns, in Proceedings of the International   Joint Conference on Neural Networks, San Diego, 1990, pp. II:669-674
-
-Treffner, Ecological Connectionism and Animal-Environment Mutuality, 1987 International Joint Conference on Neural Networks, pp. II: 813-820
-
-
-Neurophysiology
-
-Aoki, Chiye, Philip Siekevitz, Plasticity in Brain Development, Scientific American, Dec. 1988, vol. 258, no. 12, pp. 34-42
-
-Braitenberg, Valentino, Brains, Structural Similarities of, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 18-19
-
-Bras, Helene, Paul Gogan, Suzanne Tyc-Dumont, The Mammalian Central Neurone is a Complex Computing Device, in Proceedings of the IEEE First International Conference on Neural Networks, San Diego, 1987, pp. IV: 123-126
-
-Crick, Francis, Brain Physiology, in Parallel Distributed Processing, vol 2, Rumelhart & McClelland, Eds., MIT Press, Cambridge MA, 1987
-
-Dawes, R.L., Biomasscomp: A Procedure for Mapping the Architecture of a Living Neural Network into a Machine, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. III: 215-225
-
-Durbin, Richard, Nematode C. elegans, Nervous System, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 82-83
-
-Gardner, Daniel, Synaptic Diversity Characterizes Biological Neural Nets, IEEE First International Conference on Neural Networks, San Diego, 1987, pp. IV: 17-22
-
-Gottlieb, David I., GABAergic Neurons, Scientific American, vol. 258, no. 2, Feb. 1988
-
-Jerison, Harry J., Brain Size, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 15-17
-
-Kimelberg, Harold K., & Michael D. Norenberg, Astrocytes, Scientific American, April 1989, vol. 260, no. 4, pp. 66-76
-
-Koopowitz, Harold, Brain, Primitive, Flatworms, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 13-14
-
-Nauta, Walle J.H., Michael Feirtag, The Organization of the Brain, in The Brain, a Scientific American Book, 1979, W.H. Freeman and co., New York, pp. 40-53
-
-Ridgway, Sam H., The Cetacean Central Nervous System, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 20-25
-
-Stevens, John K., Reverse Engineering the Brain, BYTE, April 1985, pp 287-299
-
-Stevens, Charles F., The Neuron, in The Brain, a Scientific American Book, 1979, W.H. Freeman and co., New York, pp. 14-25
-
-Young, J.Z., Octopus Brain, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 97-99
-
-
-Robotic Control - General
-
-See also Vehicles
-
-This is an area of research which is slowly emerging as an important field of study in neural networks. Most of the problems associated with robotic task planning and execution have been individually attacked using neural networks, but a central unifying vision is still lacking
-(cf. Brooks, Minsky, Ozguner for attempts at decentralized distributed control).
-
-Arbib, M.A., G.F. Franklin, N. Nilsson, Some Ideas on Information Processing in the Cerebellum, in Neural Networks: Proceedings of the School on Neural Networks, June 1967 in Ravello, E.R. Caianello, editor,    1968, Springer-Verlag Berlin, pp. 43-58
-
-Blackburn M.R., and H.G. Nguyen, An Artificial Neural Network for Autonomous Undersea Vehicles, Naval Ocean Systems Center, San Diego CA, July 1988, Technical document 1318
-
-Donnett, Jim, Tim Smithers, Neuronal Group Selection Theory, A Grounding in Robotics, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990, pp. 308-315
-
-Durrant-Whyte, Hugh. F., Integration, Coordination and Control of Multi-Sensor Robot Systems, Kluwer Academic Publishers, Boston, 1988
-
-Fu, K. S., R.C. Gonzalez, C.S.G. Lee, Robotics: Control, Sensing, Vision, and Intelligence, McGraw Hill, 1987
-
-Goldberg, Barak Pearlmutter, Using Back Propagation with Temporal Windows to Learn the Dynamics of the CMU Direct Drive Arm II, Neural Information Processing Systems 1, pp. 356-363
-
-Graf, Lalonde, A Neural Controller for Collision Free Movement of General Robotic Manipulators, 1988 International Joint Conference on Neural Networks, pp. I: 7777777-84
-
-Kung, Sun-Yuan, Jenq-Neng Hwang, Neural Network Architectures for Robotic Applications, IEEE Transactions on Robotics and Automation, vol. 5, no. 5, Oct. 1989, pp. 641-657
-
-Kuperstein, Michael, Jorge Rubinstein, Implementation of an Adaptive Neural Controller for Sensory-Motor Coordination, IEEE Control Systems Magazine, April 1989, pp. 25-30
-
-Lee, Sukhan, Rhee M. Kil, Robot Kinematic Control Based on Bidirectional Mapping Neural Network, in Proceedings of the International Joint Conference on Neural Networks, 1990, pp. III: 327-335
-
-Niznic, Carol A., Wayne Hoss, Charles Watts, Modelling and Mathematical Formalism for Robotic Cerebellar Neural Network Pathway Information Measures, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 583-591
-
-Ritter, Schulten, Using Kohonen's Net for Motor Control and Perception, 1988 International Joint Conference on Neural Networks, pp. I: 109-116
-
-
-Robotic Control - Layered Control
-
-Bellingham, James G., Thomas R. Consi, Robert M. Beaton, William Hall, Keeping Layered Control Simple, Proceedings of the IEEE Symposium on Autonomous Underwater Vehicle Technology, June 5 and 6, 1990, Washington D.C., pp. 3-8
-
-Brooks, Rodney A.,      A Robust Layered Control System for a Mobile Robot, IEEE Journal of Robotics and Automation, vol. RA-2, no. 1, March 1986, pp. 14-23
-
-McCulloch, Walter S., Logic and Closed Loops for a Computer Junket to Mars, in Neural Networks: Proceedings of the School on Neural Networks, June 1967 in Ravello, E.R. Caianello, editor,1968, Springer-Verlag Berlin, pp. 65-91
-
-Nagata, Shigemi, Minoru Sekiguchi, Kazuo Asakawa, Mobile Robot Control by a Structured Hierarchical Neural Network, IEEE Control Systems Magazine, April 1990, pp. 69-76
-
-Ozguner, U., Decentralized and Distributed Control Approaches and Algorithms, Proceedings of the 28th Conference on Decision and Control, Tampa Florida, Dec, 1989, pp. 1289-1294
-
-
-Robotic Control - Manipulators
-
-Gardner, Esther P., What the Robot's Hand Should Tell the Robot's Brain, in Proceedings of the 1988 International Joint Conference on Neural Networks, pp. II: 557-565
-
-Grupen, Roderic A., Thomas C. Henderson & Ian D. McCammon, A Survey of General-Purpose Manipulation, International Journal of Robotics Research, Feb. 1989, vol. 8, no. 1, pp. 38-62
-
-Iberall, Thea, A Ballpark Approach to Modelling Human Prehension, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 535-543
-
-Jacobsen, C., E. Wood, F. Knutti, B. Biggers, The UTAH/MIT Dextrous Hand: Work in Progress, International Journal of Robotics Research, Winter 1984, vol. 3, no. 4, pp. 21-50
-
-Tsutsumi, Kazuyoshi, Haruya Matsumoto, Neural Computation and Learning Strategy for Manipulator Position Control, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 525-534
-
-
-Robotics - Vehicles
-
-See also Robotic Control and Proprioceptive Sensing
-
-The motivated behaviours of the systems inspired by Braitenberg's classic Vehicles are among the most sophisticated and robust ever achieved by artificial intelligence systems (cf. Brooks, 1986). For the most part still overlooked by the mainstream, this notion for intelligent control will probably be the most fruitful of all AI methodologies in the future.
-
-Beer, Randall B., Hillel S. Chiel, and Leon S. Sterling, A Biological Perspective on Autonomous Agent Design, in P. Maes (Ed.) New Architectures for Autonomous Agents, MIT Press and Elsevier North Holland, 1990
-
-Braitenberg, Valentino, Vehicles: Experiments in Synthetic Psychology, MIT Press, Cambridge, 1984
-
-Brooks, Rodney A., A Robust Layered Control System for a Mobile Robot,    IEEE Journal of Robotics and Automation, vol. RA-2, no. 1, March 1986, pp. 14-23
-
-Connell, Jonathon, The Omni Photovore, Omni Magazine, November 1988, pp. 201-212
-
-Nagata, Shigemi, Minoru Sekiguchi, Kazuo Asakawa, Mobile Robot Control by a Structured Hierarchical Neural Network, IEEE Control Systems Magazine, April 1990, pp. 69-76
-
-Reynolds, CraigDistributed Control for Intelligent Systems, in review for Neural Information Processing Systems vol. 3, Morgan Kaufmann, 1991
-
-Reynolds, Craig W., Flocks, Herds, and Schools: A Distributed Behavioural Model, ACM Computer Graphics, vol. 21, no. 4, July 1987, pp. 25-34
-
-Wilhelms, Jane, and Robert Skinner, A "Notion" for Interactive Behavioral Animation Control, IEEE Computer Graphics and Applications, May 1990, pp. 14-22
-
-
-Self Organizing Feature Nets and Vector Quantization
-
-Ahalt, Stanley C., Ashok K. Krishnamurthy, Prakoon Chen, Douglas E. Melton, Competitive Learning Algorithms for Vector Quantization, Neural Networks, vol. 3, no. 3, 1990, pp. 277-290
-
-Baras, John S., Anthony La Vigna, Convergence of Kohonen's Learning Vector Quantization, in Proceedings of the International Joint Conference on Neural Networks, 1990, pp. III: 17-20
-
-DeSieno, Duane, Adding a Conscience to Competitive Learning, 1988 International Joint Conference on Neural Networks, pp. I: 117-124
-
-Kangas, Teuvo Kohonen, Laaksonen, Simula, Venta, Variants of Self Organizing Maps Using Minimal Spanning Trees, 1989 International Joint Conference on Neural Networks, pp. II: 517-522
-
-Kohonen, Teuvo, K. Makisara, Representation of Sensory Information in Self-Organizing Feature Maps, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbird UT, 1986, John S. Denker ed., pp. 271-276
-
-Kohonen, Teuvo, A Neural Phonetic Typewriter, IEEE Computer Magazine, March 1988, vol. 21, no. 3, pp. 11-22
-
-Kohonen, Teuvo, Improved Versions of Learning Vector Quantization, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I:545-550
-
-Koikkalainen, Pasi, Erkki Oja, Self Organizing Hierarchical Feature Maps, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:279-284
-
-Stojanovski, Jordan, Artificial Neural Network for Mapping, in Proceedings of the International Joint Conference on Neural Networks, Washington D.C., 1989
-
-Tanaka, Takehisa, Motohiko Naka, Kunio Yoshida, Improved Back-Propagation Combined with LVQ, in Proceedings of the International Joint Conference on Neural Networks, Washington D.C., 1990, pp. I: 731-734
-
-Xu, Lei, Erkki Oja, Adding Top-Down Expectation into the Learning Procedure of Self-Organizing Maps, in Proceedings of the International Joint Conference on Neural Networks, Washington D......C., 1990, pp. I: 735-738
-
-
-Sensor Fusion
-
-Eggers, Mitch, Tim Khuon, Neural Network Data Fusion Concepts and Application, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:7-16
-
-Moravec, Hans, Sensor Fusion in Uncertainty Grids for Mobile Robots, in Annual Research Review of the Robotics Institute, Carnegie Mellon University, 1987, pp. 33-48
-
-Rajapakse, Jagath, Raj Acharya, Multi Sensor Data Fusion within Hierarchical Neural Networks, International Joint Conference on Neural Networks, San Diego, 1990, pp. II:17-22
-
-
-Signal Processing - Biological
-
-de Boer, Egbert, Pattern Recognition of Spectral Information in Hearing, in Organization of Neural Networks: Structures and Models, W.      von Seelen ed., VCH Verlagsgesellschaft mbH, Weinheim, 1988, pp. 17-30, pp. 31-49
-
-Elsner, Popov, Neuroethology of Acoustic Communication, in Advances in Insect Physiology, vol. 13, 1978, Academic Press, NY, pp. 299-355
-
-Evans, E.F., Upper and Lower    Levels of the Auditory System: A Contrast of Structure and Function, in Neural Networks: Proceedings of the School on Neural Networks, June 1967 in Ravello, E.R. Ciaanello, editor, 1968, Springer-Verlag Berlin
-
-Mead, Carver, The Artificial Cochlea, Proceedings of the International Joint Conference on Neural Networks
-
-Schreiner, Christoph E., Merzenich, Michael M., Elements of Signal Coding in the Auditory Nervous System, in Organization of Neural Networks: Structures and Models, W. von Seelen ed., VCH Verlagsgesellschaft mbH, Weinheim, 1988, pp. 17-30
-
-Shamma, Shihab A., Neural Networks for Speech Processing and Recognition, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 397-405
-
-Travis, Bryan, A Layered Neural Network Applied to the Auditory System, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbird, UT 1986, John S. Denker, ed., pp. 432-438
-
-Travis, Bryan, Computational Model of Auditory Cortex, Proceedings   of the IEEE First International Conference on Neural Networks, San Diego, 1987, pp. IV:67-71
-
-
-Signal Processing - Multi-Signal Separation
-
-See also Sonar and Radar Signal Processing, and Sound Source Localization and Biological Signal Processing
-
-The separation and processing of multiple signals is uncharted territory. Spatio-temporal signal processing with neural networks remains largely an unsolved problem, and therefore little progress
-in the related subordinate fields has been made.
-
-
-
-
-
-
-
-
-Eggers, Mitch, Tim Khuon, Neural Network Data Fusion Concepts and Application, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:7-16
-
-Hassoun, Song, Shen, Spitzer, Self Organizing Auto-Associative Dynamic Multiple Layer Neural Network for the Decomposition of Repetitive Superimposed Signals, in Proceedings of the International Joint Conference on Neural Networks, Washington D.C., 1990, pp. I: 621-626
-
-Jelonek, Thomas M., James P. Reilly, Maximum Likelihood Estimation for Direction of Arrival using a Nonlinear Optimizing Neural Network, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 253-258
-
-Kassebaum, John, Manoel Fernando Tenorio, Christoph Scaefers, The Cocktail Party Problem, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990, pp. 542-549
-
-Kohonen, Teuvo, Kimmo Raivio, Olli Simula, Olli Venta, Jukka Henriksson, Combining Linear Equalization and Self-Organizing Adaptation in Dynamic Discrete-Signal Detection, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 223-228
-
-Murano, Kazuo, Shigeyuki Unagami, Fumio Amano, Echo Cancellation and Applications, IEEE Communications Magazine, January 1990, pp. 49-55
-
-Sung, Sinmo, Fredric M. Ham, Wesley Shelton, A New Robust Neural Network Method for Coherent Interference Rejection in Adaptive Array Systems, in Proceedings of the International Joint   Conference on Neural Networks, San Diego, 1990, pp. II:119-124
-
-Wan, Kovacs, Rosen, Widrow, Development of Neural Net Interfaces for Direct Control of Neuroprosthesis, 1990 International Joint Conference on Neural Networks, pp. II: 3-21
-
-
-Signal      Processing - Sonar and Radar
-
-Most of these applications involve analysis of the spectral content of returned sonar or radar signals to characterize or identify targets. Almost all use back propagation or a variant thereof to learn certain exemplar patterns; almost all report good results but long training times. Note that few of these applications involve spatio-temporal signal processing. In most cases, sonar or radar returns are represented as static patterns which are presented to static neural  networks.
-
-Ahalt, Garber, Jouny, Krishnamurtha, Performance of Synthetic Neural Net Classification of Noisy Radar Signals, Neural Information Processing Systems 1, pp. 281-288
-
-Decatur, Application of Neural Networks to Radar Terrain Classification, 1989 International Joint Conference on Neural Networks, pp. I: 283-288
-
-Farhat, Bai, Echo Inversion and Target Shape Estimation by Neuromorphic Processing, Neural Networks, pp. 117-126
-
-Khotanzad, Lu, Srinath, Target Detection Using a Neural Network Based Passive Sonar System, 1989 International Joint Conference on Neural Networks, pp. I: 335-340
-
-Kuczewski, Neural Network Approaches to Multi-Target Tracking, 1987 International Joint Conference on Neural Networks, pp. IV: 619-633
-
-Orlando, Mann, Haykin, Radar Classification of Sea Ice Using Traditional and Neural Classifiers, 1990 International Joint Conference on Neural Networks, pp. II: 263-266
-
-Ramani, Patrick, Hanson, Anderson, Fish Detection and Classification Using a Neural Network   Based Active Sonar System, 1990 International Joint Conference on Neural Networks, pp. II: 527-530
-
-Roitblat, Moore, Nachtigall, Penner, Au, Dolphin Echolocation-Identification of Returning Echoes Using a Counter Propagation Network, 1989 International Joint Conference on Neural Networks, pp. I: 295-300
-
-Roth, Neural Networks for Extraction of Weak Targets in High Clutter Environments, 1989 International Joint Conference on Neural Networks, pp. I: 275-282
-
-Schiling Mastebroek, Zaegman, An Adaptive Heterodyne Filtering Procedure for the Imaging of Moving Objects, Neural Information Processing Systems, pp. 662-673
-
-Vrckovnik, Chung, Carter, An Application of Neural Networks to Impulse Radar Waveforms for Asphalt Covered Bridge Decks, International Joint Conference on Neural Networks, San Diego, 1990, pp. II: 453-456
-
-Wang, Wu, Ziemer, Application of Neural Networks to Pulse Doppler Radar Systems for Moving Target Indication, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II: 271-274
-
-Winters, Jack H., Super-resolution for Ultrasonic Imaging in Air Using Neural Networks, 1988 International Joint Conference on Neural Networks, pp. I: 609-616
-
-
-Signal Processing - Sound Source Localization
-
-Much progress has been made in understanding the biological mechanisms for sound source localization. Rigorous studies by Konishi and Suga of the owl and the bat have formed the basis of almost all the data available. With the exception of Mead's silicon cochlea and auditory localization mechanisms, this detailed neurophysiological knowledge stands waiting for application, and is thus an important untapped resource.
-
-Carr, Masakazu Konishi, Proceedings of the National Academy of Sciences, vol. 85, pp. 8311-8315
-
-Knudsen, Eric I., Masakazu Konishi, A Neural Map of Auditory Space in the Owl, Science, vol. 200, May 19, 1978, pp. 795-797
-
-Kuwada, Shigeyuki, Tom C.T. Yin, Robert E. Wickesberg, Response of Cat Inferior Collicus Neurons to Binaural Beat Stimuli: Possible Mechanisms for Sound Localization, Science, vol 206, Nov. 2, 1979, pp. 586-588
-
-Lazzaro, John, Carver Mead, A Silicon Model of Auditory Localization, Neural Computation, David Touretzky ed., Morgan Kaufmann Publishers, 1989, vol. 1, no. 1, pp. 47-57
-
-Manley, Geoffrey A., Christine Koeppl, Masakazu. Konishi, A Map of Interaural Intensity Differences in the Brainstem of the Barn Owl, Journal of Neuroscience, Aug. 1988, vol. 8, no. 8, pp. 2665-2676
-
-Simmons, J.A........, Acoustic Imaging Computations by Bats: Unification of Diversely Represented Stimulus Features into Whole Images, Neural Information Processing Systems 2, D. Touretzky, ed, Morgan Kaufmann Publishers, 1990, pp. 2-9
-
-Simmons, James A., Lynda Chen, The Acoustic Basis for Target Discrimination by FM Echolocating Bats, Journal of the Acoustic Society of America, vol. 86, no. 4, Oct. 1989, pp. 1333-1350
-
-Simmons, James A., Donna Howell, Nobuo Suga, Information Content of Bat Sonar Echoes, American Scientist, vol. 63, no. 2, Mar.-Apr. 1975, pp. 204-215
-
-Simmons, J.A., E.G. Freedman, S.B. Stevenson, L. Chen, T.J. Wohlgenant, Clutter Interference and the Integration Time of Echoes in the Echolocating Bat, Eptesicus Fuscus, Journal of the Acoustic Society of America, vol. 86, no. 4, Oct. 1989, pp. 1318-1332
-
-Spence, C.D., J.C. Pearson, Computation of Sound Source Elevation in the Barn Owl, Neural Information Processing Systems 2, D. Touretzky, ed, Morgan Kaufmann Publishers, 1990, pp. 10-17
-
-
-
-
-
-
-
-
-
-
-
-
-Spence, C.D., J.C. Pearson, Gelfland, Peterson, Neuronal Maps for Sensory Motor Control in the Barn Owl, Neural Information Processing Systems 1, David Touretzky ed., Morgan Kaufmann Publishers, 1989, pp. 366-374
-
-Suga, Nobuo, Cortical Computational Maps for Auditory Imaging, Neural Networks, 1990, vol. 3, no. 1, pp. 3-21
-
-Suga, Nobuo, Biosonar and Neural Computation in Bats, Scientific American, June 1990, vol. 262, no. 6, pp. 60-68
-
-Sugie, Noboru, Jie Huang, Noboru Ohnishi, Localizing Sound    Source by Incorporating a Biological Auditory Mechanism, 1988 International Joint Conference on Neural Networks, pp. II: 243-250
-
-Sussman, Harvey M., Neural Coding of Relational Invariance in Speech - Human Language Analogues to the Barn Owl, Psychological Review, 1989, vol. 96, no. 4, pp. 631-642
-
-Wagner, Takahashi, Konishi, Journal of Neuroscience, 1987, vol. 7, p. 3114
-
-
-Signal Processing - SpatioTemporal
-
-Despite the large number of references listed for this section, spatio-temporal signal processing by neural networks remains one of the most important unsolved problems. The major players in this arena are the proponents of recurrent back propagation methods (cf. Pearlmutter, 1989), Fukushima's latest versions of the NeoCognitron, Kohonen's Self Organizing Feature Nets, and Waibel's Time Delay Neural Networks (TDNN).
-
-Of these methods, the NeoCognitroarpenter and Grossberg's Adaptive Resonance Theory has yet to prove itself for this application.
-
-
-Of these methods, the NeoCognitron and TDNN show the most promise for robust performance. Sharing many similarities, the principle feature of these networks is progressive hierarchical feature extraction.
-
-Beroule, Dominique, Guided Propagation Inside a Topographic Memory, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 469-476
-
-Dayhoff, Judith E., Regularity Properties in Pulse Transmission Networks, in Proceedings of the International Joint Conference on Neural Networks,   San Diego, 1990, pp. III: 621-626
-
-Gluck, Parker, Reifsnider, Learning with Temporal Derivatives in Pulse Coded Neural Systems, Neural Information Processing Systems 1, pp. 195-203
-
-Lippmann, Richard P., Beckman, Adaptive Neural Net Preprocessing for Signal Detection in Non-Gaussian Noise, Neural Information Processing Systems 1, pp. 124-132
-
-Luria, A model of speech generation and perception, 1977
-
-Neumann, Wheeler, Burnside, Bernstein, Hall, A Technique for the Classification and Analysis of    Insect Courtship Song, 1990 International Joint Conference on Neural Networks, pp. II: 257-262
-
-Ogmen, Haluk, Simon Gagne, Early Spatio-Temporal Integration by Gated Competitive Networks, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. II:805-811
-
-Paris, Orsark, Varanasai, Aazhang, Neural Net Receivers in Multiple Access Communications, Neural Information Processing Systems 1, pp. 272-280
-
-Pearlmutter, Barak, Learning State Space Trajectories in Recurrent Neural Networks, 1989 International Joint Conference on Neural Networks, pp. II: 365-372
-
-Szu, Scheff, Simulated Annealing Feature Extraction from Occluded and Cluttered Objects, 1990 International Joint Conference on Neural Networks, pp. II: 76-79
-
-Szu, Foo, Space Scanning Curves for Spatio Temporal Representations Useful for Large Scale Neural Network Computing, 1990 International Joint Conference on Neural Networks, pp. II: 703-705
-
-Uchiyama, Shimohara, Tokunaga, A Modified Leaky Integrator Network for Temporal Pattern Processing, 1989 International Joint Conference on Neural Networks, pp. I: 469-475
-
-van den Bout, Miller, TinnMann (incl. code), in Proceedings of the 1989 International Joint Conference on Neural Networks,   pp. II: 205-211
-
-Wan, Eric A., Temporal Backpropagation for FIR Neural Networks, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 575-580
-
-Watson, Mark, A Neural Network Model for Phoneme Recognition
-
-
-
-
-
-
-
-Using the Generalized Delta Rule for Connection Strength Modification (incl. code), in Proceedings of the IEEE First International Conference on Neural Networks, San Diego, 1987, pp. IV: 389-396
-
-
-Tensor Network Theory
-
-Georgopoulos, Apostolos P., Ronald E. Kettner, Andrew B. Schwartz, Primate Motor Cortex and Free Arm Movements to Visual Targets in Three-Dimensional Space. II. Coding of the Direction of Movement by a Neuronal Population, Journal of Neuroscience, vol. 8, no. 8, Aug. 1988, pp.  2929-2937
-
-Georgopoulos, Apostolos P., Joseph T. Lurito, Michael Petrides, Andrew B. Schwartz, Joe T. Massey, Mental Rotation of the Neuronal Population Vector, Science, vol. 243, Jan. 13, 1989, pp. 234-236
-
-Kettner, Ronald E., Andrew B. Schwartz, Apostolos P. Georgopoulos, Primate Motor Cortex and Free Arm Movements to Visual Targets in Three-Dimensional Space. III. Positional Gradients and Population Coding of Movement Direction from Various Movement Origins, Journal of Neuroscience, vol. 8, no. 8, Aug. 1988, pp. 2938-2947
-
-Pellionisz, Andras J., Tensor Network Theory and its Application to Computer Modeling of the Meta-organization of Sensorimotor Hierarchies of Gaze, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbird UT, 1986, John S. Denker ed., pp. 339-345
-
-Pellionisz, Andras J., Sensorimotor Operations: a Ground for the Co-Evolution of Brain Theory with Neurobotics and Neurocomputers, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 593-600
-
-Pellionisz, Andras J., Intelligent Decisions and Dynamic Coordination Properties of Geometrical Representation by Generalized Frames Intrinsic to Neural and Robotic Systems, in Proceedings of the 1988 International Joint Conference on Neural Networks, pp. II: 603-610
-
-Pellionisz, Andras J., Tensorial Aspects of the Multidimensional Massively Parallel Sensorimotor Function of Neuronal Networks, Progress in Brain Research, vol. 76, O. Pompeiano and J.H.J. Allum ((((((eds.), 1988, Elsevier Science Publishers B.V. (Biomedical Division), pp. 341-354
-
-Pellionisz, Andras J., Neural Geometry: Towards a Fractal Model of Neurons, in Models of Brain Function, R.M. Cotterill (ed.), 1989, Cambridge University Press
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Pellionisz, Andras J., Neural Geometry: The Need of Researching Association of Covariant and Contravariant Coordinates that Organizes a Cognitive Space by Relating Multisensory-Multimotor Representation, in Proceedings of the International Joint Conference on Neural Networks, Washington D.C., 1989
-
-Pellionisz, Andras J., Tensor Network Model of the Cerebellum and Olivary System Quantitatively Elaborated for the Optokinetic Reflex, in Experimental Brain Research Series 17, 1989, Springer-Verlag Berlin Heidelberg, pp.400-424
-
-Schwartz, Andrew B., Ronald E. Kettner, Apostolos P. Georgopoulos, Primate Motor Cortex and Free Arm Movements to Visual Targets in Three-Dimensional Space. I. Relationships Between Single Cell Discharge and Direction of Movement, Journal of Neuroscience, vol. 8, no. 8, Aug. 1988, pp. 2913-2927
-
-
-Time Delay Neural Networks
-
-Hampshire, John B., Alex Waibel, Connectionist Architecture for Multi-Speaker Phoneme Recognition, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990, pp. 203-210
-
-Hirai, Akihiro, Alexander Waibel, Phoneme-based Word Recognition by Neural Network: A Step Toward Large Vocabulary Recognition, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. III: 671-676
-
-Lang, Kevin J., Alex Waibel, Geoffrey Hinton, A Time Delay Neural Network for Isolated Word Recognition, Neural Networks, vol. 3, no. 1, pp. 23-44
-
-Sawai, Hidefumi, Alex Waibel, Haffner, Miyatake, Kiyohiro Shikano, Parallelism, Hierarchy, and Scaling in Time Delay Neural Nets for Spotting Japanese Phonemes/CV Syllables, 1989 International Joint Conference on Neural Networks, pp. II: 81-88
-
-Waibel, Alexander, Toshiyuki Hanazawa, Geoffrey Hinton,, Kiyohiro Shikano, Kevin J. Lang, Phoneme Recognition Using Time-Delay Neural Networks, IEEE Transactions on Acoustics, Speech, and Signal Processing, vol.37, no. 3, March 1989, pp. 328-339
-
-
-Vision - General
-
-Of all the components of the nervous system, the visual system is perhaps most well studied. Starting with the seminal work of Hubel and Wiesel on orientation sensitive cells in the visual cortex, understanding of the visual system has progressed rapidly. Though not yet widespread,
-the most successful computer vision systems to date are those which make use of the data collected by neurophysiologists.
-
-Asogawa, Minoru, Adaptive Input Field Neural Network that can Recognize Rotated and/or Shifted Characters, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 407-421
-
-Dhawan, Atam P., Thomas Dufresne, Low-Level Image Processing and Edge Enhancement Using A Self Organizing Neural Network, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 503-510
-
-Hirai, Yuzo, Yasuyuki Tsukui, Position Independent Neuro Pattern Matching and its Application to Handwritten Numerical Character Recognition, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 407-421
-
-Hutchinson, James A., Christof Koch, Simple Analog and Hybrid Networks for Surface Interpolation, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbird UT, 1986, John S.   Denker ed., pp. 235-240
-
-Kanizsa, Gaetano, Subjective Contours, in The Mind's Eye: Readings from Scientific American, J.M. Wolfe (ed.), New York, W.H. Freeman & Co., 1986, pp. 82-86
-
-Lehar, Steve M., Andrew J. Worth, David N. Kennedy, Application of the Boundary Contour System/Feature Contour System to Magnetic Resonance Brain Scan Imagery, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I:435-440
-
-MacKay, David J.C., Analysis of Linsker's Application of Hebbian Rules to Linear Networks, submitted to Network; an abbreviated version appears in Neural Information Processing Systems 2, Morgan Kaufmann Publishers
-
-Mallot, Hanspeter A., Werner von Seelen, Fotios Giannakopoulos, Neural Mapping and Space-Variant Image Processing, Neural Networks, vol. 3, no. 3, 1990, pp. 245-263
-
-Menon, Murali M., William Wells III, Massively Parallel Image Restoration, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I:::::: 511-516
-
-Meuller, P., P. Spiro, D. Blackman, R.E. Furman, Neural Computation of Visual Images, in Proceedings of the IEEE First International Conference on Neural Networks, San Diego, 1987, pp. IV: 75-88
-
-Silverman, Ronald H., Andrew S. Noetzel, Image Processing and Pattern Recognition in Ultrasonograms by Backpropagation, in Neural Networks, vol. 3, no. 5, 1990, pp. 593-604
-
-Usui, Shiro, Shigeki Nakauchi, Masae Nakano, Reconstruction of Munsell Color-Space by a Five Layered Neural Network, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:515-520
-
-Wolfe, Jeremy M. (editor), The Mind's Eye, Readings from Scientific American, New York, W.H. Freeman & Co., 1986
-
-York, Bryant W., Mary K. Atkins,    Some Performance Results for a Connection Machine Implementation of the Boundary Contour System, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 351-358
-
-
-Vision - Image Compression
-
-Work is progressing quietly on the image compression front. Compression ratios on the order of 60-75% are regularly achieved, although quality varies. As in spatio-temporal signal processing, the biggest progress seems to come from those networks which implement progressive hierarchical
-feature extraction.
-
-Daugman, John G., Relaxation Neural Network for Non-Orthogonal Image Transforms, Proceedings of the 1988 International Joint Conference on Neural Networks, pp. I: 547-560
-
-Kanerva, Pentti Contour Map Encoding of Shape for Early Vision, Neural Information Processing Systems 2, David Touretzky, ed., Morgan Kaufmann Publishers, 1990, pp. 282-289
-
-Manikopoulos, C., G. Antoniou, S. Metzelopoulou, LVQ of Image Sequence Source and ANS Classification of      Finite State Machine for High Compression Coding, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 481-486
-
-Naillon, Theeten, Neural Approach to TV Image Compression using a Hopfield Type Network, Neural Information Processing Systems 1, pp. 264-271
-
-Okamoto, Toshiaki, Mitsuo Kawato, Toshio Inui, Sei Miyake, Model Based Image Compression, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990, pp. 298-305
-
-
-
-
-
-
-
-
-
-
-
-
-Vision - Invertebrate
----------------------
-
-Arnett, D.W., Receptive Field Organization of Units in the First Optic Ganglion of Diptera, Science, vol. 173, pp. 929-931
-
-Barrington, E.J.W., Invertebrate Structure and Function, Thomas Nelson and Sons, Don Mills, Ont., 1966666669, (Photoreception, pp. 280-290)
-
-Bouzerdoum, Abdesselam, Robert B. Pinter, A Shunting Inhibitory Motion Detector that Can Account for the Functional Characteristics of Fly Motion Sensitive Interneurons, in International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 149-153
-
-Braitenberg, Valentino, On Chiasms, in Neural Networks: Proceedings of the School on Neural Networks, June 1967 in Ravello, E.R. Ciaanello, editor, 1968, Springer-Verlag Berlin, pp. 34-42
-
-Brodie, Scott E., Bruce W. Knight, & Floyd Ratliff, The response of the Limulus retina to moving stimuli: a prediction by Fourier analysis, Journal of General Physiology, 1978, vol. 72, pp. 129-166
-
-Collet, T., A.J. King, Vision During Flight, in G.A. Horridge (ed.), The   Compound Eye and Vision of Insects, 1975, Claredon Press, Oxford, pp. 437-466
-
-Horridge, G. Adrian, The Compound Eye of Insects, in The Mind's Eye: Readings from Scientific American, J.M. Wolfe (ed.), New York, W.H. Freeman & Co., 1986, pp. 24-35
-
-Horridge, G. Adrian, I.A. Meinertzhagen, The Accuracy of the Patterns of Connexions of the First- and Second-Order Neurons of the Visual System of Calliphora, Proceedings of the Royal Society of London, Biological Sciences, vol. 175, 1970, pp. 69-82
-
-Horridge, G. Adrian, B. Walcott, A.C. Ioannides, The Tiered Retina of Dytiscus: a New Type of Compound Eye, Proceedings of the Royal Society of London, Biological Sciences, vol. 175, 1970, pp. 83-94
-
-Kien, J., Motion Detection in Locusts and Grasshoppers, in G.A. Horridge (ed.), The Compound Eye and Vision of Insects, 1975, Claredon Press, Oxford, pp. 410-422
-
-Kirschfeld, Kuno, Fly, Visual System, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 42-43
-
-Kruppel, Thomas, Michael Gewecke, Visually Induced Flight Manoeuvres in the Tethered Locust (Schistocerca Gregaria), in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 167-174
-
-Macagno, Eduardo R., Ian A. Meinertzhagen, Visual System Development, Invertebrates, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, p. 129-132
-
-Mazokhin-Porshnyakov, Georgii A., Insect Vision, 1969, Plenum Press, New York
-
-Mimura, K., Units of the Optic Lobe, Especially Movement Perceptions Units of Diptera, in G.A. Horridge (ed.), The Compound Eye and Vision of Insects, 19999999999999975, Claredon Press, Oxford, pp. 423-436
-
-Northrop, R.B., Information Processing in the Insect Compound Eye, in G.A. Horridge (ed.), The Compound Eye and Vision of Insects, 1975, Claredon Press, Oxford, pp. 378-409
-
-Ogmen, H., S. Gagne, Neural Network Architectures for Motion Perception and Elementary Motion Detection in the Fly Visual System, in Neural Networks, vol. 3, no. 5, pp. 487-505, 1990
-
-Poggio, Tomaso, Werner Reichardt, Visual Control of Orientation Behaviour in the Fly, Part II: Towards the Underlying Neural Interactions, Quarterly Review of Biophysics, vol. 9, no. 3, 1976, pp. 377-438
-
-Reichardt, Werner, Tomaso Poggio, Visual Control of Orientation Behaviour in the Fly, Part I: A Quantitative Analysis, Quarterly Review of Biophysics, vol. 9, no. 3, 1976, pp. 311-375
-
-
-Vision - Motion Perception
-
-
-
-Courellis, S.H., V.Z. Marmarelis, An Artificial Neural Network
-for Motion Detection and Speed Estimation, in Proceedings of the International
-Joint Conference on Neural Networks, San Diego, 1990, pp. I: 407-421
-
-
-
-Hutchinson, James A., Christof Koch, Jin Luo, Carver Mead, Computing
-Motion Using Analog and Binary Resistive Networks, IEEE Computer Magazine,
-vol. 21, no. 3, pp. 52-63
-
-
-
-Tang, D.S., Neurocomputation of Image Motion, in Proceedings
-of the International Joint Conference on Neural Networks, San Diego,
-1990, pp. I: 401-406
-
-
-
-Zhou, Y.T., R. Chellappa, A Network for Motion Perception, in
-Proceedings of the International Joint Conference on Neural Networks,
-San Diego, 1990, pp. II:875-884
-
-
-
-
-
-
-
-Vision - Toads and Frogs
-
-
-
-Betts, Bill, The Toad Optic Tectum as a Recurrent On-Center Off-Surround
-Neural Net with Quenching Threshold, in Proceedings of the 1988 International
-Joint Conference on Neural Networks, pp. II: 47-54
-
-
-
-Gaze, R.M., M.J. Keating, G. Szekely, Lynda Beazley, Binocular
-Interaction in the Formation of Specific Intertectal Neuronal Connexions,
-Proceedings of the Royal Society of London, Biological Sciences, vol.
-175, 1970, pp. 104-147
-
-
-
-Katz, Lawrence C., Martha Constantine-Paton, Relationships Between
-Segregated Afferents and Postsynaptic Neurons in the Optic Tectum
-of Three-Eyed Frogs, Journal of Neuroscience, vol. 8, no. 9, September
-1988, pp. 3160-3180
-
-
-
-Lettvin, J.Y., H.R. Maturana, W.S. McCulloch, & W.H. Pitts, What
-the Frog's Eye Tells the Frog's Brain, Proceedings of the IRE, vol
-47, no. 11, November 1959, pp. 1940-1959
-
-
-
-Wang, Deliang, Michael A. Arbib, Mechanisms of Pattern Discrimination
-in the Toad's Visual System, in Proceedings of the International Joint
-Conference on Neural Networks, San Diego, 1990, pp. II:477-482
-
-
-
-
-
-
-Vision - Vertebrate
-
-
-
-Ahumada, Albert J. Jr, Simulated Annealing in Networks for Computing
-Possible Arrangements for Red and Green Cones, in Proceedings ceedings of the
-IEEE First International Conference on Neural Networks, San Diego,
-1987, pp. IV: 107-114
-
-
-
-Bienenstock, Elie L., Leon N. Cooper, & Paul W. Munro, Theory
-for the development of neuron selectivity: orientation specificity
-and binocular interaction in the visual cortex, Journal of Neuroscience,
-1982, vol. 2, pp. 32-48
-
-
-
-Bruce, Vicki, Patrick R. Green, Visual Perception: Physiology,
-Psychology, and Ecology, Lawrence Erlbaum Associates, Hillsdale NJ,
-1985
-
-
-
-Grossberg, Stephen, Cortical Dynamics of Three-Dimensional Form,
-Color, and Brightness Perception, I: Monocular Theory, Perception
-and Psychophysics, 1987, vol. 41, no. 2, pp. 87-116
-
-
-
-Grossberg, Stephen, Cortical Dynamics of Three-Dimensional Form,
-Color, and Brightness Perception, II: Binocular Theory, Perception
-and Psychophysics, 1987, vol. 41, no. 2, pp. 117-158
-
-
-
-Grossberg, Stephen, Ennio Mingolla, Computer Simulation of Neural
-Networks for Perceptual Psychology, Behavior Research Methods, Instruments,
-and Computers, 1986, vol. 18, no. 6, pp. 601-607
-
-
-
-Grossberg, Stephen, Dejan Todorovic, Neural Dynamics of 1-D and
-2-D Brightness Perception: A Unified Model of Classical and Recent
-Phenomena, in Neural Networks and Natural Intelligence, Stephen Grossberg,
-editor, MIT Press, Cambridge MA, 1988, pp. 127-194
-
-
-
-Hubel David H., Torsten N. Wiesel, Receptive fields, binocular
-interaction and functional architecture in the cat's visual cortex,
-Journal of Physiology (London), 1962, vol 160, pp. 106-154
-
-
-
-Hubel David H., Torsten N. Wiesel, Brain Mechanisms of Vision,
-in The Brain, a Scientific American Book, 1979, W.H. Freeman and co.,
-New York, pp. 84-96
-
-
-
-Loebner, Egon E., Concurrency Assurance in Vertebrate Retinas,
-in Proceedings of the First IEEE International Conference on Neural
-Networks, San Diego, 1987, pp. IV: 147-159
-
-
-
-Poggio, Gian F., Francisco Gonzalez, Friedemann Krause, Stereoscopic
-Mechanisms in Monkey Visual Cortex: Binocular Correlation and Disparity
-Selectivity, Journal of Neuroscience, Dec. 1988, vol. 8, no. 12, pp.
-4531-4550
-
-
-
-Schiller, Peter H., Sean D. True, Janet L. Conway, Effects of
-Frontal Eye Field and Superior Collicus Ablations on Eye Movements,
-Science, vol 206, Nov. 2 1979, pp. 590-592
-
-
-
-Schrodinger, E., On the Trichromatic and Opponent-Process Theories,
-translated by Keith K. Niall, Spatial Vision, vol. 3, no. 2, 1988,
-pp. 79-95
-
-
-
-Seelen, W. v., H.A. Mallot, F. Giannakopoulos, E. Schulze, Properties
-of Cortical Systems - A Basis for Computer Vision, in Proceedings
-of the IEEE First International Conference on Neural Networks, San
-Diego, 1987, pp. IV: 89-96
-
-
-
-von der Marlsburg, Christoph, Self Organization of Orientation
-Sensitive Cells in the Striate Cortex, Kybernetik, vol 14, pp. 85-100
-
-
-
-Wiesel Torsten N., & David H. Hubel, Spatial and Chromatic interactions
-in the lateral geniculate body of the rhesus monkey, Journal of Neurophysiology
-, 1966, vol. 29, pp. 1115-1156
-
-
-
-
-Neural VLSI
-
-Card, H.C., W.R. Moore, Silicon Models of Associative Learning in Aplysia, Neural Networks, vo, vol. 3, no. 3, 1990, pp. 333-346
-
-Culhane, Andrew D., Martin C. Peckerar, A Neural Net Approach to Discrete Hartley and Fourier Transforms, IEEE Transactions on Circuits and Systems, vol. 36, no. 5, May 1989, pp. 695-703
-
-Koch, Christoph, Wyeth Bair, John G. Harris, Timothy Horiuchi, Andrew Hsu, Jin Luo, Real Time Computer Vision and Robotics Using Analog VLSI Circuits, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990, pp. 750-757
-
-Lazzaro, John, Carver Mead, A Silicon Model of Auditory Localization, Neural Computation, David Touretzky ed., Morgan Kaufmann Publishers, 1989, vol. 1, no. 1, pp. 47-57
-
-Maher, Mary Ann C., Stephen P. Deweerth, Mish A. Mahowald, Carver A. Mead, Implementing Neural Architectures Using Analog VLSI Circuits, IEEE Transactions on Circuits and Systems, vol. 36, no. 5, May 1989, pp. 643-652
-
-Mead, Carver, The Artificial Cochlea, Proceedings of the International Joint Conference on Neural Networks...
-
-Mead, Carver A., Silicon Models of Neural Computation, in Proceedings of the IEEE First International Conference on Neural Networks 1987, vol 1
-
-Mead, Carver A., Analog VLSI and Neural Systems, Addison Wesley, 1989
-
-van den Bout, David E., Thomas K. Miller III, A Digital Architecture Employing Stochasticism for the Simulation of Hopfield Neural Nets, IEEE Transactions on Circuits and Systems, vol. 36, no. 5, May 1989, pp. 732-738
-
-
-
-
-When somebody's giving out data, take as much as you can.
-	- Bernard Widrow in Plenary Talk at IJCNN 87<F46>
 
 
 
@@ -4174,14 +2931,6 @@ s and Natural Intelligence, Stephen Grossberg,
 editor, MIT Press, Cambridge MA, 1988
 
 
-Reference List - Neural Networks
-
-Compiled by Nick Porcino, 1990
-
-
-General References - Computers
-
-Bernstein, Philip A., Sequoia: A Fault-Tolerant Tightly Coupled Multiprocessor for Transaction Processing, IEEE Computer Magazine, vol. 21, no. vol. 21,
 
 
 APPENDIX A
@@ -4337,7 +3086,7 @@ PICTURE FRAME
  habituation - learned conditioning to a stimulus. If a reflex habituates to repeated stimuli, the reaction to that particular stimuli becomes less and less. It is interesting to note that habituation and fatigue are a type of memory. see adaptation 1
 
  Hebbian learning - Learning methods which owe their basis to Donald Hebb's famous postulate:
- “When an axon of cell A is near enough to excite a cell B, and repeatedly or persistently takes part in firing it, some growth process or metabolic change takes place in one or both cells, such that A's efficiency as one of the cells firing B, is increased.”
+ "When an axon of cell A is near enough to excite a cell B, and repeatedly or persistently takes part in firing it, some growth process or metabolic change takes place in one or both cells, such that A's efficiency as one of the cells firing B, is increased.”
 
 This rule is not enough to teach a network, but it is a good start.  The problem with the rule is that there is no way for synaptic weights to decrease. Systems which use Hebb's postulate as a basis for a learning rule are said to be Hebbian.
 
