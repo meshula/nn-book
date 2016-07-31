@@ -2382,7 +2382,7 @@ F(dE,dw(t)) + aDw(t-1)
 	As in Hopfield's network, a global energy function is defined for a Boltzmann machine. If the energy of the function is imagined to be a surface with peaks and dips, the simulated annealing process can be thought of minimizing the energy function, or finding the deepest valley in the energy surface by bouncing the state of the machine around until the lowest valley is found. The Lyapunov energy function for a Boltzmann machine is:
 E = -
 I
-SU(i<j, ,W
+SU(i < j, ,W
 S( ,ij)S
 S( ,i)S
 S( ,j))
@@ -3382,21 +3382,21 @@ Beer, Randall D., Hillel J. Chiel, Neural Implementation of Motivated Behaviour:
 
 Davis, William J., Organizational Concepts in the Central Motor Networks of Invertebrates, in Neural Control of Locomotion, R.M. Herman, S. Grillner, P.S.G. Stein, & D.G. Stuart (Eds), Plenum Press, New York, 1976, pp. 265-292
 
-Eckert, Roger, Paramecium, the Ionic Basis of Sensorimotor Behaviour, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. IIIIIrwin (ed.), 1988, Birkhauser, Boston, pp. 97-99
+Eckert, Roger, Paramecium, the Ionic Basis of Sensorimotor Behaviour, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 97-99
 
 Erber, Joachim, Honeybee Learning, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, p. 47
 
-Kandel, Eric R.,,,,,,,, Small Systems of Neurons, in The Brain, a Scientific American Book, 1979, W.H. Freeman and co., New York, pp. 28-38
+Kandel, Eric R., Small Systems of Neurons, in The Brain, a Scientific American Book, 1979, W.H. Freeman and co., New York, pp. 28-38
 
 Kupfermann, I., K.R. Weiss, The Command Neuron Concept, Behavioural Brain Science, 1978, pp. 1:3-39
 
-Lent, Charles M., Michael H. Diiiiiiickinson, The Neurobiology of Feeding in Leeches, Scientific American, June 1988, vol. 258, no. 6, pp. 98-103
+Lent, Charles M., Michael H. Dickinson, The Neurobiology of Feeding in Leeches, Scientific American, June 1988, vol. 258, no. 6, pp. 98-103
 
-Lockery, Shawn R., G. Wittenburg, W.B. Kristan Jr., N. Qian, and Terrence Sejnowski, Neural Network Analysis of Distributed Representations oooooof Sensory Information in the Leech, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990
+Lockery, Shawn R., G. Wittenburg, W.B. Kristan Jr., N. Qian, and Terrence Sejnowski, Neural Network Analysis of Distributed Representations of Sensory Information in the Leech, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990
 
-Lockery, Shawn R., Yan Fang, Terrence Sejnowski, A Dynamic Neural Network Model of Sensorimotor Transformations in the LLLLLeech, in Neural Computation, vol. 2, no. 3, pp. 274-282
+Lockery, Shawn R., Yan Fang, Terrence Sejnowski, A Dynamic Neural Network Model of Sensorimotor Transformations in the Leech, in Neural Computation, vol. 2, no. 3, pp. 274-282
 
-Ruppell, Georg, Kinematic and Behavioural Aspects of Flight of the Male Banded Agrion, Calopteryx (Agrion) Splendens L., in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag PPPPPPaul Parey, 1985, pp. 195-204
+Ruppell, Georg, Kinematic and Behavioural Aspects of Flight of the Male Banded Agrion, Calopteryx (Agrion) Splendens L., in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 195-204
 
 Stabel, Jasmine, Gernot Wendler, Hans Scharstein, The Escape Reaction of Acheta Domesticus Under Open Loop Conditions, in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 79-85
 
@@ -3412,9 +3412,9 @@ Truman, James W., Metamorphosis (Caterpillars, Moths), in Comparative Neuroscien
 
 Neuroethology - Miscellaneous
 
-Neuroooooooooooethology is the study of the neural control of behaviour. The neuro-architectures employed by biological nervous systems can lead to elegant and robust neural networks for the intelligent control of distributed systems.
+Neuroethology is the study of the neural control of behaviour. The neuro-architectures employed by biological nervous systems can lead to elegant and robust neural networks for the intelligent control of distributed systems.
 
-Camhi, Jeffrey M., NNNNNNNNNNNNNNNNeuroethology: Nerve Cells and the Natural Behaviour of Animals, Sinauer Associates Inc. Publishers, Sunderland, Massachusetts, 1984
+Camhi, Jeffrey M., Neuroethology: Nerve Cells and the Natural Behaviour of Animals, Sinauer Associates Inc. Publishers, Sunderland, Massachusetts, 1984
 
 Cliff, D.T., Computational Neuroethology: A Provisional Manifesto, Cognitive Science Research Paper, Serial No. CSRP 11111162, May 1990, The University of Sussex, School of Cognitive and Computing Science, Falmer, Brighton BN1 9QN, England, UK
 
@@ -3437,11 +3437,11 @@ Creutzfeldt O.D. & P. Huggelund, Science, 1975, vol. 188, pp. 1025-1027
 
 Delcomyn, Fred, Neural Basis of Rhythmic Behavior in Animals, Science, vol. 210, 31 Oct. 1980, pp. 492-498
 
-Drawbaugh, Donald W., Toward a Model of the Hippocampus, in Proceediiiiiiings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:717-721
+Drawbaugh, Donald W., Toward a Model of the Hippocampus, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:717-721
 
 Dumont, James P.C., R. Meldrum Robertson, Neuronal Circuits: An Evolutionary Perspective, Science, vol. 233, 22 Aug. 1986, pp. 849-852
 
-Fair, Charles M.,,,,,,,,, Memory and Central Nervous Organization, Paragon House Publishers, New York, 1988
+Fair, Charles M., Memory and Central Nervous Organization, Paragon House Publishers, New York, 1988
 
 Guthrie D.M., Neuroethology: An Introduction, Blackwell Scientific Publications, Oxford, 1980
 
@@ -3460,15 +3460,15 @@ Barn Owl, Nature, May 31, 1990, vol. 345, pp. 434-437
 
 Nottebohm, Fernando, Birdsong, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 9-12
 
-Olmsted, Davvvvvvvid, The Reticular Formation as a Multi-Valued Logic Neural Network, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 619-624
+Olmsted, David, The Reticular Formation as a Multi-Valued Logic Neural Network, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 619-624
 
-Pellionisz, Andreas J., R. Llinas, D.H. Perkel, A computer model of the cerebbbbbbellar cortex of the frog, Neuroscience, 1977, vol. 2, pp. 19-36
+Pellionisz, Andreas J., R. Llinas, D.H. Perkel, A computer model of the cerebellar cortex of the frog, Neuroscience, 1977, vol. 2, pp. 19-36
 
 Reichert, H., C.H.F. Rowell, C. Griss, Course Correction Circuitry Translates Feature Detection into Behavioural Action in Locusts, Nature, vol. 351, 9 May 1985, pp. 142-144
 
-Shadmehr,,,,,,,, Reza, Gary D. Lindquist, A Neural Network for Pattern Generation in the Scratch Reflex, in Proceedings of the 1988 International Joint Conference on Neural Networks, pp. II:25-32
+Shadmehr, Reza, Gary D. Lindquist, A Neural Network for Pattern Generation in the Scratch Reflex, in Proceedings of the 1988 International Joint Conference on Neural Networks, pp. II:25-32
 
-Stein, Barry E., H.P. Clamann, S.J. Goldberg, Superior Collicus: Contrrrrrrol of Eye Movements in Neonatal Kittens, Science, vol. 210, 3 Oct. 1980, pp. 78-80
+Stein, Barry E., H.P. Clamann, S.J. Goldberg, Superior Collicus: Control of Eye Movements in Neonatal Kittens, Science, vol. 210, 3 Oct. 1980, pp. 78-80
 
 Stein, Paul S.G., Intrinsic Capabilities of Neural Networks in the Turtle Spinal Cord: Selection and Generation of Motor Patterns, in Proceedings of the International   Joint Conference on Neural Networks, San Diego, 1990, pp. II:669-674
 
@@ -3477,104 +3477,104 @@ Treffner, Ecological Connectionism and Animal-Environment Mutuality, 1987 Intern
 
 Neurophysiology
 
-Aoki, Chhhhhhhhhhhhhhhhhhhiye, Philip Siekevitz, Plasticity in Brain Development, Scientific American, Dec. 1988, vol. 258, no. 12, pp. 34-42
+Aoki, Chiye, Philip Siekevitz, Plasticity in Brain Development, Scientific American, Dec. 1988, vol. 258, no. 12, pp. 34-42
 
-Braitenberg, Valentino, Brains, Structural Similarities of, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedddddia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 18-19
+Braitenberg, Valentino, Brains, Structural Similarities of, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 18-19
 
-Bras, Helene, Paul Gogan, Suzanne Tyc-Dumont, The Mammalian Central Neurone is a Complex Computing Device, in Proceedings of the IEEE First International Conference on Neuuuuuuural Networks, San Diego, 1987, pp. IV: 123-126
+Bras, Helene, Paul Gogan, Suzanne Tyc-Dumont, The Mammalian Central Neurone is a Complex Computing Device, in Proceedings of the IEEE First International Conference on Neural Networks, San Diego, 1987, pp. IV: 123-126
 
 Crick, Francis, Brain Physiology, in Parallel Distributed Processing, vol 2, Rumelhart & McClelland, Eds., MIT Press, Cambridge MA, 1987
 
-Dawes, R.L., Biomasscomp: A Procedure for Mapping the Architectuuuuuuure of a Living Neural Network into a Machine, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. III: 215-225
+Dawes, R.L., Biomasscomp: A Procedure for Mapping the Architecture of a Living Neural Network into a Machine, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. III: 215-225
 
-Durbin, Richard, Nematode C. elegans, Nervous System, in Comparative Neuroscience and Neurrrrrrrobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 82-83
+Durbin, Richard, Nematode C. elegans, Nervous System, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 82-83
 
-Gardner, Daniel, Synaptic Diversity Characterizes Biological Neural Nets, IEEE First International Conference on Neural Networks, Sannnnnn Diego, 1987, pp. IV: 17-22
+Gardner, Daniel, Synaptic Diversity Characterizes Biological Neural Nets, IEEE First International Conference on Neural Networks, San Diego, 1987, pp. IV: 17-22
 
 Gottlieb, David I., GABAergic Neurons, Scientific American, vol. 258, no. 2, Feb. 1988
 
-Jerison, Harry J., Brain Size, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis NNNNNNNN. Irwin (ed.), 1988, Birkhauser, Boston, pp. 15-17
+Jerison, Harry J., Brain Size, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 15-17
 
 Kimelberg, Harold K., & Michael D. Norenberg, Astrocytes, Scientific American, April 1989, vol. 260, no. 4, pp. 66-76
 
-Koopowitz, Harold, Brain, Primitive, Flatworms, in Comparative Neuroscience anddddddd Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 13-14
+Koopowitz, Harold, Brain, Primitive, Flatworms, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 13-14
 
-Nauta, Walle J.H., Michael Feirtag, The Organization of the Brain, in The Brain, a Scientific American Book, 1979, W.H. Freeman annnnnd co., New York, pp. 40-53
+Nauta, Walle J.H., Michael Feirtag, The Organization of the Brain, in The Brain, a Scientific American Book, 1979, W.H. Freeman and co., New York, pp. 40-53
 
 Ridgway, Sam H., The Cetacean Central Nervous System, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 20-25
 
-Stevens, Johnnnnnnnn K., Reverse Engineering the Brain, BYTE, April 1985, pp 287-299
+Stevens, John K., Reverse Engineering the Brain, BYTE, April 1985, pp 287-299
 
 Stevens, Charles F., The Neuron, in The Brain, a Scientific American Book, 1979, W.H. Freeman and co., New York, pp. 14-25
 
-Young, J.Z., Octopus Brain, in Comparative Neuroscience anddddddd Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 97-99
+Young, J.Z., Octopus Brain, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 97-99
 
 
 Robotic Control - General
 
 See also Vehicles
 
-This is an area of research which is slowly emerging as an importantttttttttttttttttttt field of study in neural networks. Most of the problems associated with robotic task planning and execution have been individually attacked using neural networks, but a central unifying vision is still lacking
-(cf. Brooks, Minsky, Ozguner for attemptssss at decentralized distributed control).
+This is an area of research which is slowly emerging as an important field of study in neural networks. Most of the problems associated with robotic task planning and execution have been individually attacked using neural networks, but a central unifying vision is still lacking
+(cf. Brooks, Minsky, Ozguner for attempts at decentralized distributed control).
 
 Arbib, M.A., G.F. Franklin, N. Nilsson, Some Ideas on Information Processing in the Cerebellum, in Neural Networks: Proceedings of the School on Neural Networks, June 1967 in Ravello, E.R. Caianello, editor,    1968, Springer-Verlag Berlin, pp. 43-58
 
 Blackburn M.R., and H.G. Nguyen, An Artificial Neural Network for Autonomous Undersea Vehicles, Naval Ocean Systems Center, San Diego CA, July 1988, Technical document 1318
 
-Donnett, Jim, Tim Smithers, Neuronnnnnnnnal Group Selection Theory, A Grounding in Robotics, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990, pp. 308-315
+Donnett, Jim, Tim Smithers, Neuronal Group Selection Theory, A Grounding in Robotics, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990, pp. 308-315
 
-Durrant-Whyte, Hugh. F., Integration, Coordination and Control of Multi-Sensor Robot Systeeeeeems, Kluwer Academic Publishers, Boston, 1988
+Durrant-Whyte, Hugh. F., Integration, Coordination and Control of Multi-Sensor Robot Systems, Kluwer Academic Publishers, Boston, 1988
 
 Fu, K. S., R.C. Gonzalez, C.S.G. Lee, Robotics: Control, Sensing, Vision, and Intelligence, McGraw Hill, 1987
 
-Goldberg, Barak Pearlmutter, Using Back Propagation with Temporal Windows to Learn the Dynammmmmmmmics of the CMU Direct Drive Arm II, Neural Information Processing Systems 1, pp. 356-363
+Goldberg, Barak Pearlmutter, Using Back Propagation with Temporal Windows to Learn the Dynamics of the CMU Direct Drive Arm II, Neural Information Processing Systems 1, pp. 356-363
 
 Graf, Lalonde, A Neural Controller for Collision Free Movement of General Robotic Manipulators, 1988 International Joint Conference on Neural Networks, pp. I: 7777777-84
 
 Kung, Sun-Yuan, Jenq-Neng Hwang, Neural Network Architectures for Robotic Applications, IEEE Transactions on Robotics and Automation, vol. 5, no. 5, Oct. 1989, pp. 641-657
 
-Kuperstein, Michael, Jorge Rubinstein, Implementation of an Adaptive Neeeeeeeeural Controller for Sensory-Motor Coordination, IEEE Control Systems Magazine, April 1989, pp. 25-30
+Kuperstein, Michael, Jorge Rubinstein, Implementation of an Adaptive Neural Controller for Sensory-Motor Coordination, IEEE Control Systems Magazine, April 1989, pp. 25-30
 
-Lee, Sukhan, Rhee M. Kil, Robot Kinematic Control Based on Bidirectional Mapping Neural Network, in Proceedings of the International Joint Conferenceeeeee on Neural Networks, 1990, pp. III: 327-335
+Lee, Sukhan, Rhee M. Kil, Robot Kinematic Control Based on Bidirectional Mapping Neural Network, in Proceedings of the International Joint Conference on Neural Networks, 1990, pp. III: 327-335
 
-Niznic, Carol A., Wayne Hoss, Charles Watts, Modelling and Mathematical Formalism for Robotic Cerebellar Neural Network Pathway Information Measures, in Proceedings of the First IEEE International Conferenceeeee on Neural Networks, San Diego, 1987, pp. IV: 583-591
+Niznic, Carol A., Wayne Hoss, Charles Watts, Modelling and Mathematical Formalism for Robotic Cerebellar Neural Network Pathway Information Measures, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 583-591
 
-Ritter, Schulten, <F44@S>Using Kohonen's Net for Motor Control and Perception, 1988 International Joint Conference on Neural Networks, pp. I: 109-116
+Ritter, Schulten, Using Kohonen's Net for Motor Control and Perception, 1988 International Joint Conference on Neural Networks, pp. I: 109-116
 
 
 Robotic Control - Layered Control
 
-Beeeeeeeeeeeeellingham, James G., Thomas R. Consi, Robert M. Beaton, William Hall, Keeping Layered Control Simple, Proceedings of the IEEE Symposium on Autonomous Underwater Vehicle Technology, June 5 and 6, 1990, Washington D.C., pp. 3-8
+Bellingham, James G., Thomas R. Consi, Robert M. Beaton, William Hall, Keeping Layered Control Simple, Proceedings of the IEEE Symposium on Autonomous Underwater Vehicle Technology, June 5 and 6, 1990, Washington D.C., pp. 3-8
 
 Brooks, Rodney A.,      A Robust Layered Control System for a Mobile Robot, IEEE Journal of Robotics and Automation, vol. RA-2, no. 1, March 1986, pp. 14-23
 
-McCulloch, Walter S., Logic and Closed Loops for a Computer Junket to Mars, in Neural Networks: Proceedings of the Scccccchool on Neural Networks, June 1967 in Ravello, E.R. Caianello, editor,1968, Springer-Verlag Berlin, pp. 65-91
+McCulloch, Walter S., Logic and Closed Loops for a Computer Junket to Mars, in Neural Networks: Proceedings of the School on Neural Networks, June 1967 in Ravello, E.R. Caianello, editor,1968, Springer-Verlag Berlin, pp. 65-91
 
-Nagata, Shigemi, Minoru Sekiguchi, Kazuo Asakawa, Mobile Robot Control by a Structured Hierarchical Neural Network, IEEE Control Systems Maaaaaaagazine, April 1990, pp. 69-76
+Nagata, Shigemi, Minoru Sekiguchi, Kazuo Asakawa, Mobile Robot Control by a Structured Hierarchical Neural Network, IEEE Control Systems Magazine, April 1990, pp. 69-76
 
 Ozguner, U., Decentralized and Distributed Control Approaches and Algorithms, Proceedings of the 28th Conference on Decision and Control, Tampa Florida, Dec, 1989, pp. 1289-1294
 
 
 Robotic Control - Manipulators
 
-Gaaaaaaaaaaaardner, Esther P., What the Robot's Hand Should Tell the Robot's Brain, in Proceedings of the 1988 International Joint Conference on Neural Networks, pp. II: 557-565
+Gardner, Esther P., What the Robot's Hand Should Tell the Robot's Brain, in Proceedings of the 1988 International Joint Conference on Neural Networks, pp. II: 557-565
 
-Grupen, Roderic A., Thomas C. Henderson & Ian D. McCammon, A Survey of General-Purposssssse Manipulation, International Journal of Robotics Research, Feb. 1989, vol. 8, no. 1, pp. 38-62
+Grupen, Roderic A., Thomas C. Henderson & Ian D. McCammon, A Survey of General-Purpose Manipulation, International Journal of Robotics Research, Feb. 1989, vol. 8, no. 1, pp. 38-62
 
-Iberall, Thea, A Ballpark Approach to Modelling Human Prehension, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego,,,,,, 1987, pp. IV: 535-543
+Iberall, Thea, A Ballpark Approach to Modelling Human Prehension, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 535-543
 
 Jacobsen, C., E. Wood, F. Knutti, B. Biggers, The UTAH/MIT Dextrous Hand: Work in Progress, International Journal of Robotics Research, Winter 1984, vol. 3, no. 4, pp. 21-50
 
-Tsutsumi, Kazuyoshi, Haruya Matsumoto, Neural Compuuuuuuutation and Learning Strategy for Manipulator Position Control, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 525-534
+Tsutsumi, Kazuyoshi, Haruya Matsumoto, Neural Computation and Learning Strategy for Manipulator Position Control, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 525-534
 
 
 Robotics - Vehicles
 
-See also Robotic Control and Proprioceptive Sensiiiiiiiiiiing
+See also Robotic Control and Proprioceptive Sensing
 
-The motivated behaviours of the systems inspired by Braitenberg's classic Vehicles are among the most sophisticated and robust ever achieved by artificial intelligence systems (cf. Brooks, 1986). For the most part still overlooked by the mainstreaaaaaam, this notion for intelligent control will probably be the most fruitful of all AI methodologies in the future.
+The motivated behaviours of the systems inspired by Braitenberg's classic Vehicles are among the most sophisticated and robust ever achieved by artificial intelligence systems (cf. Brooks, 1986). For the most part still overlooked by the mainstream, this notion for intelligent control will probably be the most fruitful of all AI methodologies in the future.
 
-Beer, Randall B., Hillel S. Chiel, and Leon S. Sterling, A Biological Perspective on Autonomous Agent Design, in P. Maes (Ed.) New Arrrrrrrrchitectures for Autonomous Agents, MIT Press and Elsevier North Holland, 1990
+Beer, Randall B., Hillel S. Chiel, and Leon S. Sterling, A Biological Perspective on Autonomous Agent Design, in P. Maes (Ed.) New Architectures for Autonomous Agents, MIT Press and Elsevier North Holland, 1990
 
 Braitenberg, Valentino, Vehicles: Experiments in Synthetic Psychology, MIT Press, Cambridge, 1984
 
@@ -3582,36 +3582,36 @@ Brooks, Rodney A., A Robust Layered Control System for a Mobile Robot,    IEEE J
 
 Connell, Jonathon, The Omni Photovore, Omni Magazine, November 1988, pp. 201-212
 
-Nagata, Shigemi, Minoru Sekiguchi, Kazuo Asakawa, Mobile Robot Control by a Strrrrrrrrrrrrrructured Hierarchical Neural Network, IEEE Control Systems Magazine, April 1990, pp. 69-76
+Nagata, Shigemi, Minoru Sekiguchi, Kazuo Asakawa, Mobile Robot Control by a Structured Hierarchical Neural Network, IEEE Control Systems Magazine, April 1990, pp. 69-76
 
 Reynolds, CraigDistributed Control for Intelligent Systems, in review for Neural Information Processing Systems vol. 3, Morgan Kaufmann, 1991
 
-Reynolds, Craigggggggg W., Flocks, Herds, and Schools: A Distributed Behavioural Model, ACM Computer Graphics, vol. 21, no. 4, July 1987, pp. 25-34
+Reynolds, Craig W., Flocks, Herds, and Schools: A Distributed Behavioural Model, ACM Computer Graphics, vol. 21, no. 4, July 1987, pp. 25-34
 
-Wilhelms, Jane, and Robert Skinner, A "Notion" for Interactive Behavioral Animation Control, IEEE Computer Graphics and Appllllllications, May 1990, pp. 14-22
+Wilhelms, Jane, and Robert Skinner, A "Notion" for Interactive Behavioral Animation Control, IEEE Computer Graphics and Applications, May 1990, pp. 14-22
 
 
 Self Organizing Feature Nets and Vector Quantization
 
-Ahalt, Stanley C., Ashok K. Krishnamurthy, Prakoon Chen, Douglas E. Melton, Competitive Learning Algorithms for Vector Quantization, Neural Networks, vol. 3, nooooooooooo. 3, 1990, pp. 277-290
+Ahalt, Stanley C., Ashok K. Krishnamurthy, Prakoon Chen, Douglas E. Melton, Competitive Learning Algorithms for Vector Quantization, Neural Networks, vol. 3, no. 3, 1990, pp. 277-290
 
 Baras, John S., Anthony La Vigna, Convergence of Kohonen's Learning Vector Quantization, in Proceedings of the International Joint Conference on Neural Networks, 1990, pp. III: 17-20
 
-DeSieno, Duane, Adding a Conscience to Commmmmmmpetitive Learning, 1988 International Joint Conference on Neural Networks, pp. I: 117-124
+DeSieno, Duane, Adding a Conscience to Competitive Learning, 1988 International Joint Conference on Neural Networks, pp. I: 117-124
 
-Kangas, Teuvo Kohonen, Laaksonen, Simula, Venta, Variants of Self Organizing Maps Using Minimal Spanning Trees, 1989 International Joint Conference on Neural Neeeeeetworks, pp. II: 517-522
+Kangas, Teuvo Kohonen, Laaksonen, Simula, Venta, Variants of Self Organizing Maps Using Minimal Spanning Trees, 1989 International Joint Conference on Neural Networks, pp. II: 517-522
 
 Kohonen, Teuvo, K. Makisara, Representation of Sensory Information in Self-Organizing Feature Maps, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbird UT, 1986, John S. Denker ed., pp. 271-276
 
-Kohoneeeeeeeen, Teuvo, A Neural Phonetic Typewriter, IEEE Computer Magazine, March 1988, vol. 21, no. 3, pp. 11-22
+Kohonen, Teuvo, A Neural Phonetic Typewriter, IEEE Computer Magazine, March 1988, vol. 21, no. 3, pp. 11-22
 
-Kohonen, Teuvo, Improved Versions of Learning Vector Quantization, in Proceedings of the International Joint Conference on Neural Networks, San Dieggggggo, 1990, pp. I:545-550
+Kohonen, Teuvo, Improved Versions of Learning Vector Quantization, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I:545-550
 
 Koikkalainen, Pasi, Erkki Oja, Self Organizing Hierarchical Feature Maps, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:279-284
 
-Stojanovski, Jordan, Artificial Neural Networkkkkkkk for Mapping, in Proceedings of the International Joint Conference on Neural Networks, Washington D.C., 1989
+Stojanovski, Jordan, Artificial Neural Network for Mapping, in Proceedings of the International Joint Conference on Neural Networks, Washington D.C., 1989
 
-Tanaka, Takehisa, Motohiko Naka, Kunio Yoshida, Improved Back-Propagation Combined with LVQ, in Proceedings of the International Joint Conferrrrrrence on Neural Networks, Washington D.C., 1990, pp. I: 731-734
+Tanaka, Takehisa, Motohiko Naka, Kunio Yoshida, Improved Back-Propagation Combined with LVQ, in Proceedings of the International Joint Conference on Neural Networks, Washington D.C., 1990, pp. I: 731-734
 
 Xu, Lei, Erkki Oja, Adding Top-Down Expectation into the Learning Procedure of Self-Organizing Maps, in Proceedings of the International Joint Conference on Neural Networks, Washington D......C., 1990, pp. I: 735-738
 
@@ -3620,9 +3620,9 @@ Sensor Fusion
 
 Eggers, Mitch, Tim Khuon, Neural Network Data Fusion Concepts and Application, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:7-16
 
-Moravec, Hans,,,,,,,,,,,,,,,,,,, Sensor Fusion in Uncertainty Grids for Mobile Robots, in Annual Research Review of the Robotics Institute, Carnegie Mellon University, 1987, pp. 33-48
+Moravec, Hans, Sensor Fusion in Uncertainty Grids for Mobile Robots, in Annual Research Review of the Robotics Institute, Carnegie Mellon University, 1987, pp. 33-48
 
-Rajapakse, Jagath, Raj Acharya, Multi Sensor Data Fusion within Hierarchical Neural Networks, Inteeeeeernational Joint Conference on Neural Networks, San Diego, 1990, pp. II:17-22
+Rajapakse, Jagath, Raj Acharya, Multi Sensor Data Fusion within Hierarchical Neural Networks, International Joint Conference on Neural Networks, San Diego, 1990, pp. II:17-22
 
 
 Signal Processing - Biological
@@ -3633,20 +3633,20 @@ Elsner, Popov, Neuroethology of Acoustic Communication, in Advances in Insect Ph
 
 Evans, E.F., Upper and Lower    Levels of the Auditory System: A Contrast of Structure and Function, in Neural Networks: Proceedings of the School on Neural Networks, June 1967 in Ravello, E.R. Ciaanello, editor, 1968, Springer-Verlag Berlin
 
-Mead, Carver, The Artificial Cochlea, Prrrrrroceedings of the International Joint Conference on Neural Networks
+Mead, Carver, The Artificial Cochlea, Proceedings of the International Joint Conference on Neural Networks
 
-Schreiner, Christoph E., Merzenich, Michael M., Elements of Signal Coding in the Auditory Nervous System, in Organization of Neural Networks: Structures and Models, W. von Seelen ed.,,,,,, VCH Verlagsgesellschaft mbH, Weinheim, 1988, pp. 17-30
+Schreiner, Christoph E., Merzenich, Michael M., Elements of Signal Coding in the Auditory Nervous System, in Organization of Neural Networks: Structures and Models, W. von Seelen ed., VCH Verlagsgesellschaft mbH, Weinheim, 1988, pp. 17-30
 
 Shamma, Shihab A., Neural Networks for Speech Processing and Recognition, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 397-405
 
-Travissssssss, Bryan, A Layered Neural Network Applied to the Auditory System, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbird, UT 1986, John S. Denker, ed., pp. 432-438
+Travis, Bryan, A Layered Neural Network Applied to the Auditory System, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbird, UT 1986, John S. Denker, ed., pp. 432-438
 
 Travis, Bryan, Computational Model of Auditory Cortex, Proceedings   of the IEEE First International Conference on Neural Networks, San Diego, 1987, pp. IV:67-71
 
 
 Signal Processing - Multi-Signal Separation
 
-See also Sonar and Radar Signal Processing, and Sound Source Localization and Biological Signal Processiiiiiiiiiiing
+See also Sonar and Radar Signal Processing, and Sound Source Localization and Biological Signal Processing
 
 The separation and processing of multiple signals is uncharted territory. Spatio-temporal signal processing with neural networks remains largely an unsolved problem, and therefore little progress
 in the related subordinate fields has been made.
@@ -3660,15 +3660,15 @@ in the related subordinate fields has been made.
 
 Eggers, Mitch, Tim Khuon, Neural Network Data Fusion Concepts and Application, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:7-16
 
-Hassoun, Song, Shen, Spitzer, Self Organizing Auto-Associative Dynnnnnnnamic Multiple Layer Neural Network for the Decomposition of Repetitive Superimposed Signals, in Proceedings of the International Joint Conference on Neural Networks, Washington D.C., 1990, pp. I: 621-626
+Hassoun, Song, Shen, Spitzer, Self Organizing Auto-Associative Dynamic Multiple Layer Neural Network for the Decomposition of Repetitive Superimposed Signals, in Proceedings of the International Joint Conference on Neural Networks, Washington D.C., 1990, pp. I: 621-626
 
-Jelonek, Thomas M., James P. Reilly, Maxiiiiiiiiiiimum Likelihood Estimation for Direction of Arrival using a Nonlinear Optimizing Neural Network, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 253-258
+Jelonek, Thomas M., James P. Reilly, Maximum Likelihood Estimation for Direction of Arrival using a Nonlinear Optimizing Neural Network, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 253-258
 
-Kassebaum, John, Manoel Fernando Tenorio, Christooooooph Scaefers, The Cocktail Party Problem, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990, pp. 542-549
+Kassebaum, John, Manoel Fernando Tenorio, Christoph Scaefers, The Cocktail Party Problem, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990, pp. 542-549
 
-Kohonen, Teuvo, Kimmo Raivio, Olli Simula, Olli Venta, Jukka Henriksson, Combining Linear Equalizatioooooon and Self-Organizing Adaptation in Dynamic Discrete-Signal Detection, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 223-228
+Kohonen, Teuvo, Kimmo Raivio, Olli Simula, Olli Venta, Jukka Henriksson, Combining Linear Equalization and Self-Organizing Adaptation in Dynamic Discrete-Signal Detection, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 223-228
 
-Murano, Kazuo, Shigeyuki Unagami, Fumio Amano, Echo Cancellation and Appliiiiiications, IEEE Communications Magazine, January 1990, pp. 49-55
+Murano, Kazuo, Shigeyuki Unagami, Fumio Amano, Echo Cancellation and Applications, IEEE Communications Magazine, January 1990, pp. 49-55
 
 Sung, Sinmo, Fredric M. Ham, Wesley Shelton, A New Robust Neural Network Method for Coherent Interference Rejection in Adaptive Array Systems, in Proceedings of the International Joint   Conference on Neural Networks, San Diego, 1990, pp. II:119-124
 
@@ -3677,56 +3677,56 @@ Wan, Kovacs, Rosen, Widrow, Development of Neural Net Interfaces for Direct Cont
 
 Signal      Processing - Sonar and Radar
 
-Most of these applications involve analysis of the spectral content of returned sonar or radar signals to characterize or identify targets. Almost all use back propagation or a variant thereof to learn certain exemplar paaaaaatterns; almost all report good results but long training times. Note that few of these applications involve spatio-temporal signal processing. In most cases, sonar or radar returns are represented as static patterns which are presented to static neural  networks.
+Most of these applications involve analysis of the spectral content of returned sonar or radar signals to characterize or identify targets. Almost all use back propagation or a variant thereof to learn certain exemplar patterns; almost all report good results but long training times. Note that few of these applications involve spatio-temporal signal processing. In most cases, sonar or radar returns are represented as static patterns which are presented to static neural  networks.
 
 Ahalt, Garber, Jouny, Krishnamurtha, Performance of Synthetic Neural Net Classification of Noisy Radar Signals, Neural Information Processing Systems 1, pp. 281-288
 
-Decatur, Application of Neural Networks to Radar Terrain Classificationnnnnnnnn, 1989 International Joint Conference on Neural Networks, pp. I: 283-288
+Decatur, Application of Neural Networks to Radar Terrain Classification, 1989 International Joint Conference on Neural Networks, pp. I: 283-288
 
 Farhat, Bai, Echo Inversion and Target Shape Estimation by Neuromorphic Processing, Neural Networks, pp. 117-126
 
-Khotanzad, Lu, Srinath, Target Detection Using a Neural Networrrrrrrk Based Passive Sonar System, 1989 International Joint Conference on Neural Networks, pp. I: 335-340
+Khotanzad, Lu, Srinath, Target Detection Using a Neural Network Based Passive Sonar System, 1989 International Joint Conference on Neural Networks, pp. I: 335-340
 
 Kuczewski, Neural Network Approaches to Multi-Target Tracking, 1987 International Joint Conference on Neural Networks, pp. IV: 619-633
 
-Orlando, Maaaaaaaann, Haykin, Radar Classification of Sea Ice Using Traditional and Neural Classifiers, 1990 International Joint Conference on Neural Networks, pp. II: 263-266
+Orlando, Mann, Haykin, Radar Classification of Sea Ice Using Traditional and Neural Classifiers, 1990 International Joint Conference on Neural Networks, pp. II: 263-266
 
 Ramani, Patrick, Hanson, Anderson, Fish Detection and Classification Using a Neural Network   Based Active Sonar System, 1990 International Joint Conference on Neural Networks, pp. II: 527-530
 
-Roitblat, Moore, Nachtigall, Penner, Au, Dolphin Echolocation-Identification of Returning Echoes Using a Counter Propagation Network, 1989 Internationalllll Joint Conference on Neural Networks, pp. I: 295-300
+Roitblat, Moore, Nachtigall, Penner, Au, Dolphin Echolocation-Identification of Returning Echoes Using a Counter Propagation Network, 1989 International Joint Conference on Neural Networks, pp. I: 295-300
 
 Roth, Neural Networks for Extraction of Weak Targets in High Clutter Environments, 1989 International Joint Conference on Neural Networks, pp. I: 275-282
 
-Schiling Mastebroek, Zaegman, An AAAAAAAAAAAAAAdaptive Heterodyne Filtering Procedure for the Imaging of Moving Objects, Neural Information Processing Systems, pp. 662-673
+Schiling Mastebroek, Zaegman, An Adaptive Heterodyne Filtering Procedure for the Imaging of Moving Objects, Neural Information Processing Systems, pp. 662-673
 
-Vrckovnik, Chung, Carter, An Application of Neural Networks to Impulse Radar Waveforms for Asphalt Covered Bridge Decks, Inteeeeeernational Joint Conference on Neural Networks, San Diego, 1990, pp. II: 453-456
+Vrckovnik, Chung, Carter, An Application of Neural Networks to Impulse Radar Waveforms for Asphalt Covered Bridge Decks, International Joint Conference on Neural Networks, San Diego, 1990, pp. II: 453-456
 
-Wang, Wu, Ziemer, Application of Neural Networks to Pulse Doppler Radar Systems for Moving Target Indication, in Proceedings of the International Joint Conference on Neurrrrrral Networks, San Diego, 1990, pp. II: 271-274
+Wang, Wu, Ziemer, Application of Neural Networks to Pulse Doppler Radar Systems for Moving Target Indication, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II: 271-274
 
 Winters, Jack H., Super-resolution for Ultrasonic Imaging in Air Using Neural Networks, 1988 International Joint Conference on Neural Networks, pp. I: 609-616
 
 
-Signal Processing - Sound Source Localllllllllllization
+Signal Processing - Sound Source Localization
 
-Much progress has been made in understanding the biological mechanisms for sound source localization. Rigorous studies by Konishi and Suga of the owl and the bat have formed the basis of almost all the data available. With the exception of Meeeeeead's silicon cochlea and auditory localization mechanisms, this detailed neurophysiological knowledge stands waiting for application, and is thus an important untapped resource.
+Much progress has been made in understanding the biological mechanisms for sound source localization. Rigorous studies by Konishi and Suga of the owl and the bat have formed the basis of almost all the data available. With the exception of Mead's silicon cochlea and auditory localization mechanisms, this detailed neurophysiological knowledge stands waiting for application, and is thus an important untapped resource.
 
-Carr, Masakazu Konishi, Proceedings of the National Academy of Scienccccccccces, vol. 85, pp. 8311-8315
+Carr, Masakazu Konishi, Proceedings of the National Academy of Sciences, vol. 85, pp. 8311-8315
 
 Knudsen, Eric I., Masakazu Konishi, A Neural Map of Auditory Space in the Owl, Science, vol. 200, May 19, 1978, pp. 795-797
 
-Kuwada, Shigeyuki, Tom C.T. Yin, Robert E. Wickesberg, Response of Cat Inferior Collicus Neuronsssssss to Binaural Beat Stimuli: Possible Mechanisms for Sound Localization, Science, vol 206, Nov. 2, 1979, pp. 586-588
+Kuwada, Shigeyuki, Tom C.T. Yin, Robert E. Wickesberg, Response of Cat Inferior Collicus Neurons to Binaural Beat Stimuli: Possible Mechanisms for Sound Localization, Science, vol 206, Nov. 2, 1979, pp. 586-588
 
-Lazzaro, John, Carver Mead, A Silicon Model of Auditory Localization, Neural Computation, David Touretzky ed., Morgan Kaufmann Publisheeeeeers, 1989, vol. 1, no. 1, pp. 47-57
+Lazzaro, John, Carver Mead, A Silicon Model of Auditory Localization, Neural Computation, David Touretzky ed., Morgan Kaufmann Publishers, 1989, vol. 1, no. 1, pp. 47-57
 
 Manley, Geoffrey A., Christine Koeppl, Masakazu. Konishi, A Map of Interaural Intensity Differences in the Brainstem of the Barn Owl, Journal of Neuroscience, Aug. 1988, vol. 8, no. 8, pp. 2665-2676
 
 Simmons, J.A........, Acoustic Imaging Computations by Bats: Unification of Diversely Represented Stimulus Features into Whole Images, Neural Information Processing Systems 2, D. Touretzky, ed, Morgan Kaufmann Publishers, 1990, pp. 2-9
 
-Simmons, James A., Lynda Chen, Theeeeee Acoustic Basis for Target Discrimination by FM Echolocating Bats, Journal of the Acoustic Society of America, vol. 86, no. 4, Oct. 1989, pp. 1333-1350
+Simmons, James A., Lynda Chen, The Acoustic Basis for Target Discrimination by FM Echolocating Bats, Journal of the Acoustic Society of America, vol. 86, no. 4, Oct. 1989, pp. 1333-1350
 
-Simmons, James A., Donna Howell, Nobuo Suga, Information Content of Bat Sonar Echoes, American Sciiiiiientist, vol. 63, no. 2, Mar.-Apr. 1975, pp. 204-215
+Simmons, James A., Donna Howell, Nobuo Suga, Information Content of Bat Sonar Echoes, American Scientist, vol. 63, no. 2, Mar.-Apr. 1975, pp. 204-215
 
-Simmons, J.A., E.G. Freedman, S.B. Stevenson, L. Chen, T.J. Wohlgenant, Clutter Interference and the Integration Time of Echoes in the Echolocating Bat, Eptesicus Fuscus, Journal of the Acoustic Socccccciety of America, vol. 86, no. 4, Oct. 1989, pp. 1318-1332
+Simmons, J.A., E.G. Freedman, S.B. Stevenson, L. Chen, T.J. Wohlgenant, Clutter Interference and the Integration Time of Echoes in the Echolocating Bat, Eptesicus Fuscus, Journal of the Acoustic Society of America, vol. 86, no. 4, Oct. 1989, pp. 1318-1332
 
 Spence, C.D., J.C. Pearson, Computation of Sound Source Elevation in the Barn Owl, Neural Information Processing Systems 2, D. Touretzky, ed, Morgan Kaufmann Publishers, 1990, pp. 10-17
 
@@ -3743,49 +3743,49 @@ Spence, C.D., J.C. Pearson, Computation of Sound Source Elevation in the Barn Ow
 
 Spence, C.D., J.C. Pearson, Gelfland, Peterson, Neuronal Maps for Sensory Motor Control in the Barn Owl, Neural Information Processing Systems 1, David Touretzky ed., Morgan Kaufmann Publishers, 1989, pp. 366-374
 
-Suga, Nobuo, Cortical Computationaaaaaaaal Maps for Auditory Imaging, Neural Networks, 1990, vol. 3, no. 1, pp. 3-21
+Suga, Nobuo, Cortical Computational Maps for Auditory Imaging, Neural Networks, 1990, vol. 3, no. 1, pp. 3-21
 
 Suga, Nobuo, Biosonar and Neural Computation in Bats, Scientific American, June 1990, vol. 262, no. 6, pp. 60-68
 
 Sugie, Noboru, Jie Huang, Noboru Ohnishi, Localizing Sound    Source by Incorporating a Biological Auditory Mechanism, 1988 International Joint Conference on Neural Networks, pp. II: 243-250
 
-Sussman, Harvey M., Neural Coding of Relational Invariance in Speech - Human Language Analogues to the Barn Owl, Psycholoooooogical Review, 1989, vol. 96, no. 4, pp. 631-642
+Sussman, Harvey M., Neural Coding of Relational Invariance in Speech - Human Language Analogues to the Barn Owl, Psychological Review, 1989, vol. 96, no. 4, pp. 631-642
 
 Wagner, Takahashi, Konishi, Journal of Neuroscience, 1987, vol. 7, p. 3114
 
 
 Signal Processing - SpatioTemporal
 
-Despite the large number of references listed for this section, spatio-temporal siiiiiiiiiiiiignal processing by neural networks remains one of the most important unsolved problems. The major players in this arena are the proponents of recurrent back propagation methods (cf. Pearlmutter, 1989), Fukushima's latest versions of the NeoCognitron, Koooohonen's Self Organizing Feature Nets, and Waibel's Time Delay Neural Networks (TDNN).
+Despite the large number of references listed for this section, spatio-temporal signal processing by neural networks remains one of the most important unsolved problems. The major players in this arena are the proponents of recurrent back propagation methods (cf. Pearlmutter, 1989), Fukushima's latest versions of the NeoCognitron, Kohonen's Self Organizing Feature Nets, and Waibel's Time Delay Neural Networks (TDNN).
 
 Of these methods, the NeoCognitroarpenter and Grossberg's Adaptive Resonance Theory has yet to prove itself for this application.
 
 
-Of these methods, the NeoCognitrooooon and TDNN show the most promise for robust performance. Sharing many similarities, the principle feature of these networks is progressive hierarchical feature extraction.
+Of these methods, the NeoCognitron and TDNN show the most promise for robust performance. Sharing many similarities, the principle feature of these networks is progressive hierarchical feature extraction.
 
-Beroule, Dominique, Guided Propagation Inside a Topographic Memory, in Proceeeeeeeeedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 469-476
+Beroule, Dominique, Guided Propagation Inside a Topographic Memory, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 469-476
 
 Dayhoff, Judith E., Regularity Properties in Pulse Transmission Networks, in Proceedings of the International Joint Conference on Neural Networks,   San Diego, 1990, pp. III: 621-626
 
 Gluck, Parker, Reifsnider, Learning with Temporal Derivatives in Pulse Coded Neural Systems, Neural Information Processing Systems 1, pp. 195-203
 
-Lippmann, Richard P., Beckman, Adaptive Neural Net Preprocessing foooooooor Signal Detection in Non-Gaussian Noise, Neural Information Processing Systems 1, pp. 124-132
+Lippmann, Richard P., Beckman, Adaptive Neural Net Preprocessing for Signal Detection in Non-Gaussian Noise, Neural Information Processing Systems 1, pp. 124-132
 
 Luria, A model of speech generation and perception, 1977
 
 Neumann, Wheeler, Burnside, Bernstein, Hall, A Technique for the Classification and Analysis of    Insect Courtship Song, 1990 International Joint Conference on Neural Networks, pp. II: 257-262
 
-Ogmen, Haluk, Simon Gagne, Early Spatio-Temporal Integration by Gated Competitive Networks, in Proceedings of the First IEEE International Conference on Neeeeeeural Networks, San Diego, 1987, pp. II:805-811
+Ogmen, Haluk, Simon Gagne, Early Spatio-Temporal Integration by Gated Competitive Networks, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. II:805-811
 
 Paris, Orsark, Varanasai, Aazhang, Neural Net Receivers in Multiple Access Communications, Neural Information Processing Systems 1, pp. 272-280
 
-Pearlmutter, Barak, Learning State Space Trajectoriiiiiiiiiiiiies in Recurrent Neural Networks, 1989 International Joint Conference on Neural Networks, pp. II: 365-372
+Pearlmutter, Barak, Learning State Space Trajectories in Recurrent Neural Networks, 1989 International Joint Conference on Neural Networks, pp. II: 365-372
 
-Szu, Scheff, Simulated Annealing Feature Extraction from Occluded and Cluttered Objects, 1990 International Joint Conference on Neural Networks,,,,,,, pp. II: 76-79
+Szu, Scheff, Simulated Annealing Feature Extraction from Occluded and Cluttered Objects, 1990 International Joint Conference on Neural Networks, pp. II: 76-79
 
 Szu, Foo, Space Scanning Curves for Spatio Temporal Representations Useful for Large Scale Neural Network Computing, 1990 International Joint Conference on Neural Networks, pp. II: 703-705
 
-Uchiyama, Shimohara, Tokunaga, A Modified Leeeeeeeaky Integrator Network for Temporal Pattern Processing, 1989 International Joint Conference on Neural Networks, pp. I: 469-475
+Uchiyama, Shimohara, Tokunaga, A Modified Leaky Integrator Network for Temporal Pattern Processing, 1989 International Joint Conference on Neural Networks, pp. I: 469-475
 
 van den Bout, Miller, TinnMann (incl. code), in Proceedings of the 1989 International Joint Conference on Neural Networks,   pp. II: 205-211
 
@@ -3804,17 +3804,17 @@ Using the Generalized Delta Rule for Connection Strength Modification (incl. cod
 
 Tensor Network Theory
 
-Georgopoulos, Apostolos PPPPPPPPPP., Ronald E. Kettner, Andrew B. Schwartz, Primate Motor Cortex and Free Arm Movements to Visual Targets in Three-Dimensional Space. II. Coding of the Direction of Movement by a Neuronal Population, Journal of Neuroscience, vol. 8, no. 8, Aug. 1988, pp.  2929-2937
+Georgopoulos, Apostolos P., Ronald E. Kettner, Andrew B. Schwartz, Primate Motor Cortex and Free Arm Movements to Visual Targets in Three-Dimensional Space. II. Coding of the Direction of Movement by a Neuronal Population, Journal of Neuroscience, vol. 8, no. 8, Aug. 1988, pp.  2929-2937
 
 Georgopoulos, Apostolos P., Joseph T. Lurito, Michael Petrides, Andrew B. Schwartz, Joe T. Massey, Mental Rotation of the Neuronal Population Vector, Science, vol. 243, Jan. 13, 1989, pp. 234-236
 
-Kettner, Ronald E., Andrew B. Schwartz, AAAAAAApostolos P. Georgopoulos, Primate Motor Cortex and Free Arm Movements to Visual Targets in Three-Dimensional Space. III. Positional Gradients and Population Coding of Movement Direction from Various Movement Origins, Journal of Neuroscience, vol. 8, nooooo. 8, Aug. 1988, pp. 2938-2947
+Kettner, Ronald E., Andrew B. Schwartz, Apostolos P. Georgopoulos, Primate Motor Cortex and Free Arm Movements to Visual Targets in Three-Dimensional Space. III. Positional Gradients and Population Coding of Movement Direction from Various Movement Origins, Journal of Neuroscience, vol. 8, no. 8, Aug. 1988, pp. 2938-2947
 
-Pellionisz, Andras J., Tensor Network Theory and its Application to Computer Modeling of the Meta-organization of Sensorimotor Hierarchies of Gaze, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbiiiiiird UT, 1986, John S. Denker ed., pp. 339-345
+Pellionisz, Andras J., Tensor Network Theory and its Application to Computer Modeling of the Meta-organization of Sensorimotor Hierarchies of Gaze, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbird UT, 1986, John S. Denker ed., pp. 339-345
 
-Pellionisz, Andras J., Sensorimotor Operations: a Ground for the Co-Evolution of Brain Theory with Neurobotics and Neurocomputers, in Proceedings of the First IEEE International Conference on Neural Networrrrrrks, San Diego, 1987, pp. IV: 593-600
+Pellionisz, Andras J., Sensorimotor Operations: a Ground for the Co-Evolution of Brain Theory with Neurobotics and Neurocomputers, in Proceedings of the First IEEE International Conference on Neural Networks, San Diego, 1987, pp. IV: 593-600
 
-Pellionisz, Andras J., Intelligent Decisions and Dynamic Coordination Properties of Geometrical Representation by Generalized Frames Intrinsic to Neural and Robotic Systems, in Proceedings of the 1988 Internationalllll Joint Conference on Neural Networks, pp. II: 603-610
+Pellionisz, Andras J., Intelligent Decisions and Dynamic Coordination Properties of Geometrical Representation by Generalized Frames Intrinsic to Neural and Robotic Systems, in Proceedings of the 1988 International Joint Conference on Neural Networks, pp. II: 603-610
 
 Pellionisz, Andras J., Tensorial Aspects of the Multidimensional Massively Parallel Sensorimotor Function of Neuronal Networks, Progress in Brain Research, vol. 76, O. Pompeiano and J.H.J. Allum ((((((eds.), 1988, Elsevier Science Publishers B.V. (Biomedical Division), pp. 341-354
 
@@ -3834,54 +3834,54 @@ Pellionisz, Andras J., Neural Geometry: Towards a Fractal Model of Neurons, in M
 
 
 
-Pellionisz, Andras J., Neural Geometry: The Need of Researching Association of Covariant and Contravariant Coordinates that Organizes a Cognitive Space by Relating Multisensory-Multimotor Representation, in Proceedings of the International Joint Conferrrrence on Neural Networks, Washington D.C., 1989
+Pellionisz, Andras J., Neural Geometry: The Need of Researching Association of Covariant and Contravariant Coordinates that Organizes a Cognitive Space by Relating Multisensory-Multimotor Representation, in Proceedings of the International Joint Conference on Neural Networks, Washington D.C., 1989
 
-Pellionisz, Andras J., Tensor Network Model of the Cerebellum and Olivary System Quantitatively Elaborated for the Optokinetic Reflex, in Experimental Brain Research Series 17, 1989, Springer-Verlag Berllllllin Heidelberg, pp.400-424
+Pellionisz, Andras J., Tensor Network Model of the Cerebellum and Olivary System Quantitatively Elaborated for the Optokinetic Reflex, in Experimental Brain Research Series 17, 1989, Springer-Verlag Berlin Heidelberg, pp.400-424
 
-Schwartz, Andrew B., Ronald E. Kettner, Apostolos P. Georgopoulos, Primate Motor Cortex and Free Arm Movements to Visual Targets in Three-Dimensional Space. I. Relationships Between Single Cell Discharge and Direction of Mooooooovement, Journal of Neuroscience, vol. 8, no. 8, Aug. 1988, pp. 2913-2927
+Schwartz, Andrew B., Ronald E. Kettner, Apostolos P. Georgopoulos, Primate Motor Cortex and Free Arm Movements to Visual Targets in Three-Dimensional Space. I. Relationships Between Single Cell Discharge and Direction of Movement, Journal of Neuroscience, vol. 8, no. 8, Aug. 1988, pp. 2913-2927
 
 
 Time Delay Neural Networks
 
-Hampshire, John B., Alex Waibel, Connectionist Architecture for Multi-Speaker Phoneme Recognition, Neural Information Processing Systems 2, Davvvvvvvvvvvid Touretzky ed., Morgan Kaufmann Publishers, 1990, pp. 203-210
+Hampshire, John B., Alex Waibel, Connectionist Architecture for Multi-Speaker Phoneme Recognition, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990, pp. 203-210
 
-Hirai, Akihiro, Alexander Waibel, Phoneme-based Word Recognition by Neural Network: A Step Toward Large Vocabulary Recognition, in Proceedings of the International Joint Conference on Neuuuuural Networks, San Diego, 1990, pp. III: 671-676
+Hirai, Akihiro, Alexander Waibel, Phoneme-based Word Recognition by Neural Network: A Step Toward Large Vocabulary Recognition, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. III: 671-676
 
 Lang, Kevin J., Alex Waibel, Geoffrey Hinton, A Time Delay Neural Network for Isolated Word Recognition, Neural Networks, vol. 3, no. 1, pp. 23-44
 
-Sawai, Hidefumi, Alex Waibel, Haffner, Miyatake, Kiyyyyyyyyohiro Shikano, Parallelism, Hierarchy, and Scaling in Time Delay Neural Nets for Spotting Japanese Phonemes/CV Syllables, 1989 International Joint Conference on Neural Networks, pp. II: 81-88
+Sawai, Hidefumi, Alex Waibel, Haffner, Miyatake, Kiyohiro Shikano, Parallelism, Hierarchy, and Scaling in Time Delay Neural Nets for Spotting Japanese Phonemes/CV Syllables, 1989 International Joint Conference on Neural Networks, pp. II: 81-88
 
-Waibel, Alexander, Toshiyuki Hanazawa, Geoffrey Hinton,, KKKKKKiyohiro Shikano, Kevin J. Lang, Phoneme Recognition Using Time-Delay Neural Networks, IEEE Transactions on Acoustics, Speech, and Signal Processing, vol.37, no. 3, March 1989, pp. 328-339
+Waibel, Alexander, Toshiyuki Hanazawa, Geoffrey Hinton,, Kiyohiro Shikano, Kevin J. Lang, Phoneme Recognition Using Time-Delay Neural Networks, IEEE Transactions on Acoustics, Speech, and Signal Processing, vol.37, no. 3, March 1989, pp. 328-339
 
 
 Vision - General
 
-Of all the components of the nervous sssssssssssystem, the visual system is perhaps most well studied. Starting with the seminal work of Hubel and Wiesel on orientation sensitive cells in the visual cortex, understanding of the visual system has progressed rapidly. Though not yet widespread,
-the mosssst successful computer vision systems to date are those which make use of the data collected by neurophysiologists.
+Of all the components of the nervous system, the visual system is perhaps most well studied. Starting with the seminal work of Hubel and Wiesel on orientation sensitive cells in the visual cortex, understanding of the visual system has progressed rapidly. Though not yet widespread,
+the most successful computer vision systems to date are those which make use of the data collected by neurophysiologists.
 
-Asogawa, Minoru, Adaptive Input Field Neural Network that can Recognize Rotated and/or Shifted Characters, in Proceedings of the Inteeeeeeeernational Joint Conference on Neural Networks, San Diego, 1990, pp. I: 407-421
+Asogawa, Minoru, Adaptive Input Field Neural Network that can Recognize Rotated and/or Shifted Characters, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 407-421
 
-Dhawan, Atam P., Thomas Dufresne, Low-Level Image Processing and Edge Enhancement Using A Self Organizing Neural Network, in Proceedings of the International Joint Confereeeeeence on Neural Networks, San Diego, 1990, pp. I: 503-510
+Dhawan, Atam P., Thomas Dufresne, Low-Level Image Processing and Edge Enhancement Using A Self Organizing Neural Network, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 503-510
 
-Hirai, Yuzo, Yasuyuki Tsukui, Position Independent Neuro Pattern Matching and its Application to Handwritten Numerical Character Recognition, in Proceedings of the International Joint Confffffffffffference on Neural Networks, San Diego, 1990, pp. I: 407-421
+Hirai, Yuzo, Yasuyuki Tsukui, Position Independent Neuro Pattern Matching and its Application to Handwritten Numerical Character Recognition, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 407-421
 
 Hutchinson, James A., Christof Koch, Simple Analog and Hybrid Networks for Surface Interpolation, in AIP Conference Proceedings 151: Neural Networks for Computing, Snowbird UT, 1986, John S.   Denker ed., pp. 235-240
 
 Kanizsa, Gaetano, Subjective Contours, in The Mind's Eye: Readings from Scientific American, J.M. Wolfe (ed.), New York, W.H. Freeman & Co., 1986, pp. 82-86
 
-Lehar, Steve M., Andrew J. Worth, David N. Kennedy, Application ooooooooof the Boundary Contour System/Feature Contour System to Magnetic Resonance Brain Scan Imagery, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I:435-440
+Lehar, Steve M., Andrew J. Worth, David N. Kennedy, Application of the Boundary Contour System/Feature Contour System to Magnetic Resonance Brain Scan Imagery, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I:435-440
 
-MacKay, David J.C., Analysis of Linsker's Applicatiooooon of Hebbian Rules to Linear Networks, submitted to Network; an abbreviated version appears in Neural Information Processing Systems 2, Morgan Kaufmann Publishers
+MacKay, David J.C., Analysis of Linsker's Application of Hebbian Rules to Linear Networks, submitted to Network; an abbreviated version appears in Neural Information Processing Systems 2, Morgan Kaufmann Publishers
 
-Mallot, Hanspeter A., Werner von Seelen, Fotios Giannakopoulos, Neural Mapping and Spaaaaaaace-Variant Image Processing, Neural Networks, vol. 3, no. 3, 1990, pp. 245-263
+Mallot, Hanspeter A., Werner von Seelen, Fotios Giannakopoulos, Neural Mapping and Space-Variant Image Processing, Neural Networks, vol. 3, no. 3, 1990, pp. 245-263
 
 Menon, Murali M., William Wells III, Massively Parallel Image Restoration, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I:::::: 511-516
 
 Meuller, P., P. Spiro, D. Blackman, R.E. Furman, Neural Computation of Visual Images, in Proceedings of the IEEE First International Conference on Neural Networks, San Diego, 1987, pp. IV: 75-88
 
-Silverman, Ronald H., Andrew S. Noetzel, Imaaaaaaage Processing and Pattern Recognition in Ultrasonograms by Backpropagation, in Neural Networks, vol. 3, no. 5, 1990, pp. 593-604
+Silverman, Ronald H., Andrew S. Noetzel, Image Processing and Pattern Recognition in Ultrasonograms by Backpropagation, in Neural Networks, vol. 3, no. 5, 1990, pp. 593-604
 
-Usui, Shiro, Shigeki Nakauchi, Masae Nakano, Reconstruction of Munsell Color-Space by a Five Layered Neural Network, in PPPPPProceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:515-520
+Usui, Shiro, Shigeki Nakauchi, Masae Nakano, Reconstruction of Munsell Color-Space by a Five Layered Neural Network, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. II:515-520
 
 Wolfe, Jeremy M. (editor), The Mind's Eye, Readings from Scientific American, New York, W.H. Freeman & Co., 1986
 
@@ -3890,16 +3890,16 @@ York, Bryant W., Mary K. Atkins,    Some Performance Results for a Connection Ma
 
 Vision - Image Compression
 
-Work is progreeeeeeeeeeessing quietly on the image compression front. Compression ratios on the order of 60-75% are regularly achieved, although quality varies. As in spatio-temporal signal processing, the biggest progress seems to come from those networks which implement proggggressive hierarchical
+Work is progressing quietly on the image compression front. Compression ratios on the order of 60-75% are regularly achieved, although quality varies. As in spatio-temporal signal processing, the biggest progress seems to come from those networks which implement progressive hierarchical
 feature extraction.
 
 Daugman, John G., Relaxation Neural Network for Non-Orthogonal Image Transforms, Proceedings of the 1988 International Joint Conference on Neural Networks, pp. I: 547-560
 
-Kanerva, Pentti Contour Map Encoddddddddding of Shape for Early Vision, Neural Information Processing Systems 2, David Touretzky, ed., Morgan Kaufmann Publishers, 1990, pp. 282-289
+Kanerva, Pentti Contour Map Encoding of Shape for Early Vision, Neural Information Processing Systems 2, David Touretzky, ed., Morgan Kaufmann Publishers, 1990, pp. 282-289
 
 Manikopoulos, C., G. Antoniou, S. Metzelopoulou, LVQ of Image Sequence Source and ANS Classification of      Finite State Machine for High Compression Coding, in Proceedings of the International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 481-486
 
-Naillon, Theeten, Neural Approach to TV Image Compression using a Hopfield Type Network, Neurallllll Information Processing Systems 1, pp. 264-271
+Naillon, Theeten, Neural Approach to TV Image Compression using a Hopfield Type Network, Neural Information Processing Systems 1, pp. 264-271
 
 Okamoto, Toshiaki, Mitsuo Kawato, Toshio Inui, Sei Miyake, Model Based Image Compression, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990, pp. 298-305
 
@@ -3915,32 +3915,33 @@ Okamoto, Toshiaki, Mitsuo Kawato, Toshio Inui, Sei Miyake, Model Based Image Com
 
 
 Vision - Invertebrate
+---------------------
 
 Arnett, D.W., Receptive Field Organization of Units in the First Optic Ganglion of Diptera, Science, vol. 173, pp. 929-931
 
 Barrington, E.J.W., Invertebrate Structure and Function, Thomas Nelson and Sons, Don Mills, Ont., 1966666669, (Photoreception, pp. 280-290)
 
-Bouzerdoum, Abdesselam, Robert B. Pinter, A Shunting Inhibitory Motion Detector that Can Account for the Functional Characteristics of Fly Motion Sensitive Interneurons, in International Joint Conference on Neural Nettttttworks, San Diego, 1990, pp. I: 149-153
+Bouzerdoum, Abdesselam, Robert B. Pinter, A Shunting Inhibitory Motion Detector that Can Account for the Functional Characteristics of Fly Motion Sensitive Interneurons, in International Joint Conference on Neural Networks, San Diego, 1990, pp. I: 149-153
 
 Braitenberg, Valentino, On Chiasms, in Neural Networks: Proceedings of the School on Neural Networks, June 1967 in Ravello, E.R. Ciaanello, editor, 1968, Springer-Verlag Berlin, pp. 34-42
 
-Brodie, Scott E., Bruuuuuuuce W. Knight, & Floyd Ratliff, The response of the Limulus retina to moving stimuli: a prediction by Fourier analysis, Journal of General Physiology, 1978, vol. 72, pp. 129-166
+Brodie, Scott E., Bruce W. Knight, & Floyd Ratliff, The response of the Limulus retina to moving stimuli: a prediction by Fourier analysis, Journal of General Physiology, 1978, vol. 72, pp. 129-166
 
 Collet, T., A.J. King, Vision During Flight, in G.A. Horridge (ed.), The   Compound Eye and Vision of Insects, 1975, Claredon Press, Oxford, pp. 437-466
 
 Horridge, G. Adrian, The Compound Eye of Insects, in The Mind's Eye: Readings from Scientific American, J.M. Wolfe (ed.), New York, W.H. Freeman & Co., 1986, pp. 24-35
 
-HHHHHHHHorridge, G. Adrian, I.A. Meinertzhagen, The Accuracy of the Patterns of Connexions of the First- and Second-Order Neurons of the Visual System of Calliphora, Proceedings of the Royal Society of London, Biological Sciences, vol. 175, 1970, pp. 69-82
+Horridge, G. Adrian, I.A. Meinertzhagen, The Accuracy of the Patterns of Connexions of the First- and Second-Order Neurons of the Visual System of Calliphora, Proceedings of the Royal Society of London, Biological Sciences, vol. 175, 1970, pp. 69-82
 
-HHHHHHorridge, G. Adrian, B. Walcott, A.C. Ioannides, The Tiered Retina of Dytiscus: a New Type of Compound Eye, Proceedings of the Royal Society of London, Biological Sciences, vol. 175, 1970, pp. 83-94
+Horridge, G. Adrian, B. Walcott, A.C. Ioannides, The Tiered Retina of Dytiscus: a New Type of Compound Eye, Proceedings of the Royal Society of London, Biological Sciences, vol. 175, 1970, pp. 83-94
 
-Kien, J., Motion Detection in Locusts and Grasshopperrrrrs, in G.A. Horridge (ed.), The Compound Eye and Vision of Insects, 1975, Claredon Press, Oxford, pp. 410-422
+Kien, J., Motion Detection in Locusts and Grasshoppers, in G.A. Horridge (ed.), The Compound Eye and Vision of Insects, 1975, Claredon Press, Oxford, pp. 410-422
 
-Kirschfeld, Kuno, Fly, Visual System, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis NNNNNNN. Irwin (ed.), 1988, Birkhauser, Boston, pp. 42-43
+Kirschfeld, Kuno, Fly, Visual System, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pp. 42-43
 
-Kruppel, Thomas, Michael Gewecke, Visually Induced Flight Manoeuvres in the Tethered Locust (Schistocerca Gregaria), in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey,,,,, 1985, pp. 167-174
+Kruppel, Thomas, Michael Gewecke, Visually Induced Flight Manoeuvres in the Tethered Locust (Schistocerca Gregaria), in Insect Locomotion, Michael Gewecke and Gernot Wendler (eds.), Verlag Paul Parey, 1985, pp. 167-174
 
-Macagno, Eduardo R., Ian A. Meinertzhagen, Visual System Development, Invertebrates, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, pppppppp. 129-132
+Macagno, Eduardo R., Ian A. Meinertzhagen, Visual System Development, Invertebrates, in Comparative Neuroscience and Neurobiology: Readings from the Encyclopedia of Neuroscience, Louis N. Irwin (ed.), 1988, Birkhauser, Boston, p. 129-132
 
 Mazokhin-Porshnyakov, Georgii A., Insect Vision, 1969, Plenum Press, New York
 
@@ -3948,11 +3949,11 @@ Mimura, K., Units of the Optic Lobe, Especially Movement Perceptions Units of Di
 
 Northrop, R.B., Information Processing in the Insect Compound Eye, in G.A. Horridge (ed.), The Compound Eye and Vision of Insects, 1975, Claredon Press, Oxford, pp. 378-409
 
-Ogmen, H., S. Gagne, Neural Networkkkkkkk Architectures for Motion Perception and Elementary Motion Detection in the Fly Visual System, in Neural Networks, vol. 3, no. 5, pp. 487-505, 1990
+Ogmen, H., S. Gagne, Neural Network Architectures for Motion Perception and Elementary Motion Detection in the Fly Visual System, in Neural Networks, vol. 3, no. 5, pp. 487-505, 1990
 
-Poggio, Tomaso, Werner Reichardt, Visual Control of Orientation Behaviour in the Fly, Part II: Towardssssss the Underlying Neural Interactions, Quarterly Review of Biophysics, vol. 9, no. 3, 1976, pp. 377-438
+Poggio, Tomaso, Werner Reichardt, Visual Control of Orientation Behaviour in the Fly, Part II: Towards the Underlying Neural Interactions, Quarterly Review of Biophysics, vol. 9, no. 3, 1976, pp. 377-438
 
-Reichardt, Werner, Tomaso Poggio, Visual Control of Orientation Behaviour in the Fly, Part I: A Quantitative Analysis, Quarterly Review of Biophysiccccccs, vol. 9, no. 3, 1976, pp. 311-375
+Reichardt, Werner, Tomaso Poggio, Visual Control of Orientation Behaviour in the Fly, Part I: A Quantitative Analysis, Quarterly Review of Biophysics, vol. 9, no. 3, 1976, pp. 311-375
 
 
 Vision - Motion Perception
@@ -3961,7 +3962,7 @@ Vision - Motion Perception
 
 Courellis, S.H., V.Z. Marmarelis, An Artificial Neural Network
 for Motion Detection and Speed Estimation, in Proceedings of the International
-Joint Conference on Neural Networks, Saaaaaan Diego, 1990, pp. I: 407-421
+Joint Conference on Neural Networks, San Diego, 1990, pp. I: 407-421
 
 
 
@@ -4133,29 +4134,29 @@ in the lateral geniculate body of the rhesus monkey, Journal of Neurophysiology
 
 Neural VLSI
 
-Card, H.C., W.R. Moore, Silicon Models of Associative Learning in Aplysia, Neural Networks, voooo, vol. 3, no. 3, 1990, pp. 333-346
+Card, H.C., W.R. Moore, Silicon Models of Associative Learning in Aplysia, Neural Networks, vo, vol. 3, no. 3, 1990, pp. 333-346
 
 Culhane, Andrew D., Martin C. Peckerar, A Neural Net Approach to Discrete Hartley and Fourier Transforms, IEEE Transactions on Circuits and Systems, vol. 36, no. 5, May 1989, pp. 695-703
 
-Koch, Christoph, Wyeth Bair, JJJJJJJohn G. Harris, Timothy Horiuchi, Andrew Hsu, Jin Luo, Real Time Computer Vision and Robotics Using Analog VLSI Circuits, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990, pp. 750-757
+Koch, Christoph, Wyeth Bair, John G. Harris, Timothy Horiuchi, Andrew Hsu, Jin Luo, Real Time Computer Vision and Robotics Using Analog VLSI Circuits, Neural Information Processing Systems 2, David Touretzky ed., Morgan Kaufmann Publishers, 1990, pp. 750-757
 
-Lazzaro, John, Carverrrrrr Mead, A Silicon Model of Auditory Localization, Neural Computation, David Touretzky ed., Morgan Kaufmann Publishers, 1989, vol. 1, no. 1, pp. 47-57
+Lazzaro, John, Carver Mead, A Silicon Model of Auditory Localization, Neural Computation, David Touretzky ed., Morgan Kaufmann Publishers, 1989, vol. 1, no. 1, pp. 47-57
 
-Maher, Mary Ann C., Stephen P. Deweerth, Mish A. Mahowald, Carver A. Mead, Implementing Neural Archittttttectures Using Analog VLSI Circuits, IEEE Transactions on Circuits and Systems, vol. 36, no. 5, May 1989, pp. 643-652
+Maher, Mary Ann C., Stephen P. Deweerth, Mish A. Mahowald, Carver A. Mead, Implementing Neural Architectures Using Analog VLSI Circuits, IEEE Transactions on Circuits and Systems, vol. 36, no. 5, May 1989, pp. 643-652
 
 Mead, Carver, The Artificial Cochlea, Proceedings of the International Joint Conference on Neural Networks...
 
-Mead, Carver A., Sillllllllicon Models of Neural Computation, in Proceedings of the IEEE First International Conference on Neural Networks 1987, vol 1
+Mead, Carver A., Silicon Models of Neural Computation, in Proceedings of the IEEE First International Conference on Neural Networks 1987, vol 1
 
 Mead, Carver A., Analog VLSI and Neural Systems, Addison Wesley, 1989
 
-van den Bout, David E., Thomas K. Miller III, A Digiiiiiiiital Architecture Employing Stochasticism for the Simulation of Hopfield Neural Nets, IEEE Transactions on Circuits and Systems, vol. 36, no. 5, May 1989, pp. 732-738
+van den Bout, David E., Thomas K. Miller III, A Digital Architecture Employing Stochasticism for the Simulation of Hopfield Neural Nets, IEEE Transactions on Circuits and Systems, vol. 36, no. 5, May 1989, pp. 732-738
 
 
 
 
 When somebody's giving out data, take as much as you can.
-	- Bernard Widrow innnnnnnnn Plenary Talk at IJCNN 87<F46>
+	- Bernard Widrow in Plenary Talk at IJCNN 87<F46>
 
 
 
@@ -4170,21 +4171,9 @@ kawahara@nttlab.nt.ntb.ntb.ntb.ntb.ntb.ntb.ntt.jp   (kawahara@av-convex.ntt.jp)
 
 
 s and Natural Intelligence, Stephen Grossberg,
-editor, MIT Press, Cambridge MA, 1988ÄÇwÑs¶oƒk∆g cË_Ï[WUSÆO"K$
-“ws/oKkŸg,cÉ_¢[ΩW»SÁOÈK
-ÈÚw˚s;o=k?gpcñ_—[˜W2SjOôK
-ô¸w
-s=
-oF
-k•
-g‚
-c6
-_q
-[î
-W∏
-S˙
-OK
-ZwÄsßo›k	gF	cï
+editor, MIT Press, Cambridge MA, 1988
+
+
 Reference List - Neural Networks
 
 Compiled by Nick Porcino, 1990
