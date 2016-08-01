@@ -26,6 +26,16 @@ relevant now as then, and I present it now both as a look through an antique
 window at the way things were, and as an exploration of possibilities neglected
 but likely now very timely.
 
+This is the version of the text I've been able to recover from obsolete word
+processing files. I haven't been able to restore the equations or diagrams yet,
+and will redraw them or otherwise reintstate them as time allows.
+
+There are many todos as the latest text was not recoverable. Those sections will
+be ammended, once again as time allows.
+
+My hope is that this book is still in some wise useful in its current, corrupt
+form.
+
 - the author, 2016
 
 
@@ -289,8 +299,8 @@ At the very lowest level are animals like sponges which don't have a nervous
 network, but rather have neurons scattered randomly throughout the body. The
 nervous system of the starfish has a simple ring organization, which is an order
 of magnitude improvement over the sponge. There is no central control in the
-starfish, but it is capable of much more complex behaviour.  Rodney Brooks’
-"subsumption architecture” demonstrates that useful and interesting behaviour
+starfish, but it is capable of much more complex behaviour.  Rodney Brooks'
+"subsumption architecture" demonstrates that useful and interesting behaviour
 can  emerge from a completely decentralized system (Brooks, 1989).
 
 The next step is the ladder structure found in the protocordates. They have a
@@ -564,426 +574,1094 @@ maps.
 THE PHYSIOLOGICAL BASIS OF COMPUTATION - VISION
 -----------------------------------------------
 
-
 DIAGRAM THE EYE
 
-.c22.1: THE RETINA
+THE RETINA
 
-	The retina is composed of a layer of light detecting cells underlaid by a layer of ganglia which performs higher order processing such as contrast detection and local rate of change of illumination. By the time signals reach the optic nerve, a great deal of preprocessing has taken place. A variety of low level feature have been extracted and conditioned in preparation for the more complex processing that takes place in the various ganglia on the way to the visual cortex.
+The retina is composed of a layer of light detecting cells underlaid by a layer
+of ganglia which performs higher order processing such as contrast detection and
+local rate of change of illumination. By the time signals reach the optic nerve,
+a great deal of preprocessing has taken place. A variety of low level feature
+have been extracted and conditioned in preparation for the more complex
+processing that takes place in the various ganglia on the way to the visual
+cortex.
 
-	Detail vision takes place in the central area of the retina, termed the fovea. The same type of processing takes place everywhere in the retina, but the cells concerned with detail have a complex-log distribution, being nearly linearly dispersed in the fovea, and becoming rapidly sparser as the edge of the retina is approached.
-	Second order processing, the processing of image motion takes place uniformly across the entire field of vision: consider how readily we spot motion at the edge of vision: a flash of light, or a bird.  One function of the higher order processing is to initiate the saccadic reflex to center a moving image in the fovea. On the other hand, merging of an image doesn't occur at the edge of the retina. This is demonstrated simply by looking at a television at the very edge of the field of vision: flicker is quite obvious.  The human eye will merge images presented at thirty Hertz or greater. By contrast, the eye of the bee will not allow merging until the flicker rate goes over one hundred Hertz.
+Detail vision takes place in the central area of the retina, termed the fovea.
+The same type of processing takes place everywhere in the retina, but the cells
+concerned with detail have a complex-log distribution, being nearly linearly
+dispersed in the fovea, and becoming rapidly sparser as the edge of the retina
+is approached. 
 
- Detail Vision Cells and Motion Detecting Cells
+Second order processing, the processing of image motion takes place uniformly
+across the entire field of vision: consider how readily we spot motion at the
+edge of vision: a flash of light, or a bird.  One function of the higher order
+processing is to initiate the saccadic reflex to center a moving image in the
+fovea. On the other hand, merging of an image doesn't occur at the edge of the
+retina. This is demonstrated simply by looking at a television at the very edge
+of the field of vision: flicker is quite obvious.  The human eye will merge
+images presented at thirty Hertz or greater. By contrast, the eye of the bee
+will not allow merging until the flicker rate goes over one hundred Hertz.
 
-	Retinal cells habituate or "get used to” a constant level of light, and the signal returned by a habituated cell gradually decreases to nothing. That's why we can see afterimages. For the same reason, the complicated network of blood vessels on the surface of the human retina can't be perceived: the blood vessels are stationary with respect to the retina. To prevent habituation to an image, the eye moves constantly, as a microscopic jitter is all that is needed to keep the retinal cells reacting. A crab's eyes, which are at the end of stalks, tremor constantly to prevent habituation.
-	The following diagram illustrates a retinal rod cell. The Lamellae are the light detecting part of the cell. The signals from the rod are input directly to the layer of amacrine cells under the retina. Before the image even leaves the eye, it has been enhanced, and many types of features extracted.
+Detail Vision Cells and Motion Detecting Cells
 
-
+Retinal cells habituate or "get used to" a constant level of light, and the
+signal returned by a habituated cell gradually decreases to nothing. That's why
+we can see afterimages. For the same reason, the complicated network of blood
+vessels on the surface of the human retina can't be perceived: the blood vessels
+are stationary with respect to the retina. To prevent habituation to an image,
+the eye moves constantly, as a microscopic jitter is all that is needed to keep
+the retinal cells reacting. A crab's eyes, which are at the end of stalks,
+tremor constantly to prevent habituation.  The following diagram illustrates a
+retinal rod cell. The Lamellae are the light detecting part of the cell. The
+signals from the rod are input directly to the layer of amacrine cells under the
+retina. Before the image even leaves the eye, it has been enhanced, and many
+types of features extracted.
 
 
 DIAGRAM NEUROPIL OF THE RETINA
 
-	The ommatidium, or simple eye, of the invertebrates is an interesting eye: it responds to shorter wavelengths of light, polarized light, and fast moving targets. DESCRIBE OPERATION OF OMMATIDIA
+The ommatidium, or simple eye, of the invertebrates is an interesting eye: it
+responds to shorter wavelengths of light, polarized light, and fast moving
+targets. 
 
+DESCRIBE OPERATION OF OMMATIDIA
 
-	The compound eye's ommatidia are not distributed uniformly over the eye. Close observation of an insect eye reveals a small black spot. This spot is caused by ommotidia that are faced directly towards the viewer... Light is absorbed in this direction rather than reflected, and the black spot, called a pseudopupil, is formed. At one place on the compound eye the pseudopupil will be larger than in most other spots because more ommatidia are pointed in this particular direction. Detail vision is most acute in this area and it is termed the fovea by analogy to the pupil of the vertebrate eye.
-	DESCRIBE FLY'S RETINA (Braitenburg and Encyclopedia of Neuroscience)
+The compound eye's ommatidia are not distributed uniformly over the eye. Close
+observation of an insect eye reveals a small black spot. This spot is caused by
+ommotidia that are faced directly towards the viewer. 
 
-	The retina of the horseshoe crab, Limulus, consists of about a thousand ommotidia, each with a field of view of about six degrees, covering a total area of about two hundred degrees. The network underlying the retina embodies the very important principle of lateral inhibition, whereby neighbouring neurons inhibit each other and feed back to themselves, causing hyperacuity, image sharpening, self organization and various other useful phenomenon to occur. The retinal circuit of Limulus has been extensively studied since the 1930's, and was one of the first neural networks to be completely characterized owing to its extreme simplicity. By 1978, the circuit underlying the eye of Limulus had been modelled reliably as a linear system (Brodie, Knight, & Ratliff, 1978). The following diagram shows the circuitry of the Limulus retina:
+Light is absorbed in this direction rather than reflected, and the black spot,
+called a pseudopupil, is formed. At one place on the compound eye the
+pseudopupil will be larger than in most other spots because more ommatidia are
+pointed in this particular direction. Detail vision is most acute in this area
+and it is termed the fovea by analogy to the pupil of the vertebrate eye.
+
+DESCRIBE FLY'S RETINA (Braitenburg and Encyclopedia of Neuroscience)
+
+The retina of the horseshoe crab, Limulus, consists of about a thousand
+ommotidia, each with a field of view of about six degrees, covering a total area
+of about two hundred degrees. The network underlying the retina embodies the
+very important principle of lateral inhibition, whereby neighbouring neurons
+inhibit each other and feed back to themselves, causing hyperacuity, image
+sharpening, self organization and various other useful phenomenon to occur. The
+retinal circuit of Limulus has been extensively studied since the 1930's, and
+was one of the first neural networks to be completely characterized owing to its
+extreme simplicity. By 1978, the circuit underlying the eye of Limulus had been
+modelled reliably as a linear system (Brodie, Knight, & Ratliff, 1978). The
+following diagram shows the circuitry of the Limulus retina:
 
 DIAGRAM LIMULUS CIRCUIT
 
-	Brodie and his colleagues conducted a series of experiments where they presented computer generated images to the horseshoe crab via an optic fiber cable glued to the eye. A small hole was cut behind the eye, the optic nerve was transected and dissected free, and a single firing axon was obtained.  Once readings from many crabs were obtained and analyzed, there were several interesting results.
-	Maxima or minima of activity in the axon was detected just before a test ommotidium was crossed by a moving edge, a kind of anticipatory effect. The magnitude of the anticipation was directly proportional to the speed of the edge: a fast edge gave a large response, a slow edge, almost none. The retina's response characteristics (lateral inhibition) are such that contours and movements are accentuated, providing useful detail to the brain, even though the number of cells is small.
+Brodie and his colleagues conducted a series of experiments where they presented
+computer generated images to the horseshoe crab via an optic fiber cable glued
+to the eye. A small hole was cut behind the eye, the optic nerve was transected
+and dissected free, and a single firing axon was obtained.  Once readings from
+many crabs were obtained and analyzed, there were several interesting results.
 
+Maxima or minima of activity in the axon was detected just before a test
+ommotidium was crossed by a moving edge, a kind of anticipatory effect. The
+magnitude of the anticipation was directly proportional to the speed of the
+edge: a fast edge gave a large response, a slow edge, almost none. The retina's
+response characteristics (lateral inhibition) are such that contours and
+movements are accentuated, providing useful detail to the brain, even though the
+number of cells is small.
 
+ORIENTATION SENSITIVE CELLS:
+----------------------------
 
+Long before an image reaches the association cortex, the visual (striate) cortex
+has begun the process of abstracting useful data from the image. Through a long
+series of well known experiments Hubel and Weisel found two important types of
+neurons in the visual cortex. These two types of cells are characterized by
+their receptive fields. One type of cells has circular receptive fields arranged
+in concentric, mutually antagonistic sub-regions: these are the on-center off-
+surround cells, and the off-center on-surround cells.
 
+These cells are sensitive to changes in contrast (Wiesel & Hubel, 1966). Hubel
+and Wiesel found the other type of cell in experiments with kittens. The
+activity of individual striate cortex cells were monitored as bars of light of
+various orientations were swept across a screen. Individual neurons responded
+strongly only to edges at particular angles (Hubel & Wiesel, 1962). Example
+receptive fields of orientation sensitive cells are shown below.
 
-.c22.2: ORIENTATION SENSITIVE CELLS:
-
-	Long before an image reaches the association cortex, the visual (striate) cortex has begun the process of abstracting useful data from the image. 	Through a long series of well known experiments Hubel and Weisel found two important types of neurons in the visual cortex.  These two types of cells are characterized by their receptive fields. One type of cells has circular receptive fields arranged in concentric, mutually antagonistic sub-regions : these are the on-center off-surround cells, and the off-center on-surround cells.
-
-
-
-	These cells are sensitive to changes in contrast (Wiesel & Hubel, 1966). Hubel and Wiesel found the other type of cell in experiments with kittens. The activity of individual striate cortex cells were monitored as bars of light of various orientations were swept across a screen. Individual neurons responded strongly only to edges at particular angles (Hubel & Wiesel, 1962). Example receptive fields of orientation sensitive cells are shown below.
 BRIEF NOTE ON LINSKER'S EIGENVECTOR RECEPTIVE FIELD RESULTS
 
+They found that as a probe went deeper and deeper through the cortex, the
+preferred orientations of the cells would change slightly. They deduced that
+neurons are organized in columns, and within these columns, all the neurons are
+sensitive to the same orientation. Neighbouring columns tend to respond to
+similar orientations.  This demonstrates an important organizing principle:
+neighbouring cells in a network have similar behaviour. In other words, the
+activity of neighbouring neurons is almost the same.
 
+PROGRESSIVE ROTATION
 
-	They found that as a probe went deeper and deeper through the cortex, the preferred orientations of the cells would change slightly. They deduced that neurons are organized in columns, and within these columns, all the neurons are sensitive to the same orientation. Neighbouring columns tend to respond to similar orientations.  This demonstrates an important organizing principle: neighbouring cells in a network have similar behaviour. In other words, the activity of neighbouring neurons is almost the same.
+Christoph von der Marlsburg (1982) argued that it would be impossible for every
+detail of that organization to be programmed genetically, and that consequently,
+the cortex must be able to organize itself. The constraint that neighbouring
+columns tend to respond to similar orientations was the key to developing an
+organizing rule. The experiments with the kittens demonstrated that there was a
+period when the structure of the cortex was plastic (changeable). It was
+therefore the function of intracortical connectivity and the adaptive abilities
+of the neurons to organize the cortex during that period of plasticity.
 
-      PROGRESSIVE ROTATION
+Von der Marlsburg developed a computer model that self-organized: units tended
+to fire in clusters, a large proportion of the cells exhibited orientational
+preferences, and preferred direction varied gradually from neighbouring cell to
+neighbouring cell, matching the physiological observations of Hubel and Wiesel.
+The system was also robust: if the values in particular synapses were destroyed,
+the synapses would relearn their old values, and the system would thus repair
+itself.
 
-	Christoph von der Marlsburg (1982) argued that it would be impossible for every detail of that organization to be programmed genetically, and that consequently, the cortex must be able to organize itself. The constraint that neighbouring columns tend to respond to similar orientations was the key to developing an organizing rule. The experiments with the kittens demonstrated that there was a period when the structure of the cortex was plastic (changeable). It was therefore the function of intracortical connectivity and the adaptive abilities of the neurons to organize the cortex during that period of plasticity.
-	Von der Marlsburg developed a computer model that self-organized: units tended to fire in clusters, a large proportion of the cells exhibited orientational preferences, and preferred direction varied gradually from neighbouring cell to neighbouring cell, matching the physiological observations of Hubel and Wiesel. The system was also robust: if the values in particular synapses were destroyed, the synapses would relearn their old values, and the system would thus repair itself.
-	The cells in von der Marlsburg's model were simple summing thresholding units, below the threshold, the output would be zero, above, one. Because a simple linear system has no bounds on activities of the weights, inhibitory neurons were put in, to keep the values reasonable. As a simplification, only on-cells with no center-surround organization were used in the model. Excitatory and inhibitory cells were arranged in a two dimensional hexagonal matrix, and they interacted via a bell-shaped function of distance. The bell-shaped interaction function caused reinforcement of most active cells, and inhibition of cells outside the immediate neighbourhood of the most active cells. The system learned using a modified Hebb rule: weights at a given cell were normalized so that they all added to a constant, thus, one weight would gain at the expense of the others. Even with all the simplifying assumptions, this arrangement was enough to effect self-organization.
+The cells in von der Marlsburg's model were simple summing thresholding units,
+below the threshold, the output would be zero, above, one. Because a simple
+linear system has no bounds on activities of the weights, inhibitory neurons
+were put in, to keep the values reasonable. As a simplification, only on-cells
+with no center-surround organization were used in the model. Excitatory and
+inhibitory cells were arranged in a two dimensional hexagonal matrix, and they
+interacted via a bell-shaped function of distance. The bell-shaped interaction
+function caused reinforcement of most active cells, and inhibition of cells
+outside the immediate neighbourhood of the most active cells. The system learned
+using a modified Hebb rule: weights at a given cell were normalized so that they
+all added to a constant, thus, one weight would gain at the expense of the
+others. Even with all the simplifying assumptions, this arrangement was enough
+to effect self-organization.
 
-	Bienenstock, Cooper, and Munro (1982) extended von der Marlsburg's model to include inputs from the left and right eyes, so that binocular results obtained from experiments with kittens could be modelled. With their model, they found that if the system is allowed to develop normally, the cells become orientationally selective, and binocular.
-	A single cell will develop so that it responds to the same orientation coming from both eyes. If, however, the system develops in a state of light deprivation, the cells never choose a particular orientation preference, instead exhibiting low selectivity, and random orientational preferences. If input to one eye is suppressed, cells become orientationally selective, and monocular, not responding at all to input from the other eye. In the case of uncorrelated input, binocular as well as monocular equilibria exist, and the preferred orientations from the left and right inputs don't necessarily coincide in binocular cells.
+Bienenstock, Cooper, and Munro (1982) extended von der Marlsburg's model to
+include inputs from the left and right eyes, so that binocular results obtained
+from experiments with kittens could be modelled. With their model, they found
+that if the system is allowed to develop normally, the cells become
+orientationally selective, and binocular.
 
+A single cell will develop so that it responds to the same orientation coming
+from both eyes. If, however, the system develops in a state of light
+deprivation, the cells never choose a particular orientation preference, instead
+exhibiting low selectivity, and random orientational preferences. If input to
+one eye is suppressed, cells become orientationally selective, and monocular,
+not responding at all to input from the other eye. In the case of uncorrelated
+input, binocular as well as monocular equilibria exist, and the preferred
+orientations from the left and right inputs don't necessarily coincide in
+binocular cells.
 
 DIAGRAM OCCULUAR DOMINANCE STRIPES IN VISUAL CORTEX
-DESCRIBE MACAQUE MAPS AND THREE EYED FROGS AND POSSIBLE MECHANISMS FOR BINOCULAR FUSION
 
+DESCRIBE MACAQUE MAPS AND
+THREE EYED FROGS AND POSSIBLE MECHANISMS FOR BINOCULAR FUSION
 
-
-The processing performed by the retina of the frog is described in detail in Section 2.3.
+The processing performed by the retina of the frog is described in detail in
+Section 2.3.
 
 Section 4.5 describes edge sharpening through lateral inhibition.
 
 Section 5.1 describes Hebbian learning
 
-Predators are more likely than prey organisms to have eyes on the front of the head with overlapping visual fields. Prey organisms tend to have eyes located on the sides of the head, giving rearward vision, but little depth perception. This is probably related to the tendency to form herds. This idea is elaborated on in Section 5.9 which discusses flocks and herds as a type of distributed processing.
+Predators are more likely than prey organisms to have eyes on the front of the
+head with overlapping visual fields. Prey organisms tend to have eyes located on
+the sides of the head, giving rearward vision, but little depth perception. This
+is probably related to the tendency to form herds. This idea is elaborated on in
+Section 5.9 which discusses flocks and herds as a type of distributed
+processing.
 
-.c22.3: FROG'S EYES
 
-	The classic paper "What the Frog's Eye Tells the Frog's Brain” by Lettvin, Matturana, McCulloch and Pitts in 1959 illuminates a way in which progressive stages of processing can do most of the signal processing and abstraction of a scene before an image reaches the cortex.	The frog's visual system was studied because it is very simple. Signals from the retina travel directly to the collicus. The frog has no fovea, therefore a uniform amount of information is available from across the retina. The frog's eyes don't move except to stabilize an image on the retina. 	The old view of visual perception would have a pattern of light and dark arriving in the visual cortex, ready to be interpreted. The results of these experiments was to demonstrate that this is not the case, but rather that the image is highly organized and interpreted by the time it reaches the cortex. As it turns out, the frog does not receive much information about the stationary world - in fact, it will starve to death if surrounded by unmoving food.
-	To perform the experiment, a frog was placed inside a spherical globe. Inside the globe were various objects which the experimenters could manipulate from outside using magnets. Various stimuli were presented - dots, bars, fields of moving dots, scenery, etc. Readings were obtained from the optic nerve and from the optic tectum.
-	The frog's retina has about a million receptors (rods & cones), about three million connecting neurons (bipolars, horizontals, and amacrines), and about a half million ganglion cells. The receptors feed out to many different ganglion cells, and the ganglion cells receive synapses from thousands of receptors. The following diagram shows a section of the frog's retina (after Ramon y Cajal).
+2.3: FROG'S EYES
+----------------
+
+The classic paper "What the Frog's Eye Tells the Frog's Brain" by Lettvin,
+Matturana, McCulloch and Pitts in 1959 illuminates a way in which progressive
+stages of processing can do most of the signal processing and abstraction of a
+scene before an image reaches the cortex.   The frog's visual system was studied
+because it is very simple. Signals from the retina travel directly to the
+collicus. The frog has no fovea, therefore a uniform amount of information is
+available from across the retina. The frog's eyes don't move except to stabilize
+an image on the retina.   The old view of visual perception would have a pattern
+of light and dark arriving in the visual cortex, ready to be interpreted. The
+results of these experiments was to demonstrate that this is not the case, but
+rather that the image is highly organized and interpreted by the time it reaches
+the cortex. As it turns out, the frog does not receive much information about
+the stationary world - in fact, it will starve to death if surrounded by
+unmoving food.
+
+To perform the experiment, a frog was placed inside a spherical globe. Inside
+the globe were various objects which the experimenters could manipulate from
+outside using magnets. Various stimuli were presented - dots, bars, fields of
+moving dots, scenery, etc. Readings were obtained from the optic nerve and from
+the optic tectum.
+
+The frog's retina has about a million receptors (rods & cones), about three
+million connecting neurons (bipolars, horizontals, and amacrines), and about a
+half million ganglion cells. The receptors feed out to many different ganglion
+cells, and the ganglion cells receive synapses from thousands of receptors. The
+following diagram shows a section of the frog's retina (after Ramon y Cajal).
 
 DIAGRAM CAJAL'S FROG RETINA
 
-	The optic nerve fibres are disordered within the optic nerve, but after the nerves cross and enter the opposite tectum, they disperse amongst four layers of cells in the optic tectum, each layer containing a retinotopic map. These four maps are in register with each other.
-	Each layer has a different purpose. The outermost layer, containing contrast detectors, had the slowest fibres. The next layer contained convex edge detectors, though the cells for the first two layers were somewhat intermixed. The next layer contains the moving-edge detectors, and deepest were the dimming detectors. In general, the layers were quite distinct. The depth of the layer and the speed of nerve fibre conduction were intimately related. Deep fibres conducted faster than superficial ones. This would have the net effect of causing the images in each retinotopic mapping to arrive synchronously.
-	The layers self organize. As noted above, within the optic nerve, there is no particular ordering. If the optic nerve is severed and moved (essentially randomizing the connections) and allowed to grow back, after some time has passed, the connections will restore themselves, and the organization will be the same as before.
+The optic nerve fibres are disordered within the optic nerve, but after the
+nerves cross and enter the opposite tectum, they disperse amongst four layers of
+cells in the optic tectum, each layer containing a retinotopic map. These four
+maps are in register with each other.
+
+Each layer has a different purpose. The outermost layer, containing contrast
+detectors, had the slowest fibres. The next layer contained convex edge
+detectors, though the cells for the first two layers were somewhat intermixed.
+The next layer contains the moving-edge detectors, and deepest were the dimming
+detectors. In general, the layers were quite distinct. The depth of the layer
+and the speed of nerve fibre conduction were intimately related. Deep fibres
+conducted faster than superficial ones. This would have the net effect of
+causing the images in each retinotopic mapping to arrive synchronously.
+
+The layers self organize. As noted above, within the optic nerve, there is no
+particular ordering. If the optic nerve is severed and moved (essentially
+randomizing the connections) and allowed to grow back, after some time has
+passed, the connections will restore themselves, and the organization will be
+the same as before.
+
+The sustained contrast detectors had small receptive fields (one to three
+degrees) and began to respond strongly when a moving edge was moved into their
+receptive fields. They responded if the moving edge was stopped, and continued
+to respond until the edge was removed. If the scene was darkened then relit, the
+cells would begin responding again if the edge was still present, although they
+lost their memory after about a minute of darkness. These cells respond
+independently of image brightness: they respond the same to a dark image as to a
+light one.
+
+A layer of convex edge and sustained edge detectors was hypothesized to function
+as a bug perceiving layer. These are on-center off-surround cells with receptive
+fields of two to five degrees. They respond best to dark spots smaller than
+their receptive fields. Movement of a field of dots has no effect on these
+cells, however a dot moving independently of the field caused a strong response.
+Moving a photograph causes no response, however a moving dot over the photograph
+does. The colour and shape of the dot is not important - a response will occur
+so long as a perceptable convex edge is present. The response of these cells
+vanishes as soon as a moving edge moves out of the receptive field. Because of
+the small receptive fields of the sustained edge and convex edge detectors,
+these cells are useful for locating prey. These cells sometimes exhibit
+directional sensitivity, responding to edges moving in one direction, but not
+another.
+
+Moving edge detectors (seven to twelve degrees) respond to any distinguishable
+moving edge. The output of the cells is fairly independent of illumination. To a
+certain degree, these cells fire faster for faster moving edges.
+
+Dimming detectors could detect moving shadows. They have receptive fields of
+seven to fifteen degrees, and have no response to stopped edges. These cells are
+always active, but their activity increases as dimming occurs within their
+receptive fields. They respond most strongly to dimming in the center of their
+receptive fields, and less for dimming on their edges. This suggests a Gaussian
+sensitivity distribution. The behavioural significance of these cells is perhaps
+that they are looming shadow detectors, as a frog is able to distinguish between
+objects coming directly towards it and objects which will narrowly miss hitting
+it.
+
+There is a small group of cells which respond to the overall illumination of the
+retina, having no distinct receptive field. They fire faster as the general
+illumination gets dimmer, perhaps indicating that night has fallen.
 
 
+2.4: IMAGE SEGMENTATION
+-----------------------
 
-	The sustained contrast detectors had small receptive fields (one to three degrees) and began to respond strongly when a moving edge was moved into their receptive fields. They responded if the moving edge was stopped, and continued to respond until the edge was removed. If the scene was darkened then relit, the cells would begin responding again if the edge was still present, although they lost their memory after about a minute of darkness. These cells respond independently of image brightness: they respond the same to a dark image as to a light one.
-	A layer of convex edge and sustained edge detectors was hypothesized to function as a bug perceiving layer. These are on-center off-surround cells with receptive fields of two to five degrees. They respond best to dark spots smaller than their receptive fields. Movement of a field of dots has no effect on these cells, however a dot moving independently of the field caused a strong response. Moving a photograph causes no response, however a moving dot over the photograph does. The colour and shape of the dot is not important - a response will occur so long as a perceptable convex edge is present. The response of these cells vanishes as soon as a moving edge moves out of the receptive field. Because of the small receptive fields of the sustained edge and convex edge detectors, these cells are useful for locating prey. These cells sometimes exhibit directional sensitivity, responding to edges moving in one direction, but not another.
-	Moving edge detectors (seven to twelve degrees) respond to any distinguishable moving edge. The output of the cells is fairly independent of illumination. To a certain degree, these cells fire faster for faster moving edges.
-	Dimming detectors could detect moving shadows. They have receptive fields of seven to fifteen degrees, and have no response to stopped edges. These cells are always active, but their activity increases as dimming occurs within their receptive fields. They respond most strongly to dimming in the center of their receptive fields, and less for dimming on their edges. This suggests a Gaussian sensitivity distribution. The behavioural significance of these cells is perhaps that they are looming shadow detectors, as a frog is able to distinguish between objects coming directly towards it and objects which will narrowly miss hitting it.
-	There is a small group of cells which respond to the overall illumination of the retina, having no distinct receptive field. They fire faster as the general illumination gets dimmer, perhaps indicating that night has fallen.
+The full description of human object recognition facilities might be more
+complex than the network that implements it.
 
-
-
-
-.c22.4: IMAGE SEGMENTATION
-
-The full description of human object recognition facilities might be more complex than the network that implements it.
 - John von Neumann
 
-	An important mechanism commonly used to segment an image is motion data, because for a particular object, every part of the image moves together. In other words, local motion is uniform. Motion data is readily available from the eye, because one of the main functions of sensory neurons is to detect change. A tiger lying in wait blends with its background, essentially invisible until it moves. Squirrels freeze, hoping to avoid detection. A flashing light catches our attention immediately.
-	To see how motion helps segment an image, flip this page rapidly back and forth, and observe the dot patterns in the upper corner. The image imbedded in the pattern should jump out, thus demonstrating the segmentation effect.
+An important mechanism commonly used to segment an image is motion data, because
+for a particular object, every part of the image moves together. In other words,
+local motion is uniform. Motion data is readily available from the eye, because
+one of the main functions of sensory neurons is to detect change. A tiger lying
+in wait blends with its background, essentially invisible until it moves.
+Squirrels freeze, hoping to avoid detection. A flashing light catches our
+attention immediately.
+
+To see how motion helps segment an image, flip this page rapidly back and forth,
+and observe the dot patterns in the upper corner. The image imbedded in the
+pattern should jump out, thus demonstrating the segmentation effect.
+
 DIAGRAM AT TOP OF THIS PAGE, AND TOP OF NEXT
-	Optical systems with small depth of field provide a curiously overlooked mechanism for the separation of figure from ground, and to a limited extent for getting range data. The value of depth of field is easy to demonstrate with a camera. If a photograph is made through a chainlink fence or a dirty window, odds are the links or the dirt will not appear in the picture, or if they do, they will appear only as vague blurs or smears. A subject in the distance will appear clear and unobscured.
-	If, through the use of a regenerative feedback loop, a system were to enhance areas with sharp image boundaries and inhibit areas where colors blur softly into one another, figure would emerge automatically from ground, and many of the problems of perception of three dimensional figures would be resolved. It would be a simple matter to get range information from the focusing mechanism of a lense. This system would be particularly useful at close ranges where depth of field is small, being therefore useful for hand-eye (manipulator-vision system) coordination.
-	INSERT DESCRIPTION OF HIGH LEVEL FEATURE EXTRACTION AND RECOGNITION, IN PARTICULAR MIT WORK ON BLOB DETECTION AND HOW IT RELATES TO GAUSSIAN RECEPTIVE FIELDS.
-	It appears that human pattern recognition is somewhat dependent on the orientation of the image. One must learn to read a page upside down, or at strange angles. James Anderson (1972) reported that snakes will move their heads to keep their slit pupils upright.
-	It is important to bear in mind that only a tiny area of the retina, the fovea, is involved in actual detail vision. A naive observer may assume that everything in the field of vision is available at maximum resolution, but this is incorrect. The mind builds up an image, a model, of the environment, and it is this model which fools us into believing we actually see everything in detail in the field of vision (Crick, 1977).
+
+Optical systems with small depth of field provide a curiously overlooked
+mechanism for the separation of figure from ground, and to a limited extent
+for getting range data. The value of depth of field is easy to demonstrate
+with a camera. If a photograph is made through a chainlink fence or a dirty
+window, odds are the links or the dirt will not appear in the picture, or if
+they do, they will appear only as vague blurs or smears. A subject in the
+distance will appear clear and unobscured.
+
+If, through the use of a regenerative feedback loop, a system were to enhance
+areas with sharp image boundaries and inhibit areas where colors blur softly
+into one another, figure would emerge automatically from ground, and many of the
+problems of perception of three dimensional figures would be resolved. It would
+be a simple matter to get range information from the focusing mechanism of a
+lense. This system would be particularly useful at close ranges where depth of
+field is small, being therefore useful for hand-eye (manipulator-vision system)
+coordination.
+
+INSERT DESCRIPTION OF HIGH LEVEL FEATURE EXTRACTION AND RECOGNITION, IN
+PARTICULAR MIT WORK ON BLOB DETECTION AND HOW IT RELATES TO GAUSSIAN RECEPTIVE
+FIELDS.
+
+It appears that human pattern recognition is somewhat dependent on the
+orientation of the image. One must learn to read a page upside down, or at
+strange angles. James Anderson (1972) reported that snakes will move their heads
+to keep their slit pupils upright.
+
+It is important to bear in mind that only a tiny area of the retina, the fovea,
+is involved in actual detail vision. A naive observer may assume that everything
+in the field of vision is available at maximum resolution, but this is
+incorrect. The mind builds up an image, a model, of the environment, and it is
+this model which fools us into believing we actually see everything in detail in
+the field of vision (Crick, 1977).
+
+
+2.5: SACCADES
+-------------
+
+A saccade is a short ballistic movement of the eyeball to orient the eye towards
+an object of interest, or to keep an object of interest centered in the field of
+vision.
+
+INSERT DESCRIPTION OF V.O.R. AND SOME APPROACHES TO MODELLING IT, INCLUDING
+PELLIONISZ TENSORIAL TRANSFORMATIONS.
+
+The frog offers a unique opportunity to study visual saccades because of the
+simplicity of its nervous system. Churchland (1988) has analyzed the problem
+quite nicely. Specific behaviours of the frog appear to have specific command
+centers. One area controls orienting towards prey, another snapping, another
+avoiding a predator. The frog's avoidance behaviour is quite simple: it jumps
+towards large dark patches, which in its normal environment are usually ponds.
+
+The superior collicus and the frontal eye fields together have been identified
+as the locations of visuomotor maps for eye movements (Stein, Clamann, &
+Goldberg, 1980). The cells within the collicus and the frontal eye fields are
+organized in an orderly fashion according to both amplitude and direction of a
+saccade. The collicus is implicated in orienting the entire body. Visual,
+auditory, somatic and auditory stimuli are all represented within the collicus,
+and any of them can initiate eye movements by interacting with the same motor
+outputs.
+
+Stimulating the collicus or the frontal eye fields in a particular place yields
+a particular saccade whose size and direction depends on the site of the
+stimulation. Both fields are vital for the reflex as demonstrated by the fact
+that ablating either structure causes a small performance deficit, however,
+ablating both disrupts the saccade completely. (Schiller, True, & Conway, 1979)
+
+Since cells in the intermediate and deeper layers of the superior colliculus are
+responsive to tactile stimuli at birth and after 5 days to auditory stimuli as
+well, these stimuli might serve to initiate eye movements. Neonatal eye
+movements are very small and uncoordinated when compared to adult eye movements.
+There seems to be some correlation between identical stimuli, and the angles
+moved by the eyes during repeated trials, possibly indicating plasticity of the
+system. These tentative eye movements set the stage for later visual-motor
+associations (Stein, Clamann, & Goldberg, 1980).
+
+INSERT DETAIL OF CHURCHLAND'S MODEL, AND DESCRIBE THE OPERATION OF THE KOHONEN
+SELF ORGANIZING FEATURE NET
 
 
 
-.c22.5: SACCADES
+Chapter 3
+---------
 
-	A saccade is a short ballistic movement of the eyeball to orient the eye towards an object of interest, or to keep an object of interest centered in the field of vision.
-	INSERT DESCRIPTION OF V.O.R. AND SOME APPROACHES TO MODELLING IT, INCLUDING PELLIONISZ TENSORIAL TRANSFORMATIONS.
-	The frog offers a unique opportunity to study visual saccades because of the simplicity of its nervous system. Churchland (1988) has analyzed the problem quite nicely. Specific behaviours of the frog appear to have specific command centers. One area controls orienting towards prey, another snapping, another avoiding a predator. The frog's avoidance behaviour is quite simple: it jumps towards large dark patches, which in its normal environment are usually ponds.
-	The superior collicus and the frontal eye fields together have been identified as the locations of visuomotor maps for eye movements (Stein, Clamann, & Goldberg, 1980). The cells within the collicus and the frontal eye fields are organized in an orderly fashion according to both amplitude and direction of a saccade. The collicus is implicated in orienting the entire body. Visual, auditory, somatic and auditory stimuli are all represented within the collicus, and any of them can initiate eye movements by interacting with the same motor outputs.
-	Stimulating the collicus or the frontal eye fields in a particular place yields a particular saccade whose size and direction depends on the site of the stimulation. Both fields are vital for the reflex as demonstrated by the fact that ablating either structure causes a small performance deficit, however, ablating both disrupts the saccade completely. (Schiller, True, & Conway, 1979)
-	Since cells in the intermediate and deeper layers of the superior colliculus are responsive to tactile stimuli at birth and after 5 days to auditory stimuli as well, these stimuli might serve to initiate eye movements. Neonatal eye movements are very small and uncoordinated when compared to adult eye movements. There seems to be some correlation between identical stimuli, and the angles moved by the eyes during repeated trials, possibly indicating plasticity of the system. These tentative eye movements set the stage for later visual-motor associations (Stein, Clamann, & Goldberg, 1980).
-INSERT DETAIL OF CHURCHLAND'S MODEL, AND DESCRIBE THE OPERATION OF THE KOHONEN SELF ORGANIZING FEATURE NET>
+THE PHYSIOLOGICAL BASIS OF COMPUTATION - SOUND
+==============================================
 
+3.1: FROM THE COCHLEA TO THE CORTEX
+-----------------------------------
 
+The simplest system in nature for detecting sound is the insect ear. It consists
+of a taut membrane behind which are sensory cells. If connected to an audio
+amplifier, a probe inserted into the axon of a sensory cell coming from the ear
+will allow an experimenter to hear what an insect can hear. In general, the
+insect ear detects only very specific behaviourally significant sounds, such as
+the characteristic sound of another conspecific insect. In many cases, it is
+very difficult to detect any behavioural correlation to the information coming
+from the ear. Study of this system should yield simple systems for small robots,
+but it is the concept of extremely specialized detectors that is interesting
+here, rather than the actual physical details.
 
-.cTHE PHYSIOLOGICAL BASIS OF COMPUTATION - 									    SOUND
+The mammilian system is far more complex and interesting from a signal
+processing point of view. The cochlea is a complex resonant structure, whose job
+is to condition and detect sound in preparation for processing by higher levels
+of the brain. The basilar membrane is a sensitive strip on the inside of the
+cochlea covered with cilia. Different points along the membrane resonate at
+different frequencies, and so the cilia on the membrane can decompose an
+arriving signal into its frequency components. The basilar membrane thus
+performs much the same function as a Fourier transform. This step of decomposing
+the sound signal into its frequency components essentially converts an analog
+signal into a digital one.
 
-3
+At the apex of the cochlea are the cells which detect low frequencies, and at
+the base are the cells which detect high frequencies. There are many cells at
+the low frequency end, and fewer and fewer as the high end is approached, which
+is one reason why we have more difficulty hearing high frequencies.
 
+This diagram shows the basilar membrane. The length of the membrane is covered
+with sensory hair cells which detect sound of particular frequencies.
 
+The numbers on the diagram refer to the maximally resonant frequencies (in
+kilohertz) at particular spots along the membrane, and hence the frequency that
+particular hair cells respond to most strongly. The base of the basilar membrane
+is located near the oval window, and the apex is about 40 millimeters away.
 
-
-.c23.1: FROM THE COCHLEA TO THE CORTEX
-
-.c2	The simplest system in nature for detecting sound is the insect ear. It consists of a taut membrane behind which are sensory cells. If connected to an audio amplifier, a probe inserted into the axon of a sensory cell coming from the ear will allow an experimenter to hear what an insect can hear. In general, the insect ear detects only very specific behaviourally significant sounds, such as the characteristic sound of another conspecific insect. In many cases, it is very difficult to detect any behavioural correlation to the information coming from the ear. Study of this system should yield simple systems for small robots, but it is the concept of extremely specialized detectors that is interesting here, rather than the actual physical details.
-
-	The mammilian system is far more complex and interesting from a signal processing point of view. The cochlea is a complex resonant structure, whose job is to condition and detect sound in preparation for processing by higher levels of the brain. The basilar membrane is a sensitive strip on the inside of the cochlea covered with cilia. Different points along the membrane resonate at different frequencies, and so the cilia on the membrane can decompose an arriving signal into its frequency components. The basilar membrane thus performs much the same function as a Fourier transform. This step of decomposing the sound signal into its frequency components essentially converts an analog signal into a digital one.
-	At the apex of the cochlea are the cells which detect low frequencies, and at the base are the cells which detect high frequencies. There are many cells at the low frequency end, and fewer and fewer as the high end is approached, which is one reason why we have more difficulty hearing high frequencies.
-
-
-This diagram shows the basilar membrane. The length of the membrane is covered with sensory hair cells which detect sound of particular frequencies.
-
-	The numbers on the diagram refer to the maximally resonant frequencies (in kilohertz) at particular spots along the membrane, and hence the frequency that particular hair cells respond to most strongly. The base of the basilar membrane is located near the oval window, and the apex is about 40 millimeters away.
-	Within the cochlea, the first step in processing sound is the detection of sound by the hair cells.  The frequency response of the hair cells is bell shaped. Sound is highpass filtered by fluid-cilia coupling. Transduction at the apical membrane of the hair cell compresses the signal, through the familiar sigmoid input-output relation, and finally the signal is lowpass filtered by the relatively slow response of the output of the cell.
+Within the cochlea, the first step in processing sound is the detection of sound
+by the hair cells.  The frequency response of the hair cells is bell shaped.
+Sound is highpass filtered by fluid-cilia coupling. Transduction at the apical
+membrane of the hair cell compresses the signal, through the familiar sigmoid
+input-output relation, and finally the signal is lowpass filtered by the
+relatively slow response of the output of the cell.
 
 DIAGRAM PROCESSING BY THE COCHLEA
-	After the cochlea, the signal then gets preprocessed and organized by the lower auditory nuclei. Spectral decomposition and time domain information about the sound signal is measured here, and then the information is sent to the Medial Geniculate Nucleus (MGN). The MGN is involved in selective attention, and it sends inhibitory signals to the Inferior Collicus.
+
+After the cochlea, the signal then gets preprocessed and organized by the lower
+auditory nuclei. Spectral decomposition and time domain information about the
+sound signal is measured here, and then the information is sent to the Medial
+Geniculate Nucleus (MGN). The MGN is involved in selective attention, and it
+sends inhibitory signals to the Inferior Collicus.
 
 DIAGRAM AUDITORY PROCESSING STATIONS
-	The Inferior Collicus is implicated in the topographic mapping of auditory space, and echolocation in bats. Some cells in the inferior collicus become phase locked to the beat frequency arising from the mixture of binaural signals, and some respond selectively to particular relationships between the signals, and to changes in the relationships between the binaural signals (Kuwada, Yin, & Wickesberg, 1979).
+
+The Inferior Collicus is implicated in the topographic mapping of auditory
+space, and echolocation in bats. Some cells in the inferior collicus become
+phase locked to the beat frequency arising from the mixture of binaural
+signals, and some respond selectively to particular relationships between
+the signals, and to changes in the relationships between the binaural
+signals (Kuwada, Yin, & Wickesberg, 1979).
 
 DIAGRAM PHASE RELATIONSHIPS
 
-	It has long been recognized that tonotopic maps exist to map frequency in a highly organized structure through the auditory nuclei, but it was thought that the Medial Geniculate Nucleus mapped randomly to the auditory cortex. Measurements reported by Bryan Travis (1987) showed that the mapping is not random. Rather, at least four maps exist, butted end to end in a symmetrical fashion and extensively cross-connected - cells in each map responding to particular frequencies are connected together.
+It has long been recognized that tonotopic maps exist to map frequency in a
+highly organized structure through the auditory nuclei, but it was thought that
+the Medial Geniculate Nucleus mapped randomly to the auditory cortex.
+Measurements reported by Bryan Travis (1987) showed that the mapping is not
+random. Rather, at least four maps exist, butted end to end in a symmetrical
+fashion and extensively cross-connected - cells in each map responding to
+particular frequencies are connected together.
 
 DIAGRAM TONOTOPIC MAPS IN AUDIO CORTEX
 
-	As in visual cortex, on and off response cells exist. ELABORATE - WHAT ARE THE IMPLICATIONS OF THESE FACTS? WHAT IS A LIKELY ARCHITECTURE FOR A NEURALLY INSPIRED AUDIO SIGNAL PROCESSING SYSTEM?
+As in visual cortex, on and off response cells exist. ELABORATE - WHAT ARE THE
+IMPLICATIONS OF THESE FACTS? WHAT IS A LIKELY ARCHITECTURE FOR A NEURALLY
+INSPIRED AUDIO SIGNAL PROCESSING SYSTEM?
+
+
+3.2: THE CASE FOR THREE EARS
+----------------------------
+
+Why don't we have more than two ears, or conversely, only one?
+
+One ear would allow detection and analysis of all kinds of sounds, but little
+directional information. Two ears allows determination of the direction of the
+source of a sound within the plane of the ears. Minimizing phase difference
+between sound signals arriving from both ears orients the head towards the
+source of a sound. Three ears would tell whether the sound arrived from the
+front or the rear, and a fourth ear would tell the elevation of the sound source
+in space.
+
+For an organism operating on a plane, two ears is really all that is necessary,
+as the front-rear ambiguity of a sound source would be minimized by directional
+sensitivity provided by the ear's structure. Organisms which have three
+dimensional mobility usually have other mechanisms available to ascertain
+elevation. Some owls, for example, have feathers arranged around the ear which
+are sensitive to sound sources at different elevations.
+
+3.2.1: ECHOLOCATION AND THE BAT
+-------------------------------
+
+Bats use ultrasonic echolocation to detect and avoid objects. Due to
+ultrasound's short wavelength, it reflects well from small objects, allowing the
+bat to detect objects as small as wires a third of a millimeter in diameter. Of
+course, the strength of a high frequency sound diminishes rapidly with distance,
+making the system most useful at close ranges.
+
+To keep information about the nearby environment accurate, the bat increases the
+rate of its crys dramatically when it approaches within a meter or two of an
+obstacle. Typically, the emitted pulse rate increases from a normal rate of 10
+to 30 pulses per second to a far more informative pulse rate between 50 and 200
+pulses per second). Bats can discriminate shape and accurately range an object.
+They can tell the difference between objects of similar shape, but different
+make up, for example they can discriminate between mealworms and similarly
+shaped plastic discs (Camhi 1984, p. 174-177).
+
+The audio cortex of the bat can compensate for Döppler shift in the echo from
+large stationary objects. The ear of Rhinolophus, for example, is especially
+sensitive to tones of 83 kHz. When Rhinolophus detects an approach to a
+stationary object, signalled by a positive Döppler shift, it will start lowering
+the frequency of its emitted pulses to keep the return in the ears' most
+sensitive range. This acoustic analysis is done in the frequency domain rather
+than the time domain. Time domain information - the length of time that elapses
+between a cry and its echo return - is used to detect the range to an object
+(Camhi 1984, p. 183). It is time domain information as well that tells the bat
+to step up its pulse rate for close objects.
+
+The cry of the bat reduces the sensitivity of the ear to the return echo. During
+a cry the stapedius and tensor tympani muscles tense the stapes and malleus
+bones in the ear to damp the sound. As shown in the diagram below the
+sensitivity of the ear is attenuated during the cry. Immediately after the cry,
+the ear is hypersensitive in order to catch any returning echoes.
+
+Cells in the audio cortex are especially sensitive to quiet sounds following
+loud ones: after a loud sound, the sensitivity of the ear is enhanced. Many bats
+issue a frequency modulated sweep, and particular cells in these bats' brains
+are sensitive to particular frequencies. Other cells are sensitive to particular
+directions of sound. Resolution can approach one degree of arc in the forward
+direction where the most detailed processing takes place. Cells are found which
+respond to particular time delays from which range and directional information
+can be extracted.
+
+The cortex of the bat is relatively small and unfissured compared to other
+mammals, but the auditory subnuclei are very highly developed . The
+sophistication of the nuclei suggests that most of the processing of audio
+signals is done before the signals reach the cerebral cortex.
 
 
 
-.c23.2: THE CASE FOR THREE EARS
+3.2.2: SPATIAL LOCALIZATION
+---------------------------
 
-	Why don't we have more than two ears, or conversely, only one?
-	One ear would allow detection and analysis of all kinds of sounds, but little directional information. Two ears allows determination of the direction of the source of a sound within the plane of the ears. Minimizing phase difference between sound signals arriving from both ears orients the head towards the source of a sound. Three ears would tell whether the sound arrived from the front or the rear, and a fourth ear would tell the elevation of the sound source in space.
-	For an organism operating on a plane, two ears is really all that is necessary, as the front-rear ambiguity of a sound source would be minimized by directional sensitivity provided by the ear's structure. Organisms which have three dimensional mobility usually have other mechanisms available to ascertain elevation. Some owls, for example, have feathers arranged around the ear which are sensitive to sound sources at different elevations.
+A variety of localization information is available from the ears. Some of the
+possibilities are summarized in the following table.
 
+- The phase difference between the signal arriving at the two ears tells what
+- angle a sound is coming from relative to the head.
 
+- The interaural intensity difference will indicate where a signal is coming
+- from. This method is usefull for nearby continuous sound sources.
 
-.c23.2.1: ECHOLOCATION AND THE BAT
+- The interaural time delay also tells where a signal is coming from. This
+- method is useful for transient sounds such as clicks and pops.
 
-	Bats use ultrasonic echolocation to detect and avoid objects. Due to ultrasound's short wavelength, it reflects well from small objects, allowing the bat to detect objects as small as wires a third of a millimeter in diameter. Of course, the strength of a high frequency sound diminishes rapidly with distance, making the system most useful at close ranges.
-	To keep information about the nearby environment accurate, the bat increases the rate of its crys dramatically when it approaches within a meter or two of an obstacle. Typically, the emitted pulse rate increases from a normal rate of 10 to 30 pulses per second to a far more informative pulse rate between 50 and 200 pulses per second). Bats can discriminate shape and accurately range an object. They can tell the difference between objects of similar shape, but different make up, for example they can discriminate between mealworms and similarly shaped plastic discs (Camhi 1984, p. 174-177).
-	The audio cortex of the bat can compensate for Döppler shift in the echo from large stationary objects. The ear of Rhinolophus, for example, is especially sensitive to tones of 83 kHz. When Rhinolophus detects an approach to a stationary object, signalled by a positive Döppler shift, it will start lowering the frequency of its emitted pulses to keep the return in the ears' most sensitive range. This acoustic analysis is done in the frequency domain rather than the time domain. Time domain information - the length of time that elapses between a cry and its echo return - is used to detect the range to an object (Camhi 1984, p. 183). It is time domain information as well that tells the bat to step up its pulse rate for close objects.
-	The cry of the bat reduces the sensitivity of the ear to the return echo. During a cry the stapedius and tensor tympani muscles tense the stapes and malleus bones in the ear to damp the sound. As shown in the diagram below the sensitivity of the ear is attenuated during the cry. Immediately after the cry, the ear is hypersensitive in order to catch any returning echoes.
+- The rate of change of relative phasing between the ears, or Doppler shift of
+- the signal, tells how fast an object is moving relative to the head.
 
+- The loudness of the sound as compared to an expected volume indicates how far
+- away an object is.
 
-	Cells in the audio cortex are especially sensitive to quiet sounds following loud ones: after a loud sound, the sensitivity of the ear is enhanced. Many bats issue a frequency modulated sweep, and particular cells in these bats' brains are sensitive to particular frequencies. Other cells are sensitive to particular directions of sound. Resolution can approach one degree of arc in the forward direction where the most detailed processing takes place. Cells are found which respond to particular time delays from which range and directional information can be extracted.
-	The cortex of the bat is relatively small and unfissured compared to other mammals, but the auditory subnuclei are very highly developed . The sophistication of the nuclei suggests that most of the processing of audio signals is done before the signals reach the cerebral cortex.
-
-
-
-.c23.2.2: SPATIAL LOCALIZATION
-
-
-	A variety of localization information is available from the ears. Some of the possibilities are summarized in the following table.
-
-m		The phase difference between the signal arriving at the two ears tells what angle a sound is coming from relative to the head.
-m		The interaural intensity difference will indicate where a signal is coming from. This method is usefull for nearby continuous sound sources.
-m		The interaural time delay also tells where a signal is coming from. This method is useful for transient sounds such as clicks and pops.
-m		The rate of change of relative phasing between the ears, or Doppler shift of the signal, tells how fast an object is moving relative to the head.
-m		The loudness of the sound as compared to an expected volume indicates how far away an object is.
-
-	Analysis of phase difference is probably the most generally useful. To orient the head towards a sound, for example, the head could be swung around until the phase difference was minimized. Wavelengths approximately twice as long as the distance between the ears are the best for determining location, and in fact it is difficult (or impossible) to localize very high frequency and very low frequency sounds. The best frequencies for humans are less than approximately 1500 Hertz, a frequency whose wavelength corresponds to the distance between human ears. This is the same frequency range that most human speech falls into.
+Analysis of phase difference is probably the most generally useful. To orient
+the head towards a sound, for example, the head could be swung around until the
+phase difference was minimized. Wavelengths approximately twice as long as the
+distance between the ears are the best for determining location, and in fact it
+is difficult (or impossible) to localize very high frequency and very low
+frequency sounds. The best frequencies for humans are less than approximately
+1500 Hertz, a frequency whose wavelength corresponds to the distance between
+human ears. This is the same frequency range that most human speech falls into.
 
 
 
 
 Number of spikes CAT'S BINAURAL RESPONSE CELLS
+
       		       0.0         0.5          1.0
+
 			       Interaural phase f
 
-	This diagram, adapted from Kuwada, Yin, and Wickesburg 1979, shows the response of a single neuron to a binaural beat frequency as the frequency is stepped through one complete cycle of the beat. The f=0 and f=1 marks correspond to no phase difference. Note that the gradually increasing and then decreasing response of the neuron shows that the sound locating system is coarse-coded. Direction sensitive neurons show a strong response like this when the signal is strongest on their favoured side, and they show a very diminished response on the other.
-	The Inferior Collicus is implicated in echolocation in bats, and the topographic mapping of auditory space. Subserving this mechanism, some cells in the inferior collicus become phase locked to the beat frequency arising from the mixture of binaural signals, and some respond selectively to particular relationships between the signals, and to changes in the relationships between the signals. Some cells in the collicus are directionally sensitive, becoming phase locked to particular beat frequencies, but responding strongest when the signal to one ear is stronger than the signal to the other. (Kuwada, Yin, & Wickesberg, 1979)
-	The work of Knudsen and Konishi (1978) shows a step above the phase detecting cells: they found that a topographic map of auditory space exists in the mesencephalicus lateralis dorsalis (MLD) nucleus of the barn owl. (The MLD is the avian homologue of the mammalian inferior collicus.) Helping the owl obtain its three dimensional map are a set of feathers arranged around the ears which focus sounds into the ear. The feathers at the top are best for reflecting high frequency sound, and the feathers at the bottom are best for low frequency sound. Presumably, information from this arrangement helps the MLD form its map. In the MLD mapping, most processing is directed towards signals coming from the front, and all neurons have the typical on-center off-surround response.
+This diagram, adapted from Kuwada, Yin, and Wickesburg 1979, shows the response
+of a single neuron to a binaural beat frequency as the frequency is stepped
+through one complete cycle of the beat. The f=0 and f=1 marks correspond to no
+phase difference. Note that the gradually increasing and then decreasing
+response of the neuron shows that the sound locating system is coarse-coded.
+Direction sensitive neurons show a strong response like this when the signal is
+strongest on their favoured side, and they show a very diminished response on
+the other.
 
-DESCRIBE KONISHI'S MODEL OF ITD ORIENTATION DETECTION - SIMULTANEOUS L/R SIGNAL INPUT LEADING TO CORRELATION DETECTION.
+The Inferior Collicus is implicated in echolocation in bats, and the topographic
+mapping of auditory space. Subserving this mechanism, some cells in the inferior
+collicus become phase locked to the beat frequency arising from the mixture of
+binaural signals, and some respond selectively to particular relationships
+between the signals, and to changes in the relationships between the signals.
+Some cells in the collicus are directionally sensitive, becoming phase locked to
+particular beat frequencies, but responding strongest when the signal to one ear
+is stronger than the signal to the other. (Kuwada, Yin, & Wickesberg, 1979)
 
-	The brains of bat, cat, and barn owl are all quite different, but they follow the same general plan. As in the bat, specialized processing substations on the pathway from the cochlea to the cortex are found in both the owl and the cat. Because the vertebrate brain's architecture remains similar from species to species, we can hypothesize that extensive sound preprocessing occurs before cortex in all vertebrates. The generality of the plan suggests that it would form a useful model for manmade signal processing systems.
+The work of Knudsen and Konishi (1978) shows a step above the phase detecting
+cells: they found that a topographic map of auditory space exists in the
+mesencephalicus lateralis dorsalis (MLD) nucleus of the barn owl. (The MLD is
+the avian homologue of the mammalian inferior collicus.) Helping the owl obtain
+its three dimensional map are a set of feathers arranged around the ears which
+focus sounds into the ear. The feathers at the top are best for reflecting high
+frequency sound, and the feathers at the bottom are best for low frequency
+sound. Presumably, information from this arrangement helps the MLD form its map.
+In the MLD mapping, most processing is directed towards signals coming from the
+front, and all neurons have the typical on-center off-surround response.
+
+DESCRIBE KONISHI'S MODEL OF ITD ORIENTATION DETECTION - SIMULTANEOUS L/R SIGNAL
+INPUT LEADING TO CORRELATION DETECTION.
+
+The brains of bat, cat, and barn owl are all quite different, but they follow
+the same general plan. As in the bat, specialized processing substations on the
+pathway from the cochlea to the cortex are found in both the owl and the cat.
+Because the vertebrate brain's architecture remains similar from species to
+species, we can hypothesize that extensive sound preprocessing occurs before
+cortex in all vertebrates. The generality of the plan suggests that it would
+form a useful model for manmade signal processing systems.
 
 
+3.3: THE PERCEPTION OF MUSIC
+----------------------------
 
-.c23.3: THE PERCEPTION OF MUSIC
+Rhythm: When we walk, why do we take steps that conform to a rhythm, rather than
+taking steps of varying duration? The answer is Minimization of Energy. Walking
+in strange patterns requires extra effort; it is necessary to overcome the
+inertia that wants to keep the body and legs moving along at the same velocity.
 
-	Rhythm: When we walk, why do we take steps that conform to a rhythm, rather than taking steps of varying duration? The answer is Minimization of Energy. Walking in strange patterns requires extra effort; it is necessary to overcome the inertia that wants to keep the body and legs moving along at the same velocity.
-	Perhaps rhythm perceptors exist in the brain, in one of the processing stations between the cochlea and the cortex. In the postulated system, the maintenance of a steady oscillatory rate entrained to audio input would be the minimization function.
-DETAIL MORE RECENT RYTHM LEARNING RESULTS, and MAYBE SHIBATA'S HUMMING TRANSCRIBER
+Perhaps rhythm perceptors exist in the brain, in one of the processing stations
+between the cochlea and the cortex. In the postulated system, the maintenance of
+a steady oscillatory rate entrained to audio input would be the minimization
+function.
+
+DETAIL MORE RECENT RHYTHM LEARNING RESULTS, and MAYBE SHIBATA'S HUMMING
+TRANSCRIBER
+
+Multiple "rhythm catchers" could exist, organized into cortical columns in a
+manner reminiscent of the orientation selective cells in the LGN.
+
+Rhythms certainly insinuate every aspect of day to day existence, and every
+culture since the beginning of time. Maybe because energies are being minimized,
+rhythms are perceived as being pleasurable.
 
 
+3.4: SUPPRESSING NOISE
+----------------------
 
-	Multiple "rhythm catchers” could exist, organized into cortical columns in a manner reminiscent of the orientation selective cells in the LGN.
-	Rhythms certainly insinuate every aspect of day to day existence, and every culture since the beginning of time. Maybe because energies are being minimized, rhythms are perceived as being pleasurable.
+The audio processing stages of the brain seem to habituate to repetitive or
+recurrent sounds, for example the humming of a noisy computer monitor, or the
+low thunder of traffic on the road just outside the window.
+
+If rhythm catchers could pick up more sophisticated patterns than just a simple
+beat, they could learn, or perhaps habituate to, a characteristic sound, and
+thereafter subtract it from the total signal going into the audio cortex.
+
+For the suppression of noise noise, there is always the recurrent on-center off-
+surround architecture to eliminate the clicks and pops and scratches that are a
+constant impingement on our ears.
+
+A MORE DETAILED ANALYSIS IS REQUIRED HERE
 
 
-.c23.4: SUPPRESSING NOISE
+3.5: SPEECH PERCEPTION AND GENERATION
+-------------------------------------
 
-	The audio processing stages of the brain seem to habituate to repetitive or recurrent sounds, for example the humming of a noisy computer monitor, or the low thunder of traffic on the road just outside the window.
-	If rhythm catchers could pick up more sophisticated patterns than just a simple beat, they could learn, or perhaps habituate to, a characteristic sound, and thereafter subtract it from the total signal going into the audio cortex.
-	For the suppression of noise noise, there is always the recurrent on-center off-surround architecture to eliminate the clicks and pops and scratches that are a constant impingement on our ears.
+What we believe we hear, we in fact reconstruct in our minds from pieces of
+received information.
 
-	A MORE DETAILED ANALYSIS IS REQUIRED HERE
-
-
-
-.c23.5: SPEECH PERCEPTION AND GENERATION
-
-What we believe we hear, we in fact reconstruct in our minds from pieces of received information.
 - Teuvo Kohonen (1988a)
 
-DESCRIPTION WHAT IS INVOLVED IN SPEECH PRODUCTION? NOTE ON BROCA'S AREA AND WERNICKE'S AREA
-	Counting in your head does not involve the brain's speech centers. Reading out loud, on the other hand, uses almost every area of the brain - from speech areas to somatosensory areas to visual.
-	A deaf person has difficulty speaking clearly, being unable to listen to speech and correct it as it is produced. It is easily observable that speech generation is heavily influenced by listening - people shout to be heard over a portable cassette player, because they think they are speaking quietly.  Speech perception and generation by the brain are absolutely interrelated, to the extent that it is very difficult to have one without the other. It has been suggested that speech perception occurs in terms of articulemes which are the speech to muscle combinations that actually produce speech. This theory is called the "motor theory” of speech perception.
-	Internal speech, or even the intention to speak, primes the speech perceiving mechanisms of the brain before the words are spoken, affecting an anticipation of the correct sounds. The production centers can match the anticipation against the perception areas in a kind of feedback loop which will dynamically alter speech production as necessary to produce the desired sounds.
-	After (and even as) a word is spoken and simultaneously perceived, it will excite memory associations and anticipations in memory which the language centers of the brain will use to decide what the next thing to say is, or that it is time to listen to the other person, or even that it forgot what it was trying to say.
-	Luria (1977) developed an elaborate model describing the production of speech from intention to articulation.
-	Stephen Grossberg and ? (1987 XXX) are in the process of developing a model based on the Adaptive Resonance Theory. In this system, the expected sound of the speech generated is matched against the sounds that are actually produced, and thus, through a feedback mechanism, the speech production mechanism regulates itself.
+DESCRIPTION WHAT IS INVOLVED IN SPEECH PRODUCTION? NOTE ON BROCA'S AREA AND
+WERNICKE'S AREA
 
+Counting in your head does not involve the brain's speech centers. Reading out
+loud, on the other hand, uses almost every area of the brain - from speech areas
+to somatosensory areas to visual.
 
+A deaf person has difficulty speaking clearly, being unable to listen to speech
+and correct it as it is produced. It is easily observable that speech generation
+is heavily influenced by listening - people shout to be heard over a portable
+cassette player, because they think they are speaking quietly.  Speech
+perception and generation by the brain are absolutely interrelated, to the
+extent that it is very difficult to have one without the other. It has been
+suggested that speech perception occurs in terms of articulemes which are the
+speech to muscle combinations that actually produce speech. This theory is
+called the "motor theory" of speech perception.
 
+Internal speech, or even the intention to speak, primes the speech perceiving
+mechanisms of the brain before the words are spoken, affecting an anticipation
+of the correct sounds. The production centers can match the anticipation against
+the perception areas in a kind of feedback loop which will dynamically alter
+speech production as necessary to produce the desired sounds.
 
-.c23.5.1: A PHONETIC TYPEWRITER
+After (and even as) a word is spoken and simultaneously perceived, it will
+excite memory associations and anticipations in memory which the language
+centers of the brain will use to decide what the next thing to say is, or that
+it is time to listen to the other person, or even that it forgot what it was
+trying to say.
 
-	Teuvo Kohonen at the University of Helsinki has created an interesting speech recognizer. (Kohonen 1988a). Based on the principles of the self organizing feature net, the network will recognize isolated phonemes, and when the output of the network is passed through a later symbolic processing stage, it will recognize speech.
+Luria (1977) developed an elaborate model describing the production of speech
+from intention to articulation.
 
-	The system will produce a phonetic transcription of Finnish or Japanese with good accuracy. Finnish and Japanese were chosen because Finnish is written the way it sounds as is Japanese which has two phonetic alphabets.
-	The neurons were arranged in a hexagonal matrix, and the same input arrived at every neuron. The network was constructed in hardware, and the equations were implemented using digital signal processing chips, and thus could be evaluated in real time. The speech signal is sampled and quantized into fifteen channels. Subsequent samples are averaged together to preserve some time domain information. The fifteen dimensional input vector is normalized to unit length and presented to the neural network.
-	As input arrives, the net self organizes, forming a continuous map of the input space. The net organizes into a Voronoi tessellation which approximates theoretical Bayesian decision surfaces. The net performs an accurate nonlinear statistical analysis of the speech signal.
-	Individual neurons learn to respond to characteristic input patterns - some neurons respond to particular vowels, others to particular consonants.
+Stephen Grossberg and ? (1987 XXX) are in the process of developing a model
+based on the Adaptive Resonance Theory. In this system, the expected sound of
+the speech generated is matched against the sounds that are actually produced,
+and thus, through a feedback mechanism, the speech production mechanism
+regulates itself.
+
+3.5.1: A PHONETIC TYPEWRITER
+----------------------------
+
+Teuvo Kohonen at the University of Helsinki has created an interesting speech
+recognizer. (Kohonen 1988a). Based on the principles of the self organizing
+feature net, the network will recognize isolated phonemes, and when the output
+of the network is passed through a later symbolic processing stage, it will
+recognize speech.
+
+The system will produce a phonetic transcription of Finnish or Japanese with
+good accuracy. Finnish and Japanese were chosen because Finnish is written the
+way it sounds as is Japanese which has two phonetic alphabets.
+
+The neurons were arranged in a hexagonal matrix, and the same input arrived at
+every neuron. The network was constructed in hardware, and the equations were
+implemented using digital signal processing chips, and thus could be evaluated
+in real time. The speech signal is sampled and quantized into fifteen channels.
+Subsequent samples are averaged together to preserve some time domain
+information. The fifteen dimensional input vector is normalized to unit length
+and presented to the neural network.
+
+As input arrives, the net self organizes, forming a continuous map of the input
+space. The net organizes into a Voronoi tessellation which approximates
+theoretical Bayesian decision surfaces. The net performs an accurate nonlinear
+statistical analysis of the speech signal.
+
+Individual neurons learn to respond to characteristic input patterns - some
+neurons respond to particular vowels, others to particular consonants.
 
 DIAGRAM PHONEME MAPPING
 
-	These characteristic learned patterns are the neurons' internal representations. Sounds which are transient in nature, such as plosives (t or p for example) aren't recognized by the network, because it is their evolution through time which contains the information rather than instantaneous spectral content. In Kohonen's model, an auxiliary network specifically designed to handle these sounds was designed (but not described in the paper).
-	It is difficult to determine where exactly phonemes start and end, and in this model, a heuristic was used: if a particular neuron (or group of neurons) responds consistently for a particular time period, then a phoneme is considered identified.
+These characteristic learned patterns are the neurons' internal representations.
+Sounds which are transient in nature, such as plosives (t or p for example)
+aren't recognized by the network, because it is their evolution through time
+which contains the information rather than instantaneous spectral content. In
+Kohonen's model, an auxiliary network specifically designed to handle these
+sounds was designed (but not described in the paper).
+
+It is difficult to determine where exactly phonemes start and end, and in this
+model, a heuristic was used: if a particular neuron (or group of neurons)
+responds consistently for a particular time period, then a phoneme is considered
+identified.
+
 DESCRIPTION HIDDEN MARKOV MODELS
+
 DESCRIPTION SPEAKER INVARIANT PERCEPTION
+
 DESCRIPTION RECOGNITION OF VARIOUS SPEAKERS
 
 
-See sections 4.1 and 4.2 for a discussion of noise suppression by on-center off-surround cells.
+See sections 4.1 and 4.2 for a discussion of noise suppression by on-center off-
+surround cells.
 
 Section 7.5 describes the Kohonen self organizing feature net.
 
 
+Chapter 4
+---------
 THE PHYSIOLOGICAL BASIS OF COMPUTATION
+======================================
 
+What do we mean by self conscious? If we will realize that all spontaneous life,
+desire, impulse and firsthand individual desire arises and is effective at the
+great nerve centers of the body, and not in the brain, we shall begin to
+understand.
 
-
-4
-
-
-
-
-What do we mean by self conscious? If we will realize that all spontaneous life, desire, impulse and firsthand individual desire arises and is effective at the great nerve centers of the body, and not in the brain, we shall begin to understand.
 - D.H. Lawrence, in What is Education?
 
 
+4.1: TOPOGRAPHIC MAPPINGS
+-------------------------
 
+One of the most common data processing principles used by the nervous system is
+the two dimensional topographic mapping. Maps of the retina in the intermediate
+processing stages preserve the spatial relationships between adjacent image
+elements. The sensory and motor cortex are physically organized in a manner
+commonly represented in psychology textbooks as the homunculus. Sound is
+organized into a variety of maps which are organized on the basis of frequency
+and some other dimension. Cristoph von der Marlsburg showed that retinotopic
+maps can self organize and repair themselves (von der Marlsburg, 198x. Many
+experiments have shown conclusively that the homunculus reorganizes on the basis
+of incoming sensory information. What are the principles of self organization?
+How does the nervous system form a map?
 
-.c24.1: TOPOGRAPHIC MAPPINGS
-
-	One of the most common data processing principles used by the nervous system is the two dimensional topographic mapping. Maps of the retina in the intermediate processing stages preserve the spatial relationships between adjacent image elements. The sensory and motor cortex are physically organized in a manner commonly represented in psychology textbooks as the homunculus. Sound is organized into a variety of maps which are organized on the basis of frequency and some other dimension. Cristoph von der Marlsburg showed that retinotopic maps can self organize and repair themselves (von der Marlsburg, 198x. Many experiments have shown conclusively that the homunculus reorganizes on the basis of incoming sensory information. What are the principles of self organization? How does the nervous system form a map?
-
-	The Perceptron suffered because the lesson of the nervous system was ignored.  The Perceptron randomly mapped the input space to the processing elements, thus destroying the physical, topological relationships between all the input signals.
+The Perceptron suffered because the lesson of the nervous system was ignored.
+The Perceptron randomly mapped the input space to the processing elements, thus
+destroying the physical, topological relationships between all the input
+signals.
 
 DIAGRAM MOTOR CORTEX - HAND
 
-	This diagram shows the portion of the sensory map in motor cortex which represents the hand. Topographic mappings reflect the statistical distribution of input space by devoting more processing units to features that are important. In the sensory homunculus, for example, notice how large the representation of a finger is, as compared to the entire back of the body!
+This diagram shows the portion of the sensory map in motor cortex which
+represents the hand. Topographic mappings reflect the statistical distribution
+of input space by devoting more processing units to features that are important.
+In the sensory homunculus, for example, notice how large the representation of a
+finger is, as compared to the entire back of the body!
 
 DIAGRAM REORGANIZED HAND IN SENSORY CORTEX
 
-	This diagram shows how the area of the cortex mapped out in the previous diagram reorganized itself after sensory input from the little finger was cut off by deafferentiation. Much less information comes from that finger, so its representation occupies less space in the map. Notice as well, the areas devoted to other fingers have expanded to use the extra neurons now available. (ref XXX)
-	Typical self organizing maps are arranged in cortical columns. Each column tends to recognize a particular feature of the input, coming from a particular sensory location. This principle is illustrated by the retinotopic maps: each column recognizes edges of light rotated to a different angle. When orientation sensitive cells like these are available at all image locations, processing of an entire image can occur. Different sensory modalities would require different feature detecting cells. The auditory cortex for example uses frequency tuned cells.
-	A mechanism common to all these sensory maps is lateral inhibition. Columns which strongly match a particular input feature tend to suppress nearby competing cells. This sort of winner-take-all mechanism can cause self organization.
+This diagram shows how the area of the cortex mapped out in the previous diagram
+reorganized itself after sensory input from the little finger was cut off by
+deafferentiation. Much less information comes from that finger, so its
+representation occupies less space in the map. Notice as well, the areas devoted
+to other fingers have expanded to use the extra neurons now available. (ref XXX)
+
+Typical self organizing maps are arranged in cortical columns. Each column tends
+to recognize a particular feature of the input, coming from a particular sensory
+location. This principle is illustrated by the retinotopic maps: each column
+recognizes edges of light rotated to a different angle. When orientation
+sensitive cells like these are available at all image locations, processing of
+an entire image can occur. Different sensory modalities would require different
+feature detecting cells. The auditory cortex for example uses frequency tuned
+cells.
+
+A mechanism common to all these sensory maps is lateral inhibition. Columns
+which strongly match a particular input feature tend to suppress nearby
+competing cells. This sort of winner-take-all mechanism can cause self
+organization.
 
 LATERAL INHIBITION CURVE
 
-	This curve shows lateral inhibition as a function of distance, derived from experimental measurements in cortex. The central peak is excitatory, and extends in cortex for a range of 50 to 100 micrometers. The inhibitory surround extends out from there to 200 to 500 micrometers, and beyond that, there is a weak excitatory area (Kohonen, 1988). This type of response function is the typical "on-center, off-surround” receptive field.
+This curve shows lateral inhibition as a function of distance, derived from
+experimental measurements in cortex. The central peak is excitatory, and extends
+in cortex for a range of 50 to 100 micrometers. The inhibitory surround extends
+out from there to 200 to 500 micrometers, and beyond that, there is a weak
+excitatory area (Kohonen, 1988). This type of response function is the typical
+"on-center, off-surround" receptive field.
 
 
+4.2: ON-CENTER, OFF-SURROUND CELLS
+----------------------------------
 
-.c24.2: ON-CENTER, OFF-SURROUND CELLS
+Many cells in the visual cortex have receptive fields which are biased towards
+detecting light areas surrounded by dark, or dark areas surrounded by light.
+These cells are called on-center, off-surround cells and off-center on-surround
+cells. Many of these cells working together in a competitive network can perform
+edge detection and noise suppression. Noise suppression is easily accomplished
+by these cells, because noise tends to average to a uniform level, especially at
+a small scale, like that of the receptive fields of individual cells.
 
-	Many cells in the visual cortex have receptive fields which are biased towards detecting light areas surrounded by dark, or dark areas surrounded by light. These cells are called on-center, off-surround cells and off-center on-surround cells. Many of these cells working together in a competitive network can perform edge detection and noise suppression. Noise suppression is easily accomplished by these cells, because noise tends to average to a uniform level, especially at a small scale, like that of the receptive fields of individual cells.
+DIAGRAM Original signal, noisy signal, and averaged noise.
 
-  Original signal, noisy signal, and averaged noise.
+In the field of image processing, the Laplacian operator takes advantage of this
+fact to smooth pixel images.
 
-	In the field of image processing, the Laplacian operator takes advantage of this fact to smooth pixel images.
+LAPLACIAN OPERATOR AND BEFORE AFTER IMAGES
 
- LAPLACIAN OPERATOR AND BEFORE AFTER IMAGES
-
-	An image is convolved with the Laplacian - the operator is used on every pixel. When every pixel is averaged with its neighbours, noise in the image blurs away. An alternative to the Laplacian kernel is the Gaussian kernel, which operates in much the same way, but has different receptive field properties.
+An image is convolved with the Laplacian - the operator is used on every pixel.
+When every pixel is averaged with its neighbours, noise in the image blurs away.
+An alternative to the Laplacian kernel is the Gaussian kernel, which operates in
+much the same way, but has different receptive field properties.
 
 DIAGRAM LAPLACIAN KERNEL AND BEFORE/AFTER IMAGES
 
-	The receptive field of a cell with concentric mutually antagonistic receptive fields is conceptually similar to the Laplacian and Gaussian operators. These cells reinforce their output when the center of their receptive field is bright, and they tend to inhibit themselves if the area surrounding that central section is bright. For that reason, the uniform light levels of a noisy image would tend to suppress output, due to the contrary excitation and inhibition across the receptive field.
+The receptive field of a cell with concentric mutually antagonistic receptive
+fields is conceptually similar to the Laplacian and Gaussian operators. These
+cells reinforce their output when the center of their receptive field is bright,
+and they tend to inhibit themselves if the area surrounding that central section
+is bright. For that reason, the uniform light levels of a noisy image would tend
+to suppress output, due to the contrary excitation and inhibition across the
+receptive field.
 
 DIAGRAM ON-CENTER OFF-SURROUND CELL AND MEXICAN HAT
 
-The "Mexican hat” curve is described by the function:
+The "Mexican hat" curve is described by the function:
 F(sin r,|r|)  where r is radius from the center of the curve.
 
-DESCRIBE HOW ON CENTER OFF SURROUND CELLS PERFORM FIRST ORDER IMAGE PROCESSING, AND HOW 2nd ORDER PROCESSING IS CARRIED OUT BY ORIENTATION SENSITIVE CELLS, AND RELATE 2nd ORDER PROCESSING TO SELF ORGANIZATION.
+DESCRIBE HOW ON CENTER OFF SURROUND CELLS PERFORM FIRST ORDER IMAGE PROCESSING,
+AND HOW 2nd ORDER PROCESSING IS CARRIED OUT BY ORIENTATION SENSITIVE CELLS, AND
+RELATE 2nd ORDER PROCESSING TO SELF ORGANIZATION.
 
-	In an image processing network, every cell is connected to its neighbours in a similar fashion. Inhibition is greater farther away from the active cell to aid self-organization in the system.
-	On-center, off-surround cells can also perform edge detection.
+In an image processing network, every cell is connected to its neighbours in a
+similar fashion. Inhibition is greater farther away from the active cell to aid
+self-organization in the system. On-center, off-surround cells can also
+perform edge detection.
+
+Cells one and three are subject to uniform levels all across their receptive
+fields, and thus, they have low outputs. Cell two, on the other hand has a
+gradient light level across it, so the inhibitory effects cancel, and its output
+is boosted. Since any cells with a strong gradient reinforce, and cells
+receiving a uniform light level are suppressed, edges are detected.
 
 
+4.3: THE SEARCHLIGHT HYPOTHESIS:
+--------------------------------
 
-	Cells one and three are subject to uniform levels all across their receptive fields, and thus, they have low outputs. Cell two, on the other hand has a gradient light level across it, so the inhibitory effects cancel, and its output is boosted. Since any cells with a strong gradient reinforce, and cells receiving a uniform light level are suppressed, edges are detected.
+If the thalamus is the gateway to the cortex, perhaps the reticular complex is
+the guardian of the gateway.
 
-
-
-.c24.3: THE SEARCHLIGHT HYPOTHESIS:
-
-If the thalamus is the gateway to the cortex, perhaps the reticular complex is the guardian of the gateway.
 - Francis Crick
 
+DIAGRAM
 
+It is a simple matter to find the o mixed in with all the s's.
 
-	It is a simple matter to find the o mixed in with all the s's.
-	Finding the italicized s in the picture takes a little longer, almost as if finding the o was done by a parallel search, and finding the s was done serially, by checking each s...
-	Francis Crick (1984) suggests the idea of an attentional spotlight, akin to a searchlight at dusk illuminating and intensifying part of a scene that is already somewhat visible. Due to its structure and location, the thalamus is hypothesized to be the location of the attentional spotlight.
-	With the exception of olfactory input, the senses pass through the thalamus on the way to the cortex. Most of the thalamic cells are relay cells, projecting excitatory synapses to the cortex. Efferent (from the cortex) projections don't necessarily pass through the thalamus on their way out, but from thalamus to cortex, there are reciprocal pathways.
-	The reticular complex is a thin sheet of cells, often only a few cells thick, which partially surrounding the thalamus. All connections between the cortex and the thalamus pass through the reticular complex. The cells of the reticular complex are GABAergic, which is to say, they are inhibitory. In this layer, the cells all share extensive lateral interconnections. (In contrast, the cells within the thalamus have few, if any, collaterals.) Because the reticular cells are almost all inhibitory, it follows that excitation within this layer must come from the axons that pass through it.
-	A lateral inhibitory net (which is what the reticular complex must be) will perform edge enhancement, noise suppression, and feature detection, as detailed in the previous section. These nets are characteristic of all topographic mappings such as the sensory homunculus, or the Kohonen self organizing feature net.
+Finding the italicized s in the picture takes a little longer, almost as if
+finding the o was done by a parallel search, and finding the s was done
+serially, by checking each s...
 
-	Perhaps a map of the cortex exists in the reticular complex. The searchlight could play upon the reticular complex, and should be able to sample the cortex, and thus determine "where the action is.” The searchlight itself would be expressed by an increase in firing rate in a subset of the thalamic neurons. Higher firing rates correspond to increased attention.*
+Francis Crick (1984) suggests the idea of an attentional spotlight, akin to a
+searchlight at dusk illuminating and intensifying part of a scene that is
+already somewhat visible. Due to its structure and location, the thalamus is
+hypothesized to be the location of the attentional spotlight.
 
-	The number of searchlights would depend upon the range and strengths of the reticular neuron's inhibitory connections. The number could perhaps be dynamic, flickering, spawning and fusing across the reticular surface, like the turbulent wanderings of a stream of thought. Conversely, the number of searchlights - the number of things that can be attended at one time - could be fixed.  Every topographically mapped section of the brain could have its own set of searchlights...
-	There is evidence that we can know the number of only six things at one time. We can look at a group of objects, and know: there is one, there are three, there are six. For seven things and higher, we must rely on symmetry, or we must count the objects.
+With the exception of olfactory input, the senses pass through the thalamus on
+the way to the cortex. Most of the thalamic cells are relay cells, projecting
+excitatory synapses to the cortex. Efferent (from the cortex) projections don't
+necessarily pass through the thalamus on their way out, but from thalamus to
+cortex, there are reciprocal pathways.
+
+The reticular complex is a thin sheet of cells, often only a few cells thick,
+which partially surrounding the thalamus. All connections between the cortex and
+the thalamus pass through the reticular complex. The cells of the reticular
+complex are GABAergic, which is to say, they are inhibitory. In this layer, the
+cells all share extensive lateral interconnections. (In contrast, the cells
+within the thalamus have few, if any, collaterals.) Because the reticular cells
+are almost all inhibitory, it follows that excitation within this layer must
+come from the axons that pass through it.
+
+A lateral inhibitory net (which is what the reticular complex must be) will
+perform edge enhancement, noise suppression, and feature detection, as detailed
+in the previous section. These nets are characteristic of all topographic
+mappings such as the sensory homunculus, or the Kohonen self organizing feature
+net.
+
+Perhaps a map of the cortex exists in the reticular complex. The searchlight
+could play upon the reticular complex, and should be able to sample the cortex,
+and thus determine "where the action is." The searchlight itself would be
+expressed by an increase in firing rate in a subset of the thalamic neurons.
+Higher firing rates correspond to increased attention.*
+
+The number of searchlights would depend upon the range and strengths of the
+reticular neuron's inhibitory connections. The number could perhaps be dynamic,
+flickering, spawning and fusing across the reticular surface, like the turbulent
+wanderings of a stream of thought. Conversely, the number of searchlights - the
+number of things that can be attended at one time - could be fixed.  Every
+topographically mapped section of the brain could have its own set of
+searchlights...
+
+There is evidence that we can know the number of only six things at one time. We
+can look at a group of objects, and know: there is one, there are three, there
+are six. For seven things and higher, we must rely on symmetry, or we must count
+the objects.
 
 DIAGRAM ONE OBJECT THREE OBJECTS EIGHT OBJECTS
 
 
-
-
-.c24.4: SYMMETRY:
+4.4: SYMMETRY:
+--------------
 
 DIAGRAM SLASHY SYMMETRY DIAGRAM ALA BRAITENBURG
 
-	We like symmetry, because we are symmetrically designed. Consider a wrist watch that must be wound: It's an easy task, right? You hold the watch in your left hand, and wind it with your right. Now, quickly imagine, what if you wind the watch with your left hand? Maybe a first impulse is to wind it in the exactly opposite way: holding it in the left hand and winding with the right. But, this is impossible...
-	Consider also left and right handed scissors. Why are there two different types? (Try cutting a piece of paper with the wrong hand, and observe why the scissors don't cut.)
-	Perhaps motor patterns are generalized symmetrically, and hence, we like symmetry... On the other hand, motor patterns can't generalize left to right too readily, otherwise, we would all be ambidextrous.
-	Perception of symmetry is a different problem. An example back propagation network cited in Rumelhart and McClelland's book "Parallel Distributed Processing” solves the problem of determining if a binary input pattern is symmetric.
- That solution is reconstructed here:
+We like symmetry, because we are symmetrically designed. Consider a wrist watch
+that must be wound: It's an easy task, right? You hold the watch in your left
+hand, and wind it with your right. Now, quickly imagine, what if you wind the
+watch with your left hand? Maybe a first impulse is to wind it in the exactly
+opposite way: holding it in the left hand and winding with the right. But, this
+is impossible...
 
+Consider also left and right handed scissors. Why are there two different types?
+(Try cutting a piece of paper with the wrong hand, and observe why the scissors
+don't cut.)
 
+Perhaps motor patterns are generalized symmetrically, and hence, we like
+symmetry... On the other hand, motor patterns can't generalize left to right too
+readily, otherwise, we would all be ambidextrous.
 
-	If symmetry is broken, the hidden units will detect the fact... The sum of the weighted inputs arriving at the hidden units will not be zero, and asymmetry will thus be detected. This arrangement can be criticized as being biologically impossible for the simple reason that the weights are increasing by powers of two, and therefore recognizing the symmetry of a larger problem might be quite impossible. An argument for plausibility could be made by considering the limited number of items that can be attended at one time, as discussed at the end of Section 4.2.
-	In the epilogue to the revised edition of "Perceptrons” by Minsky and Papert it is suggested that the problem is in fact biologically plausible, because humans have difficulty perceiving symmetry in some cases:
-HL4SD7NKf3fKN7DS4LH
+Perception of symmetry is a different problem. An example back propagation
+network cited in Rumelhart and McClelland's book "Parallel Distributed
+Processing" solves the problem of determining if a binary input pattern is
+symmetric.
 
-	Unfortunately for this argument, extra processing is involved in this example, because we must first read the characters before we can check for symmetry, and when we check the pattern, we must do it serially, a character at a time, rather than all at once.
-	I offer two intriguing clues to the perception of symmetry, and no conclusion:
-	Left-right visual symmetry, for example two half-photographs of a face juxtaposed, are perceived as being normal, even if the halves don't match... Random dot patterns with several prominent dots symmetrically placed, but with most randomly located, will be perceived as symmetric.
+That solution is reconstructed here:
+
+DIAGRAM
+
+If symmetry is broken, the hidden units will detect the fact... The sum of the
+weighted inputs arriving at the hidden units will not be zero, and asymmetry
+will thus be detected. This arrangement can be criticized as being biologically
+impossible for the simple reason that the weights are increasing by powers of
+two, and therefore recognizing the symmetry of a larger problem might be quite
+impossible. An argument for plausibility could be made by considering the
+limited number of items that can be attended at one time, as discussed at the
+end of Section 4.2.
+
+In the epilogue to the revised edition of "Perceptrons" by Minsky and Papert it
+is suggested that the problem is in fact biologically plausible, because humans
+have difficulty perceiving symmetry in some cases:
+
+DIAGRAM
+
+Unfortunately for this argument, extra processing is involved in this example,
+because we must first read the characters before we can check for symmetry, and
+when we check the pattern, we must do it serially, a character at a time, rather
+than all at once.
+
+I offer two intriguing clues to the perception of symmetry, and no conclusion:
+
+Left-right visual symmetry, for example two half-photographs of a face
+juxtaposed, are perceived as being normal, even if the halves don't match...
+Random dot patterns with several prominent dots symmetrically placed, but with
+most randomly located, will be perceived as symmetric.
 
 DIAGRAM "DOTS"
 
 
 
+4.5: RHYTHMS OF BEHAVIOUR:
+--------------------------
+
+The pineal gland, located under the cerebellum, plays a large part in
+establishing the body's rhythms, being implicated in the regulation of estrus
+and menstrual cycles, for example. In some animals, such as the salamander or
+tuatara reptiles of New Zealand, the pineal is near the surface of the body, and
+shows a response to light. XREF SALAMANDER POLARIZATION SENSITIVE CELLS. In
+humans, however it is buried quite deep. Melanotonin is released by the pineal
+and interacts with the suprachiasmatic nuclei area in the hypothalamus (Hyde,
+1988).
+
+The pituitary of the salamander has about 175 photoreceptors similar to
+vertebrate rod structures. These are oriented perpendicular to light arriving
+through the skull, and each is rotated to a particular angle. Assuming the
+photoreceptors within the receptor cells lie flat within the lamellar membranes,
+they would be sensitive to particular polarizations of light. Experiments in
+which salamanders were trained to swim towards a shore in an aquarium which lay
+along the axis of polarized light showed that the pineal gland did indeed make
+that information available to the salamander. The salamanders would swim in
+correspondence with the rotation of the light (Camhi 1984, p143-145). Insects as
+well are sensitive to phase orientation of light.
+
+The hypothalamus is located very near the pituitary, and seems to control
+production of hormones.
+
+The sun's electromagnetic field oscillates at 10 Hz, as does the human alpha
+rhythm. Cellular clocks. Pacemaker cells. Acetylcholine or various peptides
+might mediate sleep. The hippocampus appears to be involved with learning and
+conditioning. The limbic system has a lot to do with behavioural strategy - in
+particular, emotions. Feeding behaviour is controlled by the balance of hormones
+in the bloodstream.
 
 
-.c24.5: RHYTHMS OF BEHAVIOUR:
+4.6: FREQUENCY AND ALERTNESS:
+-----------------------------
 
-	The pineal gland, located under the cerebellum, plays a large part in establishing the body's rhythms, being implicated in the regulation of estrus and menstrual cycles, for example. In some animals, such as the salamander or tuatara reptiles of New Zealand, the pineal is near the surface of the body, and shows a response to light. XREF SALAMANDER POLARIZATION SENSITIVE CELLS. In humans, however it is buried quite deep. Melanotonin is released by the pineal and interacts with the suprachiasmatic nuclei area in the hypothalamus (Hyde, 1988).
-	The pituitary of the salamander has about 175 photoreceptors similar to vertebrate rod structures. These are oriented perpendicular to light arriving through the skull, and each is rotated to a particular angle. Assuming the photoreceptors within the receptor cells lie flat within the lamellar membranes, they would be sensitive to particular polarizations of light. Experiments in which salamanders were trained to swim towards a shore in an aquarium which lay along the axis of polarized light showed that the pineal gland did indeed make that information available to the salamander. The salamanders would swim in correspondence with the rotation of the light (Camhi 1984, p143-145). Insects as well are sensitive to phase orientation of light.
-	The hypothalamus is located very near the pituitary, and seems to control production of hormones.
-	The sun's electromagnetic field oscillates at 10 Hz, as does the human alpha rhythm. Cellular clocks. Pacemaker cells. Acetylcholine or various peptides might mediate sleep. The hippocampus appears to be involved with learning and conditioning. The limbic system has a lot to do with behavioural strategy - in particular, emotions. Feeding behaviour is controlled by the balance of hormones in the bloodstream.
-
-
-
-.c24.6: FREQUENCY AND ALERTNESS:
-
-	High heart rate implies high frequency implies higher alertness. The mammalian startle response consists of increased alertness. (Someone bangs the table, my heart rate increases, I pay attention.) XREF - INVERTEBRATE STARTLE RESPONSES
+High heart rate implies high frequency implies higher alertness. The mammalian
+startle response consists of increased alertness. (Someone bangs the table, my
+heart rate increases, I pay attention.) XREF - INVERTEBRATE STARTLE RESPONSES
 
 DESCRIBE WORK AT ORNL USING FREQUENCY CODED NETWORKS
 
+4.7: B-BRAINS AND FRONTAL LOBES:
 
-
-.c24.7: B-BRAINS AND FRONTAL LOBES:
-
-
-	Self awareness is perhaps nothing more than the sum total of activation in the nervous system, with some prodding from a B-Brain.
-
+Self awareness is perhaps nothing more than the sum total of activation in the
+nervous system, with some prodding from a B-Brain.
 
 DESCRIBE, WHERE DOES THIS MODEL COME FROM?
 
+The main brain, or A-Brain, is most intimately connected to the outside world,
+it is also where decisions and intentions are made.  It processes sensory data,
+relates it to experience, mulls over problems. In contrast, the B-Brain
+(proposed by Marvin Minsky, in Minsky, 1987) is completely isolated from the
+outside world. In fact, the B-Brain's world is the A-Brain. The B-Brain watches
+the A-Brain, providing a kind of self-awareness, interfering with the A-Brain if
+the A-Brain seems to be stuck in one particular mode of thought: the B-Brain
+gets bored.
 
-	The main brain, or A-Brain, is most intimately connected to the outside world, it is also where decisions and intentions are made.  It processes sensory data, relates it to experience, mulls over problems. In contrast, the B-Brain (proposed by Marvin Minsky, in Minsky, 1987) is completely isolated from the outside world. In fact, the B-Brain's world is the A-Brain. The B-Brain watches the A-Brain, providing a kind of self-awareness, interfering with the A-Brain if the A-Brain seems to be stuck in one particular mode of thought: the B-Brain gets bored.
-	The function of the B-Brain, then is to provide self-programming: frustration, elation, boredom; all the things necessary to keep the A-Brain from doing nothing or getting locked up in a non-productive mode. It could dampen overly emotional behaviour, or amplify relatively quiet activity. In this way, the B-Brain is reminiscent of Adaptive Heuristic Elements, or even the Automatic Gain Control on radios and TVs.
-	The concept of the B-Brain establishes a powerful new paradigm for network design, as it provides a way for networks to monitor and evaluate their actions. As networks become more and more complex, this ability will become more important. There is already a trend favouring this type of design, as demonstrated by the Adaptive Critic of Barto, Sutton and Anderson (1984), and the "consciences” being designed for Kohonen Self Organizing Feature Nets.
+The function of the B-Brain, then is to provide self-programming: frustration,
+elation, boredom; all the things necessary to keep the A-Brain from doing
+nothing or getting locked up in a non-productive mode. It could dampen overly
+emotional behaviour, or amplify relatively quiet activity. In this way, the
+B-Brain is reminiscent of Adaptive Heuristic Elements, or even the Automatic
+Gain Control on radios and TVs.
+
+The concept of the B-Brain establishes a powerful new paradigm for network
+design, as it provides a way for networks to monitor and evaluate their actions.
+As networks become more and more complex, this ability will become more
+important. There is already a trend favouring this type of design, as
+demonstrated by the Adaptive Critic of Barto, Sutton and Anderson (1984), and
+the "consciences" being designed for Kohonen Self Organizing Feature Nets.
 
 
 
@@ -992,107 +1670,281 @@ DESCRIBE, WHERE DOES THIS MODEL COME FROM?
 
 REWORK THIS SECTION WITH NEW FIGURES FROM MEAD 1990 IN NETWORKS MAGAZINE
 
-	Neurons occupy a volume of approximately one litre.  If we assume that there are on the order of ten billion neurons, each neuron would occupy about 10-7 cm. The packing density of neurons is therefore at least a hundred times greater than that possible for transistors.
-	In terms of power consumption, the brain radiates about 10 Watts, or about 10-9 Watts per neuron.  A neuron leads a transistor by a factor of about a hundred million.
-	A neuron can react in a time between 10-2 seconds to about 10-4 seconds, a speed at least a hundred thousand times slower than a transistor. (Quantities are from "The Computer and The Brain,” by John von Neumann, 1958.)
-	Neurons are energy efficient, small, and have an incredibly high connectivity, but they are very slow. Their extreme connectivity lets them implement inherently parallel processing; the term massively parallel is currently in vogue.
-	Digital circuitry is very fast, but inherently serial, and this is the tradeoff. This is what allows us to model nervous systems on computers.
-	Long range connections in the nervous system are digital, conveyed as all-or-nothing axonal impulses. Locally, processing can be either analog or digital, conversion taking place freely between the two modes. The amacrine interneurons of the retina are strictly analog; and, they have no axons. The interface between motor neurons and muscle fibres is an example of a location where digital to analog conversion takes place.
+Neurons occupy a volume of approximately one litre.  If we assume that there are
+on the order of ten billion neurons, each neuron would occupy about 10-7 cm. The
+packing density of neurons is therefore at least a hundred times greater than
+that possible for transistors.
+
+In terms of power consumption, the brain radiates about 10 Watts, or about 10-9
+Watts per neuron.  A neuron leads a transistor by a factor of about a hundred
+million.
+
+A neuron can react in a time between 10-2 seconds to about 10-4 seconds, a speed
+at least a hundred thousand times slower than a transistor. (Quantities are from
+"The Computer and The Brain," by John von Neumann, 1958.)
+
+Neurons are energy efficient, small, and have an incredibly high connectivity,
+but they are very slow. Their extreme connectivity lets them implement
+inherently parallel processing; the term massively parallel is currently in
+vogue.
+
+Digital circuitry is very fast, but inherently serial, and this is the tradeoff.
+This is what allows us to model nervous systems on computers.
+
+Long range connections in the nervous system are digital, conveyed as all-or-
+nothing axonal impulses. Locally, processing can be either analog or digital,
+conversion taking place freely between the two modes. The amacrine interneurons
+of the retina are strictly analog; and, they have no axons. The interface
+between motor neurons and muscle fibres is an example of a location where
+digital to analog conversion takes place.
 
 
-Section 1.3 introduces the sensory homunculus and tonotopic mapping.  Section 5.11 contains a general discussion of self organizing systems. Section 6.4.3 discusses the problems of the Perceptron.
+Section 1.3 introduces the sensory homunculus and tonotopic mapping.  Section
+5.11 contains a general discussion of self organizing systems. Section 6.4.3
+discusses the problems of the Perceptron.
 
-See section 4.1 for a discussion of topographic mappings, and section 7.4 for the Kohonen self organizing feature net which uses the principle.
+See section 4.1 for a discussion of topographic mappings, and section 7.4 for
+the Kohonen self organizing feature net which uses the principle.
 
 See section 4.6 for the importance of firing rate to attention.
 
 Section 7.3 is all about back propagation.
 
-
-cBEHAVIOUR, MEMORY, & SELF-ORGANIZATION
-5
-
-
-
+Chapter 5
+---------
+BEHAVIOUR, MEMORY, & SELF-ORGANIZATION
+======================================
 
 
-.c25.1: LEARNING IN REAL SYSTEMS
+5.1: LEARNING IN REAL SYSTEMS
+-----------------------------
 
-It is hard to justify the term ‘learning’ for a machine that relentlessly ignores its experience.
+It is hard to justify the term 'learning' for a machine that relentlessly
+ignores its experience.
+
 - Marvin Minsky & Seymour Papert in Perceptrons
 
 
-	No single neuron is aware of the functioning of an entire nervous system, yet nervous systems self-organize, global learning occurs on the basis of local interactions.  Neuronal memory is achieved through morphological adaptation of the soma, and through the size of the synaptic junctions. Synaptic development is attenuated (synaptic spines are elongated increasing internal resistance to conduction of action potentials) if fish are raised in an socially isolated environment, demonstrating that learning affects cell morphology (Coss & Globus 1978). Connections, connection characteristics, cell shape - all these affect the behaviour of a neuron. The manner in which all these factors interact could be considered the "device physics of the brain” (Stevens 1985).
+No single neuron is aware of the functioning of an entire nervous system, yet
+nervous systems self-organize, global learning occurs on the basis of local
+interactions.  Neuronal memory is achieved through morphological adaptation of
+the soma, and through the size of the synaptic junctions. Synaptic development
+is attenuated (synaptic spines are elongated increasing internal resistance to
+conduction of action potentials) if fish are raised in an socially isolated
+environment, demonstrating that learning affects cell morphology (Coss & Globus
+1978). Connections, connection characteristics, cell shape - all these affect
+the behaviour of a neuron. The manner in which all these factors interact could
+be considered the "device physics of the brain" (Stevens 1985).
 
 DIAGRAM OF GOLDFISH NEURONS
 
-	The simplest type of learning is association learning, where a particular stimulus comes to be associated with a particular response. Habituation is the lessening of sensitivity of an organism to a particular stimulus. Adaptation is .<DEFN> Negative reinforcement is the cessation of an aversive stimulus.
+The simplest type of learning is association learning, where a particular
+stimulus comes to be associated with a particular response. Habituation is the
+lessening of sensitivity of an organism to a particular stimulus. Adaptation is
+DEFINITION Negative reinforcement is the cessation of an aversive stimulus.
+
 DIAGRAM ASSOCIATION LEARNING SYSTEM + DESCRIPTION
 
-	Classical conditioning is an elaboration of association learning, possibly having the same underlying mechanism, but several more complex effects. Classical conditioning can be observed in organisms as complex as a human, or as simple as an earthworm. In fact, it can be observed at the level of individual neurons, as is the case in the gill withdrawal reflex of the sea slug Aplysia.
+Classical conditioning is an elaboration of association learning, possibly
+having the same underlying mechanism, but several more complex effects.
+Classical conditioning can be observed in organisms as complex as a human, or as
+simple as an earthworm. In fact, it can be observed at the level of individual
+neurons, as is the case in the gill withdrawal reflex of the sea slug Aplysia.
 
 DIAGRAM APLYSIA AND EXPERIMENT DESCRIPTION
 
-	There are many familiar examples of classical conditioning. Typically, an unconditioned stimulus (UCS), such as an electric shock, yields an unconditioned response (UCR), like a startle reflex. If a conditioning stimulus (CS), such as a ringing bell, is paired with the electric shock, eventually the bell will be all that is needed to evoke the startle response, the conditioned response (CR).
+There are many familiar examples of classical conditioning. Typically, an
+unconditioned stimulus (UCS), such as an electric shock, yields an unconditioned
+response (UCR), like a startle reflex. If a conditioning stimulus (CS), such as
+a ringing bell, is paired with the electric shock, eventually the bell will be
+all that is needed to evoke the startle response, the conditioned response (CR).
 
 	CS + UCS	fi UCR...	training
 	CS	fi CR... 	result
 
-	In an elaboration of the previous paradigm, if two CS's are presented simultaneously with an UCS, for example, if a ringing bell and a flashing light are presented at the same time as an electric shock, eventually either the bell or the light will be enough to evoke the CR.
+In an elaboration of the previous paradigm, if two CS's are presented
+simultaneously with an UCS, for example, if a ringing bell and a flashing light
+are presented at the same time as an electric shock, eventually either the bell
+or the light will be enough to evoke the CR.
 
 	(CS1 + CS2) + UCS	fi UCR... 	training
  	CS1	fi CR
 	CS2	fi CR... 	result
 
-	Another phenomenon is called blocking. To begin, simple classical conditioning is completed: for example a bell is paired with a shock. Then, if a second stimulus is presented in conjunction with the first, for example, a bell and a light and a shock all together, conditioning to the second stimulus will never occur. Perhaps the flashing light contains no extra informational value, so it is never associated with the shock.
+Another phenomenon is called blocking. To begin, simple classical conditioning
+is completed: for example a bell is paired with a shock. Then, if a second
+stimulus is presented in conjunction with the first, for example, a bell and a
+light and a shock all together, conditioning to the second stimulus will never
+occur. Perhaps the flashing light contains no extra informational value, so it
+is never associated with the shock.
 
 	CS1 + UCS	fi UCR...	training1
 	(CS1 + CS2) + UCS	fi UC...	training2
 	CS1	fi CR
 	CS2	πfi CR...	result
 
-	Classical conditioning demonstrates that feedback is vital to the learning process. In other words, an action must generate a perceptible response for learning to occur (Grossberg, 1980). DESCRIBE WHY THIS IS SO & IMPLICATIONS
+Classical conditioning demonstrates that feedback is vital to the learning
+process. In other words, an action must generate a perceptible response for
+learning to occur (Grossberg, 1980). DESCRIBE WHY THIS IS SO & IMPLICATIONS
 
-.c25.2: PLASTIC MEMORY
+5.2: PLASTIC MEMORY
+-------------------
 
-	Hubel and Wiesel established that there is a certain amount of localization of function in the nervous system: some cells in the striate cortex respond preferentially to bars of light at particular orientations. Certainly it would be impossible to genetically encode the preferences of these cells, therefore, they must learn their behaviour. Hubel and Wiesel further established that there is a period of plasticity (or changeablity) during which the cells self-organize and learn to respond to particular stimuli. For a long time, it was assumed that the cells keep their memory fixed after the initial period of plasticity has passed.
+Hubel and Wiesel established that there is a certain amount of localization of
+function in the nervous system: some cells in the striate cortex respond
+preferentially to bars of light at particular orientations. Certainly it would
+be impossible to genetically encode the preferences of these cells, therefore,
+they must learn their behaviour. Hubel and Wiesel further established that there
+is a period of plasticity (or changeablity) during which the cells self-organize
+and learn to respond to particular stimuli. For a long time, it was assumed that
+the cells keep their memory fixed after the initial period of plasticity has
+passed.
 
-	Whether or not learning shuts down at some point is a problem Stephen Grossberg calls the stability-plasticity dilemma. In model neural networks there are two almost paradoxical elements to be balanced. If the memories become fixed, they could become ultimately meaningless as the environment changes and the old memories no longer apply. On the other hand, if the codes never stop changing, meaningful generalization may never occur. Feedback is necessary to provide information about whether something is valid or not. (Non-linear feedback is generally used because linear feedback tends to amplify noise and send signals off to infinity.)
-	Experiments done later than Hubel and Wiesel's pioneering work, reported by Creutzfeldt and Huggelund (1975, cited in Fair, 1988), showed that orientation cells in cortex are still plastic in mature adults. Adult cats were kept in darkness, except for brief periods of light (one hour twice a day) for two weeks. While the light was on, the visual environment consisted only of vertical lines. They discovered that the number of neurons sensitive to orientations around the vertical actually decreased relative to the number of neurons responding to horizontal orientations, thus demonstrating plasticity.
-	Charles Fair (1988) suggests that the decrease was due to "mismatch overshooting,” a kind of over-sensitivity to "forgotten” orientations. He also suggests that the brain needs a constant level of "miscellaneously patterned input to maintain normal efficiency.”
-	Heron et al, (19xx, cited in Fair 1988) reported a study wherein human subjects underwent sensory deprivation for 48 hours, through partial immobilization and unpatterned sound and visual stimuli. The subjects wore translucent goggles so that the subjects could see only vague blurs rather than dark or light. When the goggles were removed, various visual abnormalities were observed: walls appeared to move in and out, "abnormally strong” afterimages were seen. Opaque goggles were then placed on some of the subjects who were still hallucinating. Within two hours, the hallucinations were gone or reduced, suggesting that nonpatterned input has more of a "destructuring effect” than simple darkness. (This observation has important implications for artificial neural networks, as well as for natural ones.)
-	Dreams could help prevent this destructuring effect during sleep. Slow wave, dreamless sleep is the time when the cells of the central nervous system ‘recharge’: the metabolic processes go into full swing. This process could be destructive to memory, however. About every ninety minutes therefore, slow wave sleep is interrupted by REM sleep which could serve to keep memory structured.
+Whether or not learning shuts down at some point is a problem Stephen Grossberg
+calls the stability-plasticity dilemma. In model neural networks there are two
+almost paradoxical elements to be balanced. If the memories become fixed, they
+could become ultimately meaningless as the environment changes and the old
+memories no longer apply. On the other hand, if the codes never stop changing,
+meaningful generalization may never occur. Feedback is necessary to provide
+information about whether something is valid or not. (Non-linear feedback is
+generally used because linear feedback tends to amplify noise and send signals
+off to infinity.)
+
+Experiments done later than Hubel and Wiesel's pioneering work, reported by
+Creutzfeldt and Huggelund (1975, cited in Fair, 1988), showed that orientation
+cells in cortex are still plastic in mature adults. Adult cats were kept in
+darkness, except for brief periods of light (one hour twice a day) for two
+weeks. While the light was on, the visual environment consisted only of vertical
+lines. They discovered that the number of neurons sensitive to orientations
+around the vertical actually decreased relative to the number of neurons
+responding to horizontal orientations, thus demonstrating plasticity.
+
+Charles Fair (1988) suggests that the decrease was due to "mismatch
+overshooting," a kind of over-sensitivity to "forgotten" orientations. He also
+suggests that the brain needs a constant level of "miscellaneously patterned
+input to maintain normal efficiency."
+
+Heron et al, (19xx, cited in Fair 1988) reported a study wherein human subjects
+underwent sensory deprivation for 48 hours, through partial immobilization and
+unpatterned sound and visual stimuli. The subjects wore translucent goggles so
+that the subjects could see only vague blurs rather than dark or light. When the
+goggles were removed, various visual abnormalities were observed: walls appeared
+to move in and out, "abnormally strong" afterimages were seen. Opaque goggles
+were then placed on some of the subjects who were still hallucinating. Within
+two hours, the hallucinations were gone or reduced, suggesting that nonpatterned
+input has more of a "destructuring effect" than simple darkness. (This
+observation has important implications for artificial neural networks, as well
+as for natural ones.)
+
+Dreams could help prevent this destructuring effect during sleep. Slow wave,
+dreamless sleep is the time when the cells of the central nervous system
+'recharge': the metabolic processes go into full swing. This process could be
+destructive to memory, however. About every ninety minutes therefore, slow wave
+sleep is interrupted by REM sleep which could serve to keep memory structured.
+
 DESCRIPTION IMPLICATIONS OF DREAMING FROM LITERATURE
 
 
+5.3: DISTRIBUTED MEMORY
+-----------------------
 
-.c25.3: DISTRIBUTED MEMORY
+Memory traces survive any cortical lesion, provided some portion of cortex
+remains intact.
 
-
-Memory traces survive any cortical lesion, provided some portion of cortex remains intact.
 - Karl S. Lashley
 
 
-	Donald Hebb argued for distributed memory in his famous book "The Organization of Behaviour,” (1949) and his lasting contribution in this area was the concept of cell assemblies. His idea was that
+Donald Hebb argued for distributed memory in his famous book "The Organization
+of Behaviour," (1949) and his lasting contribution in this area was the concept
+of cell assemblies. His idea was that
 
-"any frequently repeated stimulation will lead to the slow development of a cell assembly, a diffuse structure comprising cells in the cortex... capable of acting briefly as a closed system, delivering facilitation to other such systems and usually having a specific motor facilitation.  A series of such events constitutes a phase sequence - the thought process. Each assembly action may be aroused by a preceding assembly, by a sensory event, or - normally by both. The central facilitation from one of these activities on the next is the process of attention.”
+"any frequently repeated stimulation will lead to the slow development of a cell
+assembly, a diffuse structure comprising cells in the cortex... capable of
+acting briefly as a closed system, delivering facilitation to other such systems
+and usually having a specific motor facilitation.  A series of such events
+constitutes a phase sequence - the thought process. Each assembly action may be
+aroused by a preceding assembly, by a sensory event, or - normally by both. The
+central facilitation from one of these activities on the next is the process of
+attention.
 
 DESCRIPTION RELATING CELL ASSEMBLIES TO DISTRIBUTED MEMORIES
-	The concept of a cell assembly is a powerful one, and the idea that specific patterns lead to others in sequence is termed association.
-	Rumelhart and McClelland (1986) argue that a distributed memory is more robust than a localized memory where one cell corresponds to one concept, because the distributed memory survives the loss of individual units, and noise in the memory traces.  As cells fail, the degradation of system performance is gradual, rather than immediate and total. If a concept is represented by the joint action of one hundred cells, and one of those cells fails, the pattern will still be 99% accurate.
-	In the 1960s Bernard Widrow and his student Marcian Hoff were building the first adaptive filters, which were very much like neuron models. They had a working model, a huge box covered with potentiometers and meters that demonstrated learning using the Least Means Square (LMS) algorithm. They demonstrated it successfully to the people with the money. Later, when they stripped the unit down, they discovered cold solder joints, short circuits, even damaged components. Yet, due to the distributed nature of the design and feedback in the algorithm, the unit worked as if nothing was wrong (Widrow, 1988).
-	In the first half of this century, Lashley argued for full distribution of memories, thoughts, and mental patterns (engrams), based on the observation that destroying portions of cortex results in a gradual degradation of performance, rather than piecemeal loss of conceptual ability and memory. In a series of experiments involving lesions in the brains of various animals, he demonstrated that specific memories don't reside in any one particular spot in the cortex. Once a rat, for example, learns to solve a maze, it retains the ability to solve the maze until the entire cortex is destroyed, although performance slowly degrades and the rat makes more and more wrong turns. Summarizing thirty years of research in the paper "In Search of the Engram,” Lashley found that "memory traces survive any cortical lesion, provided some portion of cortex remains intact.” He reached the ultimate conclusion that every area of the brain was involved in storing every memory, and every area of the brain was in some way involved in every thought. This would be total distribution of brain functionality.
-	The opposite point of view, that an individual cell holds the complete representation of a single concept (for example, the activation of one cell represents the concept of ‘grandmother’) has been championed equally vociferously by the ‘connectionists.’
-	Memories are likely stored in terms of what already exists in memory. Understanding only occurs in terms of previous understanding. Imagine therefore a cell embodying the concept of ‘pen,’ connected to related cells such as ‘long,’ ‘thin,’ ‘ink,’ ‘writing,’ and so on. If the ‘pen’ cell were destroyed in that kind of grandmother cell based memory system, would not the concept of ‘pen’ still exist as an emergent property of the net, a consequence of the web of relations between all the other cells?
-	In that type of formulation, rather than having knowledge embodied in individual cells, concepts and generalizations could be stored in terms of connection strength and direction between ‘grandmother cells.’ This would result in a connected and weighted graph very similar in concept to Minsky's K-Lines (Minsky, 1988). Knowledge would be distributed between the cells, therefore the system would be robust.
-	Related to these ideas is the question of temporal ordering. How can a mind associate a memory with a particular time? Is the when of an event available as part of a memory, or is it remembered as an association? "What else was I doing then? Where was I? What time of year? Hmmm... Must have been the spring of 1983; or was it 1984?”
 
-	It seems after due contemplation of the literature, that both systems have merit, but neither paradigm alone can explain observable phenomenon.  Some sort of amalgam is necessary. In both vertebrate and higher invertebrate nervous systems, a high degree of differentiation and specialization of tissue is apparent, yet within the functional subsystems, there is a certain uniformity of structure (perhaps sometimes even self similar or fractal) and distribution of memories.
-	Obviously, the differentiation of the macrostructure points to a particular reconceptualization of the ‘grandmother cell’ concept, and the homogeneity of the microstructure naturally suggests the distribution of the engram.
+The concept of a cell assembly is a powerful one, and the idea that specific
+patterns lead to others in sequence is termed association.
 
+Rumelhart and McClelland (1986) argue that a distributed memory is more robust
+than a localized memory where one cell corresponds to one concept, because the
+distributed memory survives the loss of individual units, and noise in the
+memory traces.  As cells fail, the degradation of system performance is gradual,
+rather than immediate and total. If a concept is represented by the joint action
+of one hundred cells, and one of those cells fails, the pattern will still be
+99% accurate.
 
+In the 1960s Bernard Widrow and his student Marcian Hoff were building the first
+adaptive filters, which were very much like neuron models. They had a working
+model, a huge box covered with potentiometers and meters that demonstrated
+learning using the Least Means Square (LMS) algorithm. They demonstrated it
+successfully to the people with the money. Later, when they stripped the unit
+down, they discovered cold solder joints, short circuits, even damaged
+components. Yet, due to the distributed nature of the design and feedback in the
+algorithm, the unit worked as if nothing was wrong (Widrow, 1988).
 
-.c25.4: LONG AND SHORT TERM MEMORY
+In the first half of this century, Lashley argued for full distribution of
+memories, thoughts, and mental patterns (engrams), based on the observation that
+destroying portions of cortex results in a gradual degradation of performance,
+rather than piecemeal loss of conceptual ability and memory. In a series of
+experiments involving lesions in the brains of various animals, he demonstrated
+that specific memories don't reside in any one particular spot in the cortex.
+Once a rat, for example, learns to solve a maze, it retains the ability to solve
+the maze until the entire cortex is destroyed, although performance slowly
+degrades and the rat makes more and more wrong turns. Summarizing thirty years
+of research in the paper "In Search of the Engram," Lashley found that "memory
+traces survive any cortical lesion, provided some portion of cortex remains
+intact." He reached the ultimate conclusion that every area of the brain was
+involved in storing every memory, and every area of the brain was in some way
+involved in every thought. This would be total distribution of brain
+functionality.
+
+The opposite point of view, that an individual cell holds the complete
+representation of a single concept (for example, the activation of one cell
+represents the concept of 'grandmother') has been championed equally
+vociferously by the 'connectionists.'
+
+Memories are likely stored in terms of what already exists in memory.
+Understanding only occurs in terms of previous understanding. Imagine therefore
+a cell embodying the concept of 'pen,' connected to related cells such as
+'long,' 'thin,' 'ink,' 'writing,' and so on. If the 'pen' cell were destroyed in
+that kind of grandmother cell based memory system, would not the concept of
+'pen' still exist as an emergent property of the net, a consequence of the web
+of relations between all the other cells?
+
+In that type of formulation, rather than having knowledge embodied in individual
+cells, concepts and generalizations could be stored in terms of connection
+strength and direction between 'grandmother cells.' This would result in a
+connected and weighted graph very similar in concept to Minsky's K-Lines
+(Minsky, 1988). Knowledge would be distributed between the cells, therefore the
+system would be robust.
+
+Related to these ideas is the question of temporal ordering. How can a mind
+associate a memory with a particular time? Is the when of an event available as
+part of a memory, or is it remembered as an association? "What else was I doing
+then? Where was I? What time of year? Hmmm... Must have been the spring of 1983;
+or was it 1984?"
+
+It seems after due contemplation of the literature, that both systems have
+merit, but neither paradigm alone can explain observable phenomenon.  Some sort
+of amalgam is necessary. In both vertebrate and higher invertebrate nervous
+systems, a high degree of differentiation and specialization of tissue is
+apparent, yet within the functional subsystems, there is a certain uniformity of
+structure (perhaps sometimes even self similar or fractal) and distribution of
+memories.
+
+Obviously, the differentiation of the macrostructure points to a particular
+reconceptualization of the 'grandmother cell' concept, and the homogeneity of
+the microstructure naturally suggests the distribution of the engram.
+
+5.4: LONG AND SHORT TERM MEMORY
+-------------------------------
 
 	Long Term Memory and Short Term Memory are frequently theorized to exist as completely different subsystems. This could simply be an old simplifying assumption devised by psychologists in order to explain observable phenomenon.
 	In actual fact, it could be that LTM is the physical representation of the memory trace and STM is the pattern of activation across that engram. The two conceptualizations therefore describe different aspects of the same system.
@@ -1100,18 +1952,20 @@ DESCRIPTION RELATING CELL ASSEMBLIES TO DISTRIBUTED MEMORIES
 	Perhaps a model of short term memory could be based upon a topological space. We could visualize it as a big white room with percepts forming the walls... Thoughts, sights, sounds, body feelings, and so on, forming a topological space. T he space would undergo continuous transformation, much as the view changes as the eyes are shifted.
 	In this model of short term memory, association strength is dependent upon the attention given to a particular percept - either external (a sensation) or internal (an association or thought).  The more unique a stimuli, the more likely it is to receive attention, the less unique, the more likely it is to fade, and be replaced by a different pattern of activation.
 	Percepts could undergo decay as time passes. Focussing the attentional spotlight on a percept would renew its strength, giving it time to form long term memory traces. Repeatedly focussing on a percept would therefore lead to learning.
-	"That reminds me of...” All aspects of the topological space excite long term memory stores (and each other), and if a strong enough resonance occurs, a new focus of attention is generated. "Hey! That reminds me of...”
+	"That reminds me of..." All aspects of the topological space excite long term memory stores (and each other), and if a strong enough resonance occurs, a new focus of attention is generated. "Hey! That reminds me of..."
 
 
 
-.c25.5: ALICE IN WONDERLAND
+5.5: ALICE IN WONDERLAND
+------------------------
 
-‘Am I who I was this morning?’
-asked Alice.
+Am I who I was this morning?
+
+- asked Alice
 
 
-.c25.6: PRINCIPLES OF SELF ORGANIZATION
-
+5.6: PRINCIPLES OF SELF ORGANIZATION
+------------------------------------
 
 Perhaps [the most puzzling aspect of the overall motion of a flock] is the strong impression of intentional, centralized control. Yet, all the evidence suggests that flock motion is merely the aggregate results of the actions of individual animals, each acting on the basis of its own perception of the world.
 - Craig W. Reynolds (1987)
@@ -1146,19 +2000,18 @@ c25.7: A SEARCH STRATEGY AND OTHER SIMPLE ALGORITHMS
 	Butterflies tend to return to the same place in their territory. (ref xxx Days of Insects)
 	Animals tend to adopt a strategy of straight line movements and turns while searching for something, rather than moving in continuous curves. As a target is approached, the angle of the turns increases, and the turns oc
 
-.cNEURON MODELS
-6
-
-
-
-
+Chapter 6
+---------
+NEURON MODELS
+=============
 
 
 Everything should be made as simple as possible, but no simpler.
+
 - Albert Einstein
 
 
-.c26.1: NEURAL MODELLING
+6.1: NEURAL MODELLING
 
 
 	Research into network models proceeds on a variety of levels, ranging from the macro scales of sociological interaction, to the micro scale of molecular and chemical processes.*
@@ -1185,7 +2038,7 @@ When an axon of cell A is near enough to excite a cell B, and repeatedly or pers
 - Donald O. Hebb
 
 
-	In "The Organization of Behaviour”, published in 1949, Hebb formulated the first detailed synaptic learning rule, a presynaptic and post-synaptic correlation rule. Variations of his rule are in common use today. Models which use a pre- post- synaptic learning rule are generally refered to as Hebbian models.
+	In "The Organization of Behaviour", published in 1949, Hebb formulated the first detailed synaptic learning rule, a presynaptic and post-synaptic correlation rule. Variations of his rule are in common use today. Models which use a pre- post- synaptic learning rule are generally refered to as Hebbian models.
 	The problem is, Hebb's law doesn't work as stated. It only allows for the increase of synaptic efficiency - synaptic weights in a pure Hebbian system will increase without bound. Such a system will never be stable because as the neurons learn, their weights will keep climbing towards infinity, until finally they are unrepresentable, or meaningless.
 	One possible solution which makes the rule work as true correlation learning is to state that neurons which fire together will have their synaptic efficiencies increased, and neurons that don't fire together will have their efficiencies decreased. An alternative is to introduce an inhibitory term so that cells that don't fire together tend to inhibit each other. Another solution in common use is to continually renormalize the weights of each cell, so that they always add up to a constant value, the theory here being that there can be only a certain amount of resource available to each cell. Learning rules making use of these modifications are also termed Hebbian, in honour of Hebb's ground breaking work.
 	Over the years, many variations have been suggested to make the rule work. It is important to remember that all the modifications introduced into systems of Hebbian learning are introduced to cover for the tendency of the weights to climb uncontrollably to infinity, and that these constraints, in general, are entirely arbitrary heuristics telling us nothing about real neurons.
@@ -1235,9 +2088,9 @@ S( ,n)(V))
 
 where:
 V : 	Potential, mV
-m : 	Sodium active conductance within the cell. 0<m<1
-h : 	Sodium active conductance outside the cell. 0<h<1
-n : 	Potassium active conductance. 0<n<1
+m : 	Sodium active conductance within the cell. 0 < m < 1
+h : 	Sodium active conductance outside the cell. 0 < h < 1
+n : 	Potassium active conductance. 0 < n < 1
 t : 	time interval, mS
 I : 	Current, mA/cm
 S(2, )
@@ -1497,8 +2350,8 @@ S( ,K)) increases the refractory period, making the neuron respond at a slower r
 
 
 
-.c26.5: THE HISTORY OF THE PERCEPTRON:
-
+6.5: THE HISTORY OF THE PERCEPTRON:
+-----------------------------------
 
 	The Perceptron was the first neural network model to be introduced in a completely specified form.
 	Of course, there had been many models introduced previously, but none had all the necessary elements: well defined operation of the neurons, rules for connectivity, a learning algorithm. Each problem had been addressed before, but never all in the same piece of work. Because the Perceptron was completely specified, had a training algorithm, and was rigourously analyzed, it had a major impact and a great many researchers jumped on the Perceptron bandwagon.
@@ -1515,12 +2368,12 @@ S( ,K)) increases the refractory period, making the neuron respond at a slower r
 
 	It's interesting to note that this neuron model evolved from a philosophical exercise, an attempt to develop a predicate calculus. Warren McCulloch was fascinated by multi-valued logic systems, and searched everywhere for one. The logic we regularly deal with is two-valued, binary, and for the predicate calculus described in their paper McCulloch and Pitts used binary logic. It's long been recognized that the output of a neuron is binary, all or none. McCulloch and Pitts used that as their initial assumption to insure that the activity of every neuron could be represented as a logical proposition.
 
-"To each reaction of any neuron there is a corresponding assertation of a simple proposition.”
+"To each reaction of any neuron there is a corresponding assertation of a simple proposition."
 
 	This implied conjunction and disjunction of propositions represented by activity in the nervous system.
 	They decided that a certain number of synapses, the neuron's threshold value, would have to be active in a given time slice or quantum before the neuron could fire. They stated that
 
-"temporal summation may be replaced by spatial summation”
+"temporal summation may be replaced by spatial summation"
 
 and this assumption is commonly used today. There would be two types of synapses, excitatory and inhibitory. The excitatory synapses would all have equivalent weight, and the action of the inhibitory synapse would be absolute, if an inhibitory synapse was active, the neuron would not fire. Other researchers would later discard those rules in favour of excitatory and inhibitory synapses that could take on different values or weights.
 	Finally, with the assumption that network structure doesn't change over time, they showed that networks of their formal neurons were equivalent in computational ability to a Turing machine, although, unlike a Turing machine, the networks would not be general purpose.
@@ -1545,10 +2398,10 @@ and this assumption is commonly used today. There would be two types of synapses
 .c26.5.3: WHAT THE PERCEPTRON COULDN'T DO *
 
 
-	A famous proof in the book "Perceptrons” is the "parity problem.” No combination of weights can induce a Perceptron to determine the parity of a bit pattern, unless at least one Perceptron is connected to every part of the input pattern.
-	The "parity problem,” and the "exclusive-or problem” both point out the need for multilayer networks. Unfortunately, in 1969, no convergence procedure existed for multi-layer networks.†
+	A famous proof in the book "Perceptrons" is the "parity problem." No combination of weights can induce a Perceptron to determine the parity of a bit pattern, unless at least one Perceptron is connected to every part of the input pattern.
+	The "parity problem," and the "exclusive-or problem" both point out the need for multilayer networks. Unfortunately, in 1969, no convergence procedure existed for multi-layer networks.†
 	A theorem was proved by Kolmogrov which showed that a multi-layer network with N(2N+1) nodes could learn any continuous function of N variables. Unfortunately the theorem doesn't give any clues as to how to generate the weights. (Lippmann 1987)
-	An interesting example from the book demonstrating the problems of linear separability is the "connectivity proof,”which involves diameter limited Perceptrons. A diameter limited Perceptron means that no single processing element can have access to the entire input space. The following set of figures is enough to show that no diameter limited Perceptron can determine whether a figure is connected or if it is not.
+	An interesting example from the book demonstrating the problems of linear separability is the "connectivity proof,"which involves diameter limited Perceptrons. A diameter limited Perceptron means that no single processing element can have access to the entire input space. The following set of figures is enough to show that no diameter limited Perceptron can determine whether a figure is connected or if it is not.
 
 
 
@@ -1569,18 +2422,34 @@ Because the Perceptron can only perform a weighted summation of its inputs, ther
 .c26.5.4: THE PERCEPTRON CONVERGENCE THEOREM
 
 
-	The Perceptron Convergence Theorem is states that a Perceptron can learn any group of linearly separable patterns. Of course, since the Perceptron is usally implemented on a digital computer, it has a finite set of states. "Convergence” is then rather a vacuous idea, because a solution could be reached by stepping through and testing every possible state. (Minsky and Paper, 1969) Time of convergence is the important factor, and it is this which the convergence algorithm tries to give us.
+	The Perceptron Convergence Theorem is states that a Perceptron can learn any group of linearly separable patterns. Of course, since the Perceptron is usally implemented on a digital computer, it has a finite set of states. "Convergence" is then rather a vacuous idea, because a solution could be reached by stepping through and testing every possible state. (Minsky and Paper, 1969) Time of convergence is the important factor, and it is this which the convergence algorithm tries to give us.
 	The classical Perceptron convergence algorithm works as follows:
 
 INSERT ALGORITHM HERE
 
 
-.c26.6: ADAPTIVE FILTERS
+6.6: ADAPTIVE FILTERS
+---------------------
 
+Adaptive filters are the result of the work of Bernard Widrow and Marcian Hoff,
+dating back to about the same period as the introduction of the Perceptron.
+Their model, called the Adaline (ADAptive LINear Element) made an immediate
+impact because of the tack taken by their presentation: rather than being a
+purely theoretical model, their paper "Adaptive Switching Circuits" was mostly
+concerned with practical applications and implementations (Widrow and Hoff,
+1960).
 
-	Adaptive filters are the result of the work of Bernard Widrow and Marcian Hoff, dating back to about the same period as the introduction of the Perceptron. Their model, called the Adaline (ADAptive LINear Element) made an immediate impact because of the tack taken by their presentation: rather than being a purely theoretical model, their paper "Adaptive Switching Circuits” was mostly concerned with practical applications and implementations (Widrow and Hoff, 1960).
-	The Adaline was put to immediate use, and has found its way into numerous applications. The original application was adaptive antennae, and today an adaptive filter trained by the Adaline's method of gradient descent is used extensively in communications: high speed modems, long distance telephone lines, satellite communications, and so on.
-	The Adaline was an adaptive system, designed to minimize the number of errors occurring during the execution of a particular task. An operator had to give examples of input to the system, and examples of the desired response, and the system learned to match the examples. The performance of the system was directly related to the extent of the system's experience.
+The Adaline was put to immediate use, and has found its way into numerous
+applications. The original application was adaptive antennae, and today an
+adaptive filter trained by the Adaline's method of gradient descent is used
+extensively in communications: high speed modems, long distance telephone lines,
+satellite communications, and so on.
+
+The Adaline was an adaptive system, designed to minimize the number of errors
+occurring during the execution of a particular task. An operator had to give
+examples of input to the system, and examples of the desired response, and the
+system learned to match the examples. The performance of the system was directly
+related to the extent of the system's experience.
 
 
 
@@ -1612,9 +2481,9 @@ INSERT ALGORITHM HERE
 
 
 	In a deterministic system, a regular periodic oscillator, say, the amount of information is very low: we know the amplitude of the oscillation, the period, the phase. On the other hand, in an indeterminate system, where no regular rule governs its operation, the information content is very high. Consider music for example: There is a long series of notes, each with its own description, or information. Each note is an event, and each event carries information with it. If an event is observed in an indeterminate system, that observation constitutes a specification of information.
-	Qualitatively, the less likely an event, the more information is associated with that event. These simple observations led Shannon and Weaver (Shannon, 1949 XXX) to lay the groundwork for modern information theory, and to other useful concepts, such as the ‘bit’, which is the smallest possible unit of information.
+	Qualitatively, the less likely an event, the more information is associated with that event. These simple observations led Shannon and Weaver (Shannon, 1949 XXX) to lay the groundwork for modern information theory, and to other useful concepts, such as the 'bit', which is the smallest possible unit of information.
 	Stochastic models describe causal processes in determinate or indeterminate probabilistic terms by using probability density functions, correlation, or other quantizing methods.
-	John von Neumann was searching for a language of the brain towards the end of his life. Theories about the brain typically employ the language and formalisms of physical law, and symbolic logic. In the final chapter of his book "The Computer and the Brain,” (1958), he suggests that the language of mathematics is not the language of the brain, but perhaps only a historical accident. "When we talk mathematics,” he said, "we may be discussing a secondary language based on the primary language used by the nervous system.”
+	John von Neumann was searching for a language of the brain towards the end of his life. Theories about the brain typically employ the language and formalisms of physical law, and symbolic logic. In the final chapter of his book "The Computer and the Brain," (1958), he suggests that the language of mathematics is not the language of the brain, but perhaps only a historical accident. "When we talk mathematics," he said, "we may be discussing a secondary language based on the primary language used by the nervous system."
 	For a computer, high accuracy is a given. In a nervous system, however, physical constraints limit the accuracy. Neurons have a certain maximum pulse rate, a certain charge and discharge rate: physical limitations. Only a small accuracy is possible, orders of magnitude less that that of a digital computer. This leads to a very low precision system, but a reliable one... The system is statistical, rather than deterministic. In a probability governed system, it doesn't make all that much difference if a bit is lost here or there.
 	An intriguing idea is to model network connectivity stochastically, or in terms of probability density functions. A well known model that used this approach to model a system with thousands of neurons was the bullfrog simulation, Rana Computrix, of Pellionisz (1977 XXX).
 
@@ -1654,7 +2523,7 @@ DESCRIPTION OF EXAMPLE HEBBIAN LEARNING SYSTEM (RECEPTIVE FIELDS)
 
 	Unfortunately, Hebb'by itself is not enough to model a neural system. The problem is that the rule only crease of synaptic efficiency:le because as the neurons learn worse,	Over the yearscompensateity, and that these constraints in generaldon't don't t each other. Another solutionsum to a constant value. The justification for this rule is that is only a certain amount of resource (neurotransmitter)
 
-DESCRIPTION MATHEMATICAL AND SIMULATION TREATMENT OF HEBBIAN LEARNING, CORRELATES TO LEARNING IN APLYSIAHodgkin-Huxley model established that it was possible to accurately model neuronal events. It demonstartediations in the conductances of sodium and pa neuron’ proposed by Hodgkin and Huxley describes the qualitative behaviour of neurons, but doesn'tor explain DESCRIPTION HOW MODEL WAS DERIVED. potentials in squid giant axons.6.3.1(,)
+DESCRIPTION MATHEMATICAL AND SIMULATION TREATMENT OF HEBBIAN LEARNING, CORRELATES TO LEARNING IN APLYSIAHodgkin-Huxley model established that it was possible to accurately model neuronal events. It demonstartediations in the conductances of sodium and pa neuron' proposed by Hodgkin and Huxley describes the qualitative behaviour of neurons, but doesn'tor explain DESCRIPTION HOW MODEL WAS DERIVED. potentials in squid giant axons.6.3.1(,)
 STANDARD EQUIVALENT ffect in electromagnetic theory.I	E		Following (MacGregor, 1987 pp. 251-253), the differential equations can be reformulated as frst-order equations, using the following generic equation:
 
 
@@ -1669,18 +2538,18 @@ DIAGRAM TRANSIENT ON RESPONSE DEMONSTRATION
 INSERT BOX WITH PROOF THAT PERCEPTRONS AND SINGLE LAYER BACKPROP NETS CAN COMPUTE ANY LINEARLY SEPARABLE FUNCTION.
 
 nearly separable, and graduallyle concept of neural computing.
-	That frustration major conceptual breakthroughsral computers. Perceptrons had after alltelligence was but a step away! the publication of "Perceptrons” by Minsky and Papert in 1969 is final blow to research at that time.
+	That frustration major conceptual breakthroughsral computers. Perceptrons had after alltelligence was but a step away! the publication of "Perceptrons" by Minsky and Papert in 1969 is final blow to research at that time.
 	When the book arriveda particular strictly defined Perceptron could and couldn't do.
 
 INSERT BOX ABOUT MINSKY AND PAPERT'S DEFINITION OF THE PERCEPTRON, EMPHASIZING NARROWNESS OF THE DEFINITION
 
-	Recently it has become popular to knock Minsky and Papert for the publication of this book. I feel this is not goodas I feel it marked dispelled.  Explanations like "workshis way, well... Just, because,”led by the release of Rumelhart and McClelland's "arallel Distributed Processing” in 1986.
-6.4it is still with us Chances are you have several hundred McCulloch-Pitts neurons on your wrist if you are wearing a digital watch.Td by multi-valued logic systemsspent years in the searchtrue or falsebynd Pitts used binary logic. It’ number of synapses, the neuron'used today in almost every neural network model (It is commonly expressed as the inner product of a synaptic weight vector w, and a signal vector x, arriving at those synapses:
+	Recently it has become popular to knock Minsky and Papert for the publication of this book. I feel this is not goodas I feel it marked dispelled.  Explanations like "workshis way, well... Just, because,"led by the release of Rumelhart and McClelland's "arallel Distributed Processing" in 1986.
+6.4it is still with us Chances are you have several hundred McCulloch-Pitts neurons on your wrist if you are wearing a digital watch.Td by multi-valued logic systemsspent years in the searchtrue or falsebynd Pitts used binary logic. It' number of synapses, the neuron'used today in almost every neural network model (It is commonly expressed as the inner product of a synaptic weight vector w, and a signal vector x, arriving at those synapses:
 I
 SUi, ,w
 S( ,i)x
 S( ,i)).
-	Tes were proposed: excitatory and inhibitory. . Ion that network structure doesn'y to a Turing machine, althoughis output6.4Some of the assumptions which led to the Perceptron also doomed it Some of the resulting problems are detailed in Section 6.4.3.randomness other assumptions proved moe useful:networknections. The system performs ‘similarity detection,’ example, one cell would be an ‘A’ detector, another a ‘B’ and so onform of ollowed the association units.
+	Tes were proposed: excitatory and inhibitory. . Ion that network structure doesn'y to a Turing machine, althoughis output6.4Some of the assumptions which led to the Perceptron also doomed it Some of the resulting problems are detailed in Section 6.4.3.randomness other assumptions proved moe useful:networknections. The system performs 'similarity detection,' example, one cell would be an 'A' detector, another a 'B' and so onform of ollowed the association units.
 
 DIAGRAM PERCEPTRON NETWORK (OPTICAL ILLUSION VERSION)
 
@@ -1694,8 +2563,8 @@ demonstrations are toy problems in thatghts that are infinitely large refer to6.
 
 6.5In the diagram above, t
 
-6.5do we need to filter the input?rn about the unknown system’
-6.6, for exampleand, in an indeterminate systemthe of the system, the information content is potentially vas andistinctul concepts, such as the ‘bit,’ possible unit of information.  Information theory leads to swhich n, or other quantizing methods. MUST RESEARCH THIS CONTENTION.aw
+6.5do we need to filter the input?rn about the unknown system'
+6.6, for exampleand, in an indeterminate systemthe of the system, the information content is potentially vas andistinctul concepts, such as the 'bit,' possible unit of information.  Information theory leads to swhich n, or other quantizing methods. MUST RESEARCH THIS CONTENTION.aw
  probabilistic system, it doesn'6.7being mentioned terms will become more and more familiar as time goes on. DESCRIBE WHAT LYAPUNOV COEFFICIENTS TELL US
 6.8
 
@@ -1703,7 +2572,7 @@ demonstrations are toy problems in thatghts that are infinitely large refer to6.
 
  The Back Propagation algorithm championed by the PDP group is described in Section 7.2.
 
- Minsky and Papert's "Perceptrons” of 1969 provides a readable and rigorous delineation of the Perceptron's capabilities.
+ Minsky and Papert's "Perceptrons" of 1969 provides a readable and rigorous delineation of the Perceptron's capabilities.
 
  Section 7.3 describes the back propagation algorithm which can train hidden layers.
 
@@ -1790,8 +2659,8 @@ DIAGRAM PHASE SPACE
 
 
 
-.c26.11.3: DETAILS OF THE ASE
-
+6.11.3: DETAILS OF THE ASE
+--------------------------
 
 	Barto, Sutton, and Anderson chose the broom-balancing problem to attack, we chose one closer to our field of interest. We wish to control the depth of an underwater robot as it cruises along above irregular ocean-floor terrain. The only information available to the robot is its distance from the ocean floor, and a failure signal. The failure signal is supplied whenever the robot goes too close to the bottom, or if it gets too far from the bottom. The robot doesn't know this however, and must work to avoid the punishing failure signal.
 	The system is comprised of three major parts: the robot, the ASE, and a state space decoder.
@@ -1864,7 +2733,7 @@ S( ,i)(t)
 r'(t) = r(t) + gp(t) - p(t-1)
 
 	The term g, the discount term, is provided so that in the absence of external reinforcement, the internal signals will gradually die away to nothing. When no failure has occurred, r(t) is zero. The internal reinforcement, is therefore the difference between the discounted predicted reinforcement gp(t), and the previous predicted reinforcement p(t-1).
-	If the system moves from a low danger state to a high danger state, the internal reinforcement will be negative, punishing the system. If, on the other hand, the system moves from a high danger state to a lower danger state, reinforcement will be positive: reward. To quote Barto, Sutton, and Anderson, "the system thus learns which states are safe, and which are dangerous.”
+	If the system moves from a low danger state to a high danger state, the internal reinforcement will be negative, punishing the system. If, on the other hand, the system moves from a high danger state to a lower danger state, reinforcement will be positive: reward. To quote Barto, Sutton, and Anderson, "the system thus learns which states are safe, and which are dangerous."
 	Let's examine equation 5 a little more closely. Upon failure, the output of the decoder, and consequently the ACE, p(t), will be zero, but the external reinforcement, r, will be -1. In this case, the internal reinforcement, r', will be the difference between the previous reinforcement signal, p(t-1) , and the failure signal. A fully predicted failure will therefore cause no reinforcement. Incorrect actions that came before the failure will be punished in accordance with how much the ACE's eligibility traces have decayed. The predictions of failure that came before the failure will be rewarded, because they were accurate predictions.
 	The equations governing learning in the ACE are very similar to those which control the ASE.
 v
@@ -1941,7 +2810,7 @@ where:
 .c26.11.7: ENHANCING THE ASE/ACE MODEL
 
 
-	A system having only two modes of control, up or down, is not very useful in the real world. There is the problem of wear from continually switching the thrusters on and off, and also unreasonable fuel consumption. A simple modification was to implement a "dead zone” at the central four boxes of the state diagram where the thrusters would automatically be disabled. Learning proceeded normally, and the system did shut its thrusters off periodically.
+	A system having only two modes of control, up or down, is not very useful in the real world. There is the problem of wear from continually switching the thrusters on and off, and also unreasonable fuel consumption. A simple modification was to implement a "dead zone" at the central four boxes of the state diagram where the thrusters would automatically be disabled. Learning proceeded normally, and the system did shut its thrusters off periodically.
 	This solution departed from the original specification of the problem - which was to have the system learn control by itself - so alternative ASE/ACE architectures were explored.
 	The basic model of the ASE/ACE system has only a single binary output. To add a third control option would require another bit of output.
 
@@ -2218,7 +3087,7 @@ There is an error in the equation as implemented
 .c27.2: THE HOPFIELD NETWORK
 
 
-Hopfield makes the portentous statement ‘this case is isomorphic with an Ising model,’ thereby allowing a deluge of physical theory and theorists to enter network modelling. The flood of new participants has transformed the field of neural networks.
+Hopfield makes the portentous statement 'this case is isomorphic with an Ising model,' thereby allowing a deluge of physical theory and theorists to enter network modelling. The flood of new participants has transformed the field of neural networks.
 - James A. Anderson (1988)
 
 
@@ -2246,10 +3115,10 @@ S( ,i) represents the current state of neuron i. U
 S( ,i) is the threshold of neuron i, typically taken to be zero.
  	Each neuron updates randomly and asynchronously in time, a stochastic process which takes place at some particular rate for each neuron.
 represents the current state of neuron i
-	T is the connection matrix describing the synaptic weighting, or "synaptic efficiency” that exists between units i and j.
+	T is the connection matrix describing the synaptic weighting, or "synaptic efficiency" that exists between units i and j.
 	Note that if a connection existed for i=j, along the main diagonal of the matrix, a neuron would have a connection going to itself: feedback, in other words.
 	Symmetrical connections were used because they allow for an easy analysis of network behaviour: specifically, generating the Lyapunov energy measure, as detailed below.
-	As V, the current output of a particular neuron, can take on only the values of zero or one, it represents a strong nonlinearity.  As such, it allows the model to make choices.  As Hopfield said, the very "essence of computation is nonlinear logical operations.”
+	As V, the current output of a particular neuron, can take on only the values of zero or one, it represents a strong nonlinearity.  As such, it allows the model to make choices.  As Hopfield said, the very "essence of computation is nonlinear logical operations."
 	The most important contribution of the Hopfield model was the introduction of an energy, or Lyapunov function.  For a symmetric matrix with no feedback, the Lyapunov is:
 E = -
 F(1,2)S
@@ -2266,7 +3135,7 @@ I
 SU(i≠j, , T
 S( ,ij)) V
 S( ,j)
-	Hopfield says "this case is isomorphic with an Ising model.” DESCRIPTION OF ISING MODEL
+	Hopfield says "this case is isomorphic with an Ising model." DESCRIPTION OF ISING MODEL
 	The energy function shows how the network converges to stable states.  DV
 S( ,i) is always positive, and since the energy, E, is bounded, iteration of the algorithm will lead to energy minimums: stable states. Similar memories often fuse into the same stable state.
 	To use a Hopfield network set up as an associative memory, the connection strengths between neurons must be initialized:
@@ -2293,7 +3162,8 @@ DEVELOP EQUATIONS FOR GRADED SYSTEM HERE
 
 
 
-.c27.2.1: SOME USES FOR THE HOPFIELD NETWORK
+7.2.1: SOME USES FOR THE HOPFIELD NETWORK
+-----------------------------------------
 
 DIAGRAM 4-BIT A/D CONVERTER
 
@@ -2363,10 +3233,10 @@ Another possibility, hyperacuity in neural systems, is described in Chapter 5.
 
 
 	Back Propagation trains multiple layer networks of Perceptron-like thresholding devices. The thresholding devices are typically nothing more than a weighted summer, a thresholder, and an output transfer function. The sigmoid curve is often chosen as the output transfer function for two reasons: it turns up frequently in neurobiological analyses, and Grossberg has analyzed the mathematics quite rigorously, proving the sigmoid's usefulness.
-	There is no advantage to computation using a multilayer linear system, because any sequence of linear transformations can be accomplished by an equivalent transformation in a single step. Even in a linear system, learning in a multiple layer network is more effective, because it allows progressive computation and transformation of the signal. The network can always be ‘folded’ into a single layer later.
+	There is no advantage to computation using a multilayer linear system, because any sequence of linear transformations can be accomplished by an equivalent transformation in a single step. Even in a linear system, learning in a multiple layer network is more effective, because it allows progressive computation and transformation of the signal. The network can always be 'folded' into a single layer later.
 	Another weakness of a linear system is that there is no curb to the values which can exist in such a system. This leads to both values that are unrepresentable, and to the ultimate meaningless of the weights: as the weights in some of the units grow without bound, the information contained in one weight as compared to another which has not been growing becomes less and less. The only valuable information left is order of magnitude, rather than the stored quantity.
 	Introducing the non-linearity takes care of the magnitude problem. Below a certain point, activity is forced towards zero, and above a certain point, activity heads towards saturation. The output function is almost always nonlinear, monotonically increasing, and differentiable at all points. The most common transfer functions are a step function, a clipped ramp, or a sigmoid. In the middle the sigmoid curve allows a near-linear response. A very steep sigmoid provides simple thresholding, like in the McCulloch-Pitts neuron. Shallower curves allow the responsiveness of the neuron to be fine tuned.
-	The original form of the back propagation network consisted of an input layer where signals could be presented, a hidden layer whose function was to devise an "internal representation of the world,” and an output layer which would generate a response pattern.
+	The original form of the back propagation network consisted of an input layer where signals could be presented, a hidden layer whose function was to devise an "internal representation of the world," and an output layer which would generate a response pattern.
 
 DIAGRAM A TYPICAL BACKPROP NET
 
@@ -2488,7 +3358,7 @@ F(dE,dw)
 Dw(t) = e
 F(dE,dw(t)) + aDw(t-1)
 
-	This equation is in time-step notation. It introduces a which is an exponential decay term between zero and one that determines the contribution of previous changes to the current weight change. This decay term is sometimes called the ‘momentum term.’ In practice, it is typically about 0.9.
+	This equation is in time-step notation. It introduces a which is an exponential decay term between zero and one that determines the contribution of previous changes to the current weight change. This decay term is sometimes called the 'momentum term.' In practice, it is typically about 0.9.
 
 
 
@@ -2496,7 +3366,7 @@ F(dE,dw(t)) + aDw(t-1)
 .c27.3.3: FEEDBACK IN BACK PROPAGATION NETWORKS
 
 
-	A common solution to achieve feedback in a back propagation network is to "unwrap” the network - copies are made of the original network for each extra step. The weights of each network copy are shared.
+	A common solution to achieve feedback in a back propagation network is to "unwrap" the network - copies are made of the original network for each extra step. The weights of each network copy are shared.
 
 
 
@@ -2538,7 +3408,7 @@ The nature of neural systems is to comply with the statistical nature of the env
 
 
 	The Kohonen net is based on the principle of the topographic mapping. (XXX NEED MORE NEED MORE)
-	This derivation follows that in Teuvo Kohonen's book, "Self Organization and Associative Memory” (Kohonen, 1988)
+	This derivation follows that in Teuvo Kohonen's book, "Self Organization and Associative Memory" (Kohonen, 1988)
 DESCRIBE DERIVATION OF FOLLOWING EQUATION
 
 h
@@ -2556,7 +3426,7 @@ g is the lateral inhibition function
 y is the input signal
 s is the transfer function, typically sigmoid.
 
-	Activity tends to cluster in a lateral inhibitory net, forming "bubbles” of activation. The size of the bubbles is dependent on the width of the lateral inhibitory function. (As an aside, lateral inhibition could implement an attention mechanism, perhaps in the reticular formation surrounding the thalamus.)
+	Activity tends to cluster in a lateral inhibitory net, forming "bubbles" of activation. The size of the bubbles is dependent on the width of the lateral inhibitory function. (As an aside, lateral inhibition could implement an attention mechanism, perhaps in the reticular formation surrounding the thalamus.)
 
 	A network of neurons is arranged in a grid - a linear array, a square matrix, an hexagonal matrix. The evidence of the orientation sensitive cells in the visual cortex is that in the vertical dimension, each cortical column responds to approximately the same stimuli.
 	Using actual brain structures as inspiration, we may suppose it is unnecessary to extend the model to more than two dimensions. Metaphorically, a neuron in a Kohonen network could correspond to a single cortical column.
@@ -2646,7 +3516,7 @@ You can't abstract the self-adjusting search mechanism from the attentional mech
 
 
 	Adaptive Resonance is based on the premise that expectancy governs perception. In a simple system where input is presented and a response appears, feedback is necessary for meaningful learning. Individual neural events, such as action potentials or habituation or whatever, require a larger framework to bind them together and give them relevance. Feedback resonance - resonance between expectancy and actual input - provides such a framework.
-	The Adaptive Resonance Theory (ART) also addresses what Grossberg calls the "capacity catastrophe.” Information keeps arriving from the environment, and a learning system can be overwhelmed. Knowledge gained earlier can be erased, or made unusable by crosstalk in a distributed system. Usually, learning is frozen at some point to prevent this from happening. Frozen weights require a stationary environment. Unfortunately, the real world is not static. Adaptive Resonance therefore continuously evolves new categories for information and refines old categories to reflect the environment.
+	The Adaptive Resonance Theory (ART) also addresses what Grossberg calls the "capacity catastrophe." Information keeps arriving from the environment, and a learning system can be overwhelmed. Knowledge gained earlier can be erased, or made unusable by crosstalk in a distributed system. Usually, learning is frozen at some point to prevent this from happening. Frozen weights require a stationary environment. Unfortunately, the real world is not static. Adaptive Resonance therefore continuously evolves new categories for information and refines old categories to reflect the environment.
 	The first step to understanding adaptive resonance is to imagine a possible error situation. Given a system where input is presented, and a response is elicited, what should happen if two markedly different inputs evoke the same response? It would be appropriate then to learn a new response.
 
 DIAGRAM LEARNING A NEW CATEGORY
@@ -2666,7 +3536,7 @@ DIAGRAM LEARNING A NEW CATEGORY
 DIAGRAM THE NECKER CUBE AND HEX CUBES
 
 	Which face forms the front of the Necker cube? Is the middle cube of the lower figure convex or concave? The percept switches back and forth as attention shifts, or as the eye moves, or possibly even as neurotransmitters charge and recharge.
-	To realize the adaptive resonance network, a lateral inhibitory circuit was designed. Grossberg called it a "recurrent shunting on-center off-surround network.”
+	To realize the adaptive resonance network, a lateral inhibitory circuit was designed. Grossberg called it a "recurrent shunting on-center off-surround network."
 
 DIAGRAM OF SAID NETWORK
 
@@ -2685,7 +3555,7 @@ MORE DIAGRAMS NECESSARY
 	The NeoCognitron couldn't recognize more than one pattern at a time, so feedback connections were added to the model. Selective attention was thus implemented.
 	At the input level, very small details are recognized - vertices, line segments, dots. Many cells recognize the same details, but at different positions. The next layer recognizes that certain features are active at a certain spot, and as the signal flows through each subsequent layer, more and more complex patterns are extracted and fewer and fewer cells are active. Finally, at the last layer, a character is recognized, and only a single cell is active (Johnson, 1987).
 	Once a single cell is activated, the backward connections come into play. During training, the backward connections are reinforced to the same magnitude of the forward connections. Because of the architecture of the network, signals retrace the same path backward as they followed forward.
-	Forward cells receive facilitation from the backward signal flow. At this point, noise in the pattern is suppressed. If the network is recognizing the letter ‘A’ for example, the final ‘A’ cell will not send reinforcement signals back along pathways that were not learned during training. The activity of the superfluous active cells will therefore decay to nothing .
+	Forward cells receive facilitation from the backward signal flow. At this point, noise in the pattern is suppressed. If the network is recognizing the letter 'A' for example, the final 'A' cell will not send reinforcement signals back along pathways that were not learned during training. The activity of the superfluous active cells will therefore decay to nothing .
 
 DIAGRAM FUKUSHIMA'S NEOCOGNITRON
 
@@ -2693,7 +3563,7 @@ DIAGRAM FUKUSHIMA'S NEOCOGNITRON
 
 
 
-This derivation follows that in "Learning Representations by Back-Propagating Errors” by Rumelhart et al., 1986.
+This derivation follows that in "Learning Representations by Back-Propagating Errors" by Rumelhart et al., 1986.
 
 
 Section 6.6 has a discussion of gradient descent and the problems of local minima.
@@ -2831,18 +3701,18 @@ Unicellular command vs consensus
 	Functional organization and differentiation within a network is possibly a result of the location of the neurons with respect to sensory input - the incoming information organizes the network, so the outer most layers are the most specialized.
 
 	There is a trend evident in invertebrate nervous system development. The various ganglia are quite large in older, more primitive forms. In the more modern species, the ventral and posterial ganglia tend to be smaller, and their functions are taken over by the head ganglia. Predatory species have more developed capabilities than do less active species. Hunting spiders, as an example, have more developed sensory processing capabilities than do webspinners. (A similar phenomenon in the case of vertebrates is the fact that grazing or scavenging organisms will have less developed brains than the predators.)
-	Invertebrate nervous systems generally have a ladder-like organization: the "rungs” are formed by segmental ganglia and the cerebral and caudal ganglia form either end. Examining more and more complex phyla shows that the ganglia become clustered closer and closer to the cerebral ganglion, being ultimately subsumed into it. Typically however, each segment of an invertebrate's body contains a variety of ganglia where local processing takes place.
+	Invertebrate nervous systems generally have a ladder-like organization: the "rungs" are formed by segmental ganglia and the cerebral and caudal ganglia form either end. Examining more and more complex phyla shows that the ganglia become clustered closer and closer to the cerebral ganglion, being ultimately subsumed into it. Typically however, each segment of an invertebrate's body contains a variety of ganglia where local processing takes place.
 	The ladder architecture is exemplified by the leech's nervous system (as illustrated below), but the circuit is fundamentally important to all invertebrates. Examples of the ladder architecture are the control of swimming in the leech, crawling in Nereis, chewing in the lobster's stomach, and walking in insects. A swimming motion is often accomplished by contraction of muscles on one side, and relaxation on the other. Symmetrical spikes could fire both sides, with contralateral inhibition of motoneurons providing the desired action. Inhibitory pathways could prevent repetitive ipselateral firing.
 
 DIAGRAM OF THE LEECH
 
-		Through the inhibitory connections between the ganglia, the ladder circuit forms a pattern generator. Even though pattern generators produce rhythmic outputs, pacemaker cells are seldom found in the circuits (Laurent and Hustert, 1988). Rather, the patterns are a consequence of the pattern of inhibitory connections between naturally charging and discharging cells. The patterns provide a low energy operational modality - the neurons settle into a pattern whereby they can all fire maximally in time. As an example, two identical neurons connected such that each inhibits the other will settle into a pattern whereby they fire alternately with the spikes maximally separated in time. This circuit is called the "half-center” model by (Pearson, 1976). The diagram below shows the results of a simulation demonstrating two Hodgkin-Huxley type neurons interconnected as the half-center model.
+		Through the inhibitory connections between the ganglia, the ladder circuit forms a pattern generator. Even though pattern generators produce rhythmic outputs, pacemaker cells are seldom found in the circuits (Laurent and Hustert, 1988). Rather, the patterns are a consequence of the pattern of inhibitory connections between naturally charging and discharging cells. The patterns provide a low energy operational modality - the neurons settle into a pattern whereby they can all fire maximally in time. As an example, two identical neurons connected such that each inhibits the other will settle into a pattern whereby they fire alternately with the spikes maximally separated in time. This circuit is called the "half-center" model by (Pearson, 1976). The diagram below shows the results of a simulation demonstrating two Hodgkin-Huxley type neurons interconnected as the half-center model.
 
 DIAGRAM A SIMPLE PATTERN GENERATOR
 
-	Pattern generators often produce several characteristic patterns, each modulated by varying levels of excitatory or inhibitory activity on the individual neurons. In a a walking controller, for example, several gaits can exist as emergent properties of the system - walk, pace, canter, trot , or run. All the patterns are produced by the same circuit, but are a consequence of different levels of tonic excitation, or possibly of differential activation of interneurons in the circuit. A separate circuit sometimes exists to ‘kickstart’ a pattern generator by providing an initial muscular wave, although it is possible that noise in a system could be a sufficient mechanism for self starting. It is important to remember that behaviour is distributed in all nervous systems, vertebrate and invertebrate. In general, the circuits controlling various behaviours can not generally be considered completely in isolation. In moths, for example, attempts to fly are accompanied by rhythmic discharges in the auditory neurons (Guthrie, 1980).
+	Pattern generators often produce several characteristic patterns, each modulated by varying levels of excitatory or inhibitory activity on the individual neurons. In a a walking controller, for example, several gaits can exist as emergent properties of the system - walk, pace, canter, trot , or run. All the patterns are produced by the same circuit, but are a consequence of different levels of tonic excitation, or possibly of differential activation of interneurons in the circuit. A separate circuit sometimes exists to 'kickstart' a pattern generator by providing an initial muscular wave, although it is possible that noise in a system could be a sufficient mechanism for self starting. It is important to remember that behaviour is distributed in all nervous systems, vertebrate and invertebrate. In general, the circuits controlling various behaviours can not generally be considered completely in isolation. In moths, for example, attempts to fly are accompanied by rhythmic discharges in the auditory neurons (Guthrie, 1980).
 
-	Behaviour is a function of an organism's perception of the environment, modulated by the senses, and controlled by the brain. The corpora penduculata or "mushroom body” is the brain of the insect. Its prime function is the integration of sensory information. The calyx performs visual processing; and the stalk and ventral lobes handle smell and other senses. The corpora penduculata is named for its shape, as shown in the diagram below.
+	Behaviour is a function of an organism's perception of the environment, modulated by the senses, and controlled by the brain. The corpora penduculata or "mushroom body" is the brain of the insect. Its prime function is the integration of sensory information. The calyx performs visual processing; and the stalk and ventral lobes handle smell and other senses. The corpora penduculata is named for its shape, as shown in the diagram below.
 
 DIAGRAM THE CORPORA MUSHROOM
 
@@ -2872,7 +3742,7 @@ The similarity of the walking systems in the cat and the cockroach suggests that
 - Keir Pearson (1976)
 
 
-	It is still a matter of debate as to whether gait patterns are produced primarily through central pattern control or as an emergent property of the sensory signals available to the local ganglia. There is some evidence for the first argument, and also for the second. The cockroach tends to operate in a ‘ballistic’ mode, moving in straight lines at top velocities using the simplest, fastest gait. In this case a sophisticated sensory driven pattern generation mechanism would be superfluous. On the other hand, an insect moving carefully on a treacherous surface will have to rely quite heavily on the information available from its feet (personal communication, Randall Beer, 1989).
+	It is still a matter of debate as to whether gait patterns are produced primarily through central pattern control or as an emergent property of the sensory signals available to the local ganglia. There is some evidence for the first argument, and also for the second. The cockroach tends to operate in a 'ballistic' mode, moving in straight lines at top velocities using the simplest, fastest gait. In this case a sophisticated sensory driven pattern generation mechanism would be superfluous. On the other hand, an insect moving carefully on a treacherous surface will have to rely quite heavily on the information available from its feet (personal communication, Randall Beer, 1989).
 	The control of locomotion is similar in all organisms - it is mediated by the brain, but controlled locally by the ganglia. The hypothesis that local ganglia control the walking reflex correlates quite well with the principles of information theory - for example, the principle that control should be located near the source of incoming data (Davis 1976). Cats and cockroaches whose brains have been severed from the central nerve cord will still walk if pushed or placed on a treadmill, demonstrating that walking is a local reflex action (Pearson 1976). Clearly the stepping motion is initiated as a function of sensory feedback.  However, the resulting gait patterns are not as regular as those produced by an intact animal. As will be demonstrated in the next section, a circuit with no central pattern control generates rather arbitrary gaits, thus demonstrating the need for some kind of coordination.
 
 
@@ -2883,7 +3753,7 @@ The similarity of the walking systems in the cat and the cockroach suggests that
 
 DIAGRAM OF MODEL
 
-	It is difficult to get robust behaviour with binary sensors - imagine that it was necessary to rely on hot/not hot sensors for touch: If the hot sensors reported "hot,” how would you know whether an object was pleasantly warm, or painful to touch? Different behaviours are appropriate in each case. In general, a range of return values is more informative.
+	It is difficult to get robust behaviour with binary sensors - imagine that it was necessary to rely on hot/not hot sensors for touch: If the hot sensors reported "hot," how would you know whether an object was pleasantly warm, or painful to touch? Different behaviours are appropriate in each case. In general, a range of return values is more informative.
 	The insect's leg has a variety of mechanoreceptors, some of which -correspond to forward and backward angle sensors: the spurs on the back of the foot signal backward extension, strain sensors in the insect's exoskeleton serve as forward angle sensors. In addition, the pads on the bottom of the insect's foot, the pulvilli, are load sensors (see Figure 14).
 	Natural sensory afferents have nonlinear responses and the simulations described in this chapter use reponses summarized below. The more extreme the angle of the leg, the greater the firing frequency of the sensory neurons - so that for very extreme angular displacements, the signals can't be ignored, and are therefore analogous to pain. This observation points the way to learning in the circuit, perhaps via instrumental conditioning.
 
@@ -2926,13 +3796,14 @@ DIAGRAM STEP CYCLE
 
 DIAGRAM REFLEXES
 
-	The retractor circuit is synergistic to the rest of the system - it helps generate the full motion of the foot during the walking cycle as detailed above. The leg withdrawal reflex provides a "stumble” which can allow the animal to deal with highly irregular terrain or obstacles. An example of how the reflex works is easily observed if the front of a cat's foot is tapped during the swing phase. The leg will suddenly halt its swing, quickly withdraw and lift, and the extend over the obstacle that blocked the leg's swing.
+	The retractor circuit is synergistic to the rest of the system - it helps generate the full motion of the foot during the walking cycle as detailed above. The leg withdrawal reflex provides a "stumble" which can allow the animal to deal with highly irregular terrain or obstacles. An example of how the reflex works is easily observed if the front of a cat's foot is tapped during the swing phase. The leg will suddenly halt its swing, quickly withdraw and lift, and the extend over the obstacle that blocked the leg's swing.
 	In the simulation, the circuitry of the stepping reflex was simulated using the Hodgkin-Huxley type neurons described in Section 6.3. The circuitry was duplicated six times, once for each leg (although the retractor and stumble reflexes were not simulated). If the central pattern generators are not interconnected, the circuit walks driven by sensory feedback. The gait patterns generated by this circuit are highly irregular however, due to the lack of any sort of inter-leg coordination beyond that provided by load information. Note that the only regular pattern observed is the tripod gait which results if the stance phase is driven at maximum speed.
 	The stepping reflex is quite robust and removing connections or randomly perturbing synaptic weights causes the gradual degradation of performance we have come to expect from neural networks. A leg will keep stepping even if all connections are corrupted to some small degree, thus demonstrating the inherent robustness of this circuit design.
 
 
 
 9.3.2: THE ROLE OF CENTRAL PATTERN GENERATION
+---------------------------------------------
 
 	Observation tells us that contralateral or adjacent pairs of legs never swing at the same time (Pearson, 1976). This set of constraints is sufficient to generate the full range of gaits observed in nature. The first connections conventionally hypothesized, therefore, connect the pattern generator cells (one for each leg) in an inhibitory ladder to produce coordination of all the legs. There is no central motor store, no programmed walking pattern. Rather walking is an emergent behaviour of this distributed system.
  The central pattern generators impose their oscillatory pattern upon the stepping reflex circuit of the previous section. Section 9.3.3 details a number of modes of operation of this circuit.
@@ -2951,11 +3822,11 @@ DIAGRAM THE TRIPOD GAIT
 	DIAGRAM PEARSON's BASIC CIRCUIT
 
 	The level of tonic excitation controls the speed of the stance phase by controlling the power and speed of the thrust applied to the leg. The time taken for the stance controls the speed at which the animal travels and consequently the gait. The speed the animal can run is continuously variable. Observation of cockroaches tells us that it can run at any speed from 1 to 80 cm/s (corresponding to leg frequencies of 1 to 23 Hz), and the various stepping patterns smoothly blend from one to the next.
-	Pearson's basic circuit is repeated six times to generate a preliminary circuit for an insect's locomotion controller. A command neuron can be added to the circuit, which inhibits the central pattern generators and motoneurons. Refer to the following diagram. If the command neuron becomes quiet, then the circuit should spontaneously begin walking, although it may be necessary to give the last pair of generators a burst of excitation to start the walking sequence. In a reciprocally connected system, excitation of an individual neuron should be able to activate the entire system (Davis 1976). The simulation of Beer and Chiel demonstrated this phenomenon. When the simulated cockroach was "pushec” it walked spontaneously (Beer and Chiel, 1989).
+	Pearson's basic circuit is repeated six times to generate a preliminary circuit for an insect's locomotion controller. A command neuron can be added to the circuit, which inhibits the central pattern generators and motoneurons. Refer to the following diagram. If the command neuron becomes quiet, then the circuit should spontaneously begin walking, although it may be necessary to give the last pair of generators a burst of excitation to start the walking sequence. In a reciprocally connected system, excitation of an individual neuron should be able to activate the entire system (Davis 1976). The simulation of Beer and Chiel demonstrated this phenomenon. When the simulated cockroach was "pushec" it walked spontaneously (Beer and Chiel, 1989).
 
 DIAGRAM PRELIMINARY CONTROLLER
 
-	Experimentation (Beer, Chiel, and Sterling, 1989) reveals that this circuit will indeed generate valid gaits, but it is not robust, as is demonstrated by "lesion” studies. If a ganglion is "damaged” the gait produced by the circuit quickly breaks down as all coordination is lost.
+	Experimentation (Beer, Chiel, and Sterling, 1989) reveals that this circuit will indeed generate valid gaits, but it is not robust, as is demonstrated by "lesion" studies. If a ganglion is "damaged" the gait produced by the circuit quickly breaks down as all coordination is lost.
 
 DIAGRAM A LESION STUDY.
 
@@ -2984,11 +3855,11 @@ This type of learning system is explored further in Section 6.9, where the Adapt
 
 The relationship of the timing of the stance and swing phases to gait pattern generation is detailed in section 9.3.3.
 
-Rodney Brooks has built upon the principal of emergent behaviours to generate his distributed subsumption architecture (Brooks, 1989). A major difference between that wrk and the work reported here is that in Brooks’ work, the gait pattern was precomputed and stored in the controlling computer's memory, whereas here the gaits are emergent behaviours of cooperating units.
+Rodney Brooks has built upon the principal of emergent behaviours to generate his distributed subsumption architecture (Brooks, 1989). A major difference between that wrk and the work reported here is that in Brooks' work, the gait pattern was precomputed and stored in the controlling computer's memory, whereas here the gaits are emergent behaviours of cooperating units.
 
 This hypothetical architecture doesn't tell the whole story. Insects placed on water, for example, can propel themselves with synchronous contralateral kicks. Some arthropods can walk backwards or even sideways. These are radically different behaviours, elicited by different sensory input, and are not behaviours supported by this architecture. It is possible that each different behaviour is controlled by a collection of disjoint pattern generating circuits, selected amongst by the cerebral ganglion (Hoyle, 1976).
 
-The "lesion” was performed by "switching off” the central pattern generator corresponding to the mddle right leg in the ladder architecture circuit.
+The "lesion" was performed by "switching off" the central pattern generator corresponding to the mddle right leg in the ladder architecture circuit.
 
 
 
@@ -3010,12 +3881,10 @@ editor, MIT Press, Cambridge MA, 1988
 
 
 APPENDIX A
-
-
-
-
+==========
 
 Beware jargon: it can hide ignorance, and carries little knowledge.
+
 - Frank Herbert
 
 
@@ -3162,7 +4031,7 @@ PICTURE FRAME
  habituation - learned conditioning to a stimulus. If a reflex habituates to repeated stimuli, the reaction to that particular stimuli becomes less and less. It is interesting to note that habituation and fatigue are a type of memory. see adaptation 1
 
  Hebbian learning - Learning methods which owe their basis to Donald Hebb's famous postulate:
- "When an axon of cell A is near enough to excite a cell B, and repeatedly or persistently takes part in firing it, some growth process or metabolic change takes place in one or both cells, such that A's efficiency as one of the cells firing B, is increased.”
+ "When an axon of cell A is near enough to excite a cell B, and repeatedly or persistently takes part in firing it, some growth process or metabolic change takes place in one or both cells, such that A's efficiency as one of the cells firing B, is increased."
 
 This rule is not enough to teach a network, but it is a good start.  The problem with the rule is that there is no way for synaptic weights to decrease. Systems which use Hebb's postulate as a basis for a learning rule are said to be Hebbian.
 
